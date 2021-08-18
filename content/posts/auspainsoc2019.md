@@ -1,10 +1,10 @@
 ---
-title: "Collaborate. Disseminate. Educate: #AusPainSoc on the Gold Coast"
+title: "Collaborate. Disseminate. Educate: AusPainSoc on the Gold Coast"
 date: 2019-04-12
 categories:
  - "Blog"
 tags:
- - "#AusPainSoc"
+ - "AusPainSoc"
  - "pain" 
 ---
 
