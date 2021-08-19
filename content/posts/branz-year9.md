@@ -9,6 +9,10 @@ tags:
  - "report"
 ---
 
+Summary of burn injuries in the 2017/18 financial year
+
+<!--more-->
+
 The ninth Annual Report from the BRANZ provides valuable information on the incidence and aetiology of burn injury across Australia and New Zealand. Data are presented for 3,459 burns patients treated at 17 specialist burn units over the 12-month period from 1st July 2017 to 30th June 2018. 
 
 The ninth Annual Report has a special focus on burns in older adults. This compliments the theme of the 43rd Annual Scientific meeting of the [Australian and New Zealand Burns Association](https://anzba.org.au/) - "Burns Across the Ages". The meeting be held in Hobart in October 2019. Check out the [meeting website](http://www.anzbaasm.com/hobart) for all the details. I'll be giving a more in-depth talk about burns in older adults.  
