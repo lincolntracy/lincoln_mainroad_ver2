@@ -3,7 +3,10 @@ title: "Research"
 date: 2021-08-19T18:47:40+10:00
 authorbox: false
 sidebar: false
-menu: main
+menu: 
+    main: 
+        name: "Research"
+        weight: 10
 ---
 
 ## Peer-Reviewed Publications
