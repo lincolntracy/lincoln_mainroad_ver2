@@ -6,7 +6,7 @@ sidebar: false
 menu: 
     main: 
         name: "Research"
-        weight: 10
+        weight: 20
 ---
 
 ## Peer-Reviewed Publications
