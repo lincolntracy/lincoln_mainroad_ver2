@@ -23,7 +23,7 @@ googleAnalytics = "UA-150393564-1"
   subtitle = "Researcher and Freelance Writer" # Logo subtitle
 
 [Params.style.vars]
-  highlightColor = "#f15c22"
+  highlightColor = "#014896"
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
