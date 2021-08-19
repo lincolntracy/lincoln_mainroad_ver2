@@ -8,10 +8,10 @@ menu: main
 
 ## Peer-Reviewed Publications
 
-# Accepted/In Press/Epub Ahead of Print
+### Accepted/In Press/Epub Ahead of Print
 Gong J, **Tracy LM**, Edgar DW, Wood F, Singer Y, & Gabbe BJ (accepted 21/04/2021). Poorer first aid after burn is associated with remoteness in Australia: Where to from here? Australian Journal of Rural Health. doi: 10.1111/AJR.12752
 
-# 2021
+### 2021
 McLure M, Macneil F, Wood FM, Cuttle L, Eastwood K, Bray J, & **Tracy LM** (2021). A Rapid Review of Burns First Aid Guidelines: Is There Consistency Across International Guidelines? Cureus 13(6): e15779. doi: 10.7759/cureus.15779
 
 Connolly S, Bertinetti M, Teague WJ, Gabbe BJ, & **Tracy LM** (2021). Sunburn Injuries Admitted to Burn Services in Australia and New Zealand. JAMA Dermatology, 157(6):729-731. doi: 10.1001/jamadermatol.2021.1110
