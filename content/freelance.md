@@ -55,7 +55,7 @@ menu:
 
 [Looking to Toxins to Understand Pain: A Chat With Australian Pain Society 2020 Rising Star Samuel Robinson](https://relief.news/2020/08/05/looking-to-toxins-to-understand-pain-a-chat-with-australian-pain-society-2020-rising-star-samuel-robinson/) | *RELIEF*, August 5 2020
 
-Racial Differences in Placebo Hypoalgesia | *Personal Website*, 25 July 2020
+[Racial Differences in Placebo Hypoalgesia](https://www.lincolntracy.com/posts/racial-differences-placebo-hypoalgesia/) | *Personal Website*, 25 July 2020
 
 [Improving Musculoskeletal Pain Care in Brazil Through Education: An Interview with Physiotherapist-Turned-Researcher Felipe Reis](https://relief.news/2020/07/15/improving-musculoskeletal-pain-care-in-brazil-through-education-an-interview-with-physiotherapist-turned-researcher-felipe-reis/) | *RELIEF*, 15 July 2020
 
@@ -152,7 +152,7 @@ Cops for Kids and the Australian Pain Society: Working Together to Support Resea
 
 Prescription Drug Diversion and Pain: History, Policy, and Treatment | *Australian Pain Society eNewsletter*, 2 April 2019
 
-Producing a Positive Mood Reduces Nocebo Effects | *Personal Website*, 29 March 2019
+[Producing a Positive Mood Reduces Nocebo Effects](https://www.lincolntracy.com/posts/mood-and-placebo/) | *Personal Website*, 29 March 2019
 
 [Heard It Through the Grapevine: Can Music Ease Pain?](https://relief.news/heard-it-through-the-grapevine-can-music-ease-pain/) | *RELIEF*, 25 March 2019
 
