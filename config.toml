@@ -21,6 +21,9 @@ paginate = "10" # Number of posts per page
 [Params.logo]
   subtitle = "Researcher and Freelance Writer" # Logo subtitle
 
+[Params.style.vars]
+  highlightColor = "#0e1e2d"
+
 [Params.sidebar]
   home = "right"   # Configure layout for home page
   list = "right"   # Configure layout for list pages
