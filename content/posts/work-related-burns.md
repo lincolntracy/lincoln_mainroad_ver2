@@ -8,6 +8,10 @@ tags:
  - "burn" 
 ---
 
+New publication in *Burns*
+
+<!--more-->
+
 Work-related injuries are a significant public health problem. A [2015 report from Safe Work Australia](https://www.safeworkaustralia.gov.au/system/files/documents/1702/cost-of-work-related-injury-and-disease-2012-13.docx.pdf) estimates the annual cost of work-related injuries to exceed $60 billion. 
 
 Burn injuries are one of the most devastating type of work-related injuries. Burn injury survivors often require prolonged periods of treatment and rehabilitation. These patients also experience many challenges when returning to work.  
