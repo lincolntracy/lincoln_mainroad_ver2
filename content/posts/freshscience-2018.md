@@ -8,7 +8,7 @@ tags:
  - "SciComm" 
 ---
 
-Recap from **Fresh Science**
+Recap from Fresh Science
 
 <!--more-->
 
