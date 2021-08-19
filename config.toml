@@ -3,6 +3,7 @@ languageCode = "en-au"
 title = "Lincoln M. Tracy, PhD"
 theme = "mainroad"
 paginate = "10" # Number of posts per page
+googleAnalytics = "UA-150393564-1"
 
 [Author]
   name = "Lincoln Tracy"
