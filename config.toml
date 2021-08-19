@@ -31,11 +31,11 @@ paginate = "10" # Number of posts per page
   # Enable widgets in given order
   widgets = ["search", "social", "recent", "categories", "taglist"]
 
-  [Params.widgets]
+[Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
 
- [Params.widgets.social] 
+[Params.widgets.social] 
   twitter = "lincolntracy"
   linkedin = "lincoln-tracy-14566979"
   email = "dr.lincoln.m.tracy@gmail.com"
