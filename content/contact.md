@@ -11,6 +11,7 @@ menu:
 
 Contact me via the form below. 
 
+{::nomarkdown}
 <form
   action="https://formspree.io/f/dr.lincoln.m.tracy@gmail.com"
   method="POST"
@@ -26,3 +27,4 @@ Contact me via the form below.
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
+{:/nomarkdown}
