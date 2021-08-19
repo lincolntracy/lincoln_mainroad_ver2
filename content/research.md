@@ -71,3 +71,42 @@ Petersen KK, Andersen HH, Tsukamoto M, **Tracy LM**, Koenig J, & Ardent-Nielsen 
 ### 2014
 Broadbear JH, Kabel D, **Tracy LM**, & Mak P (2014). [Oxytocinergic regulation of endogenous as well as drug-induced mood](https://www.sciencedirect.com/science/article/pii/S0091305713001676?via%3Dihub). *Pharmacology, Biochemistry and Behaviour*, 119, 61-71. doi: 10.1016/j.pbb.2013.07.002
 
+
+## Book Chapters
+
+### 2020
+Makovac E, **Tracy LM**, Koenig J (2020). Autonomic nervous system activity in itch and pain. In G Yosipovitch, HH Andersen, & L Arendt-Nielsen (Eds.) *Itch and Pain: Similarities, Interactions, and Differences*. Wolters Kluwer Health, Inc: Pennsylvania, USA. [p. 127-135](https://shop.lww.com/Itch-and-Pain/p/9781975153038).
+
+### 2017
+Giummarra MJ, **Tracy LM**, Young KA, & Fitzgibbon BM (2017). The social side of pain: What does it mean to feel another’s pain? In S. van Rysewyk (Ed.) *Meanings of pain.* Springer International Publishing: Switzerland. [p. 355-373](https://link.springer.com/chapter/10.1007/978-3-319-49022-9_21).
+
+
+## Published Conference Abstracts
+
+### 2017
+Perkins M, Giummarra MJ, & **Tracy LM** (2017). [The effect of oxytocin on autonomic flexibility following a traumatic experience: A pilot study](https://www.frontiersin.org/Community/AbstractDetails.aspx?ABS_DOI=10.3389/conf.fnhum.2017.224.00030&eid=4842&sname=ASP2017_27th_Annual_Meeting_for_the_Australasian_Society_for_Psychophysiology). *Front. Hum. Neurosci. Conference Abstract: 27th Annual Meeting of the Australasian Society for Psychophysiology*, Sydney, Australia. doi: 10.3389/conf.fnhum.2017.224.00030
+
+### 2016
+**Tracy LM** & Giummarra MJ (2016). [Females display increased empathy for pain and poorer autonomic regulation under cognitive stress compared to males](https://www.frontiersin.org/Community/AbstractDetails.aspx?ABS_DOI=10.3389/conf.fnhum.2016.221.00011&eid=4121&sname=ASP2016_-_The_26th_Annual_Meeting_of_the_Australasian_Society_for_Psychophysiology_Adelaide_Austral). *Front. Hum. Neurosci. Conference Abstract: 26th Annual Meeting of the Australasian Society for Psychophysiology*, Adelaide, Australia. doi: 10.3389/conf.fnhum.2016.221.00011
+
+### 2015
+**Tracy LM**, Gibson SJ, Georgiou-Karistianis N & Giummarra MJ (2015). Impact of explicit cuing on anxiety and arousal during the anticipation of thermal pain. *Anaesthesia and Intensive Care*, 43 (3), 380-411.
+
+
+## Technical Reports
+
+### 2021
+Burns Registry of Australia and New Zealand (2021). Annual Report 2019/20. Department of Epidemiology and Preventive Medicine, Monash University. Melbourne, Australia. [Available online](https://www.monash.edu/__data/assets/pdf_file/0009/2598534/BRANZ-11th-Annual-Report-Jul-19-Jun-20.pdf). 
+
+### 2020
+**Tracy LM** & Singer Y (2020). Tap Water Scalds in Australia and New Zealand: A Scald Prevention Collaboration Across Organisational Boundaries. Prepared for Australian Building Codes Board. 
+
+Connolly S, Tran S, Bertinetti M, & **Tracy LM** (2020). Exploring burn injuries that occur during school holidays in Australian and New Zealand school-aged children. Monash University. Melbourne, Australia. [Available online](https://www.monash.edu/__data/assets/pdf_file/0019/2234602/SchoolHolidayBurns_FINAL.pdf).
+
+**Tracy LM**, Rosenblum S, & Gabbe BJ (2020) Burns Registry of Australia and New Zealand (BRANZ) 2018/19 Annual Report. Department of Epidemiology and Preventive Medicine, Monash University. Melbourne, Australia. [Available online](https://www.monash.edu/__data/assets/pdf_file/0009/2191752/BRANZ-annual-report18_19_FINAL.pdf).
+
+### 2019
+**Tracy LM**, McInnes JA, Gong J, Karunakaran R, & Gabbe BJ (2019). Burns Registry of Australia and New Zealand 9th Annual Report. Monash University, Melbourne. [Available online](https://www.monash.edu/__data/assets/pdf_file/0003/1870005/BRANZ_AnnualReport_Year9_FINAL.pdf).
+
+### 2018
+**Tracy LM**, McInnes JA, Gong J, Gabbe BJ, & Thomas T (2018). Burns Registry of Australia and New Zealand 8th Annual Report. Monash University, Melbourne. [Available online](http://branz.org/sites/default/files/BRANZ-8th-Annual-Report-Jul-16-Jun-17_0.pdf).
