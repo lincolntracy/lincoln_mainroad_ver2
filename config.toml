@@ -16,7 +16,7 @@ googleAnalytics = "UA-150393564-1"
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
   authorbox = true
-  pager = flase
+  pager = false
   post_meta = ["date", "categories"] # Order of post meta information
 
 [Params.logo]
