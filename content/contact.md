@@ -9,6 +9,8 @@ menu:
         weight: 40
 ---
 
+Contact me via the form below. 
+
 <form
   action="https://formspree.io/f/dr.lincoln.m.tracy@gmail.com"
   method="POST"
