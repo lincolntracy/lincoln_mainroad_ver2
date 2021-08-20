@@ -24,7 +24,7 @@ The [Burns Registry of Australia and New Zealand](https://www.monash.edu/medicin
 
 More than 10,000 people of working age presented to a specialist burns unit over the study period. Of these people, just over 17% had a work-related burn injury. 
 
-![Burns2018](/assets/jmcburns.png)
+![Burns2018](resources/_gen/assets/jmcburns.png)
 
 The majority of cases with a burn-related injury were males under the age of 35. Work-related burn injuries were most commonly caused by:
 
