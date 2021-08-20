@@ -8,8 +8,6 @@ tags:
  - "burn" 
 ---
 
-Update from the **Burns Registry of Australia and New Zealand**
-
 <!--more-->
 
 School holidays are typically a fun time for children, but burn clinicians are urging parents to be vigilant as new data reveals a spike in burn injuries among children on school holidays. 

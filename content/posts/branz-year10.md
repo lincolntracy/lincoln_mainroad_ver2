@@ -9,8 +9,6 @@ tags:
  - "report"
 ---
 
-Summary of burn injuries in the 2018/19 financial year
-
 <!--more-->
 
 Since July 2017, I have worked as a Research Fellow in the School of Public Health and Preventive Medicine at [Monash University](https://www.monash.edu/), on the Burns Registry of Australia and New Zealand ([BRANZ](http://branz.org/)). In addition to undertaking research into burn injuries, I assist in overseeing the collection of epidemiological data on all burn patients admitted to BRANZ hospitals. Each year the BRANZ releases a report, which assists in monitoring burn injury incidence and improving our understanding of burn causation.

@@ -8,8 +8,6 @@ tags:
  - "pain" 
 ---
 
-Inducing a positive mood helps reduce frequency and intensity of headaches
-
 <!--more-->
 
 ---
@@ -30,6 +28,10 @@ New research in healthy volunteers, led by [Andrew Geers](http://www.utoledo.edu
 
 Geers and his colleagues recruited **101 students**, 56 of which were female. Students were invited to the lab and tested one at a time. During the testing session students were randomly allocated into one of four groups (Figure 1).  
 
+![Participant-groups](/img/content/posts/mood-and-placebo/geers1.png)
+
+*Figure 1: Randomisation of students into groups by manipulation conditions*
+
 First, students were allocated into one of two groups based on the video they were shown **to bring about a positive or neutral mood**. Half of the students were allocated to the **positive mood group** and were shown parts of the movie [City Slickers 2](https://www.imdb.com/title/tt0109439/). The other half of the students were allocated to the **neutral mood group** and watched part of a golf documentary. Both videos went for about 15 minutes. Students were asked a series of questions afterwards to make sure they had been paying attention. This series of questions included *"how happy did the video make you feel?"* 
 
 After the video and the associated questions students were connected to a [transcranial direct current stimulation](https://www.sciencedirect.com/topics/neuroscience/transcranial-direct-current-stimulation) - or tDCS - machine, which delivers mild electric currents to the scalp to enhance the excitability of neurons in the brain. All students were told that the tDCS was **very safe** and the researchers were interested in testing the effects of tDCS on cognitive performance. However, **the tDCS was a sham - no students actually received any electric shock**. The students were only **led to believe** they would be receiving electric shocks. 
@@ -43,6 +45,10 @@ First, Geers and his colleagues tested if their manipulation conditions had any 
 Second, they investigated if **headache frequency** differed between groups. Importantly, Geers and his team found an **interaction between the different groups**, meaning that the **mood induction influenced placebo responding**. Students in the **neutral mood group were more likely to report a headache if they were told that tDCS causes headaches** compared to the students that were not warned about the potential 'side effects' of tDCS. In contrast, students in the **positive mood group reported a similar number of headaches** regardless of if they were warned about the potential 'side effects' or not.
 
 Third, Geers and his team investigated if the **maximum headache severity** differed between groups. Again, they found an interaction between the mood and headache groups. Students in the **neutral mood group reported greater headache severity after being warned about the potential tDCS 'side effects'** compared to the students that were not told about the side effects. In contrast, students in the **positive mood group reported a similar headache severity** regardless of if they were warned about the potential 'side effects' or not (Figure 2). 
+
+![Headache-severity](/img/content/posts/mood-and-placebo/geers3.png)
+
+*Figure 2: Maximum headache severity by manipulation conditions. Data presented as mean and standard deviation.*
 
 This study provides the first evidence that **induced mood states can disrupt nocebo effects arising from information about side effects**. By displaying that a positive mood can disrupt nocebo effects, Geers and colleagues open the door to further research into if and how other mood states (such as pride, or excitement) impact the nocebo effect. In addition, there are many other ways in which we can elevate our mood state, like music, pictures, and pleasant memories. This broad range of techniques means that mood inductions could be tailored to a variety of different healthcare contexts.
 

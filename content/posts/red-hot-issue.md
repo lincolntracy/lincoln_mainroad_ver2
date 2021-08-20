@@ -11,8 +11,6 @@ tags:
  - "Interview"
 ---
 
-Interview with [Lab Down Under](https://labdownunder.com/)
-
 <!--more-->
 
 Heather Cleland (Head of the Victorian Adult Burns Service, Alfred Hospital) and I were interviewed by Miklos Bolza from [Lab Down Under](https://labdownunder.com/) about our recent paper looking at variation in the rate of inhalation injury across Australian and New Zealand burns units. Lab Down Under is a blog designed to showcase groundbreaking Australian research that might not make mainstream headlines.

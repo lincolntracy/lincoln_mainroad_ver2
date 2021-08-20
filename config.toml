@@ -8,7 +8,14 @@ googleAnalytics = "UA-150393564-1"
 [Author]
   name = "Lincoln Tracy"
   bio = "Lincoln Tracy is a researcher and freelance writer based in Melbourne, Australia."
-  #avatar = "img/avatar.png"
+  #avatar = "img/portrait.jpg"
+
+[menu]
+ [[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = -110
 
 [Params]
   description = "Lincoln Tracy - Researcher and freelance writer" # Description of your site
@@ -20,6 +27,7 @@ googleAnalytics = "UA-150393564-1"
   post_meta = ["date", "categories"] # Order of post meta information
 
 [Params.logo]
+  #image = "img/portrait.jpg"
   subtitle = "Researcher and Freelance Writer" # Logo subtitle
 
 [Params.style.vars]

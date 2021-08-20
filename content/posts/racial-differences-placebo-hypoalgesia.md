@@ -8,8 +8,6 @@ tags:
  - "pain" 
 ---
 
-A new study shows that individuals of different races experience placebo hypoalgesia differently
-
 <!--more-->
 
 Placebo hypoalgesia is a phenomenon where people feel less sensitive to pain after receiving an inert (fake) treatment. Among other things, this phenomenon is the result of believing or expecting relief to occur. It’s a fascinating phenomenon, however there’s more to learn: it’s not currently known whether people of different races experience placebo hypoalgesia in the same way. 
@@ -23,6 +21,8 @@ The researchers identified that these racial effects also occurred in patients w
 Fillingim has extensive experience in researching whether people from different ethnic and racial groups experience pain differently, but was not part of the current study. 
 
 The study appeared in the August 2020 issue of PAIN.
+
+![Brain](/img/content/posts/racial-differences-placebo-nocebo/robina-weermeijer-IHfOpAzzjHM-unsplash.jpg)
 
 **Right Place, Right Time**
 

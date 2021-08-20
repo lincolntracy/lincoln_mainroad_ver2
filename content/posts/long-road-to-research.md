@@ -7,8 +7,6 @@ tags:
  - "Interview"
 ---
 
-Interview with Mojo News
-
 <!--more-->
 
 In 2016 I was interviewed by Jackson Peck, a Masters Student in Journalism & International Relations from Monash University. Jackson was writing an article about the challenges associated with undertaking a PhD. 

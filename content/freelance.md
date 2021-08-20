@@ -77,7 +77,7 @@ menu:
 
 [2020 IASP World Congress on Pain Award Winners: An Interview With Jan Vollert](https://www.painresearchforum.org/forums/interview/134934-2020-iasp-world-congress-pain-award-winners-interview-jan-vollert) | *Pain Research Forum*, 24 February 2020
 
-Sports Psychology to Rehabilitation Medicine: An Interview with Shelley Wiechman | *Australian Pain Society*, 13 February 2020
+[Sports Psychology to Rehabilitation Medicine: An Interview with Shelley Wiechman](/files/content/posts/shelley-wiechman/wiechman.pdf) | *Australian Pain Society*, 13 February 2020
 
 [Learning from Your Mistakes: The Role of Dopamine Activity in Prediction Errors](https://www.brainpost.co/weekly-brainpost/2020/2/11/learning-from-your-mistakes-the-role-of-dopamine-activity-in-prediction-errors) | *BrainPost*, 11 February 2020
 
@@ -90,9 +90,9 @@ Sports Psychology to Rehabilitation Medicine: An Interview with Shelley Wiechman
 ## 2019
 [Ongoing Antidepressant Medication Treatment Prevents Recurrence of Major Depression](https://www.brainpost.co/weekly-brainpost/2019/12/24/ongoing-antidepressant-medication-treatment-prevents-recurrence-of-major-depression) | *BrainPost*, 24 December 2019
 
-[A Pioneering Nurse Researcher and The Fresh Prince: An Interview with Alette De Jong](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_DEC19.pdf) | *Australian Pain Society eNewsletter*, 12 December 2019
+[A Pioneering Nurse Researcher and The Fresh Prince: An Interview with Alette De Jong](/files/content/posts/alette-dejong/dejong.pdf) | *Australian Pain Society eNewsletter*, 12 December 2019
 
-[Meanings of Pain Volume 2: Common Types of Pain and Language](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_DEC19.pdf) | *Australian Pain Society eNewsletter*, 12 December 2019
+[Meanings of Pain Volume 2: Common Types of Pain and Language](/files/content/posts/meanings-of-pain-vol2/meaningsofpain.pdf) | *Australian Pain Society eNewsletter*, 12 December 2019
 
 [A New Mechanism of Medication-Overuse Headache](https://www.painresearchforum.org/news/129507-new-mechanism-medication-overuse-headache) | *Pain Research Forum*, 4 December 2019
 
@@ -108,11 +108,11 @@ Sports Psychology to Rehabilitation Medicine: An Interview with Shelley Wiechman
 
 [Everybody Has Won and All Must Have Prizes: Dodo Birds in Psychological Treatments for Chronic Pain](https://www.painresearchforum.org/news/125485-%E2%80%9Ceverybody-has-won-and-all-must-have-prizes%E2%80%9D-dodo-birds-psychological-treatments-chronic) | *Pain Research Forum*, 2 October 2019
 
-[Focus and Frank: A Conversation with Sean Mackey](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_OCT19.pdf) | *Australian Pain Society eNewsletter*, 2 October 2019
+[Focus and Frank: A Conversation with Sean Mackey](/files/content/posts/sean-mackey/mackey.pdf) | *Australian Pain Society eNewsletter*, 2 October 2019
 
 [Communication Between Brain Regions During Working Memory](https://www.brainpost.co/weekly-brainpost/2019/9/24/communication-between-brain-regions-during-working-memory) | *BrainPost*, 25 September 2019
 
-[Back to Basics (Pain Research)]() | *Australian Pain Society eNewsletter*, 5 September 2019
+[Back to Basics (Pain Research)](/files/content/posts/bpr-sig-pcw-2019/bprsig2019pcw.pdf) | *Australian Pain Society eNewsletter*, 5 September 2019
 
 [Identification of a Novel Neural Circuit for Depressive Symptoms in Chronic Pain](https://www.brainpost.co/weekly-brainpost/2019/9/3/identification-of-a-novel-neural-circuit-for-depressive-symptoms-in-chronic-pain) | *BrainPost*, 4 September 2019
 
@@ -120,7 +120,7 @@ Sports Psychology to Rehabilitation Medicine: An Interview with Shelley Wiechman
 
 [From a Spider Venom to an Analgesic in Mice](https://www.painresearchforum.org/news/121897-spider-venom-analgesic-mice) | *Pain Research Forum*, 7 August 2019
 
-[Personalised Treatment, Collaboration, and Puzzles: A Chat with Nanna Finnerup](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_AUG19.pdf) | *Australian Pain Society eNewsletter*, 5 August 2019
+[Personalised Treatment, Collaboration, and Puzzles: A Chat with Nanna Finnerup](/files/content/posts/nanna-finnerup/finnerup.pdf) | *Australian Pain Society eNewsletter*, 5 August 2019
 
 [Development of a Viral Vector Library to Target Retinal Cell Types](https://www.brainpost.co/weekly-brainpost/2019/7/23/development-of-a-viral-vector-library-to-target-retinal-cell-types) | *BrainPost*, 23 July 2019
 
@@ -130,17 +130,17 @@ Sports Psychology to Rehabilitation Medicine: An Interview with Shelley Wiechman
 
 [Crowded Organelles and Lipid Membranes: Key Features in Parkinson’s Disease Pathology](https://www.brainpost.co/weekly-brainpost/2019/7/2/crowded-organelles-and-lipid-membranes-key-features-in-parkinsons-disease-pathology) | *BrainPost*, 3 July 2019
 
-[From Christian Science to the Placebo Effect: A Chat with Tor Wager](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUL19.pdf) | *Australian Pain Society eNewsletter*, 26 June 2019
+[From Christian Science to the Placebo Effect: A Chat with Tor Wager](/files/content/posts/tor-wager/wager.pdf) | *Australian Pain Society eNewsletter*, 26 June 2019
 
-[New Sensation: Chronic Pain as a New Concept for the International Classification of Diseases](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUL19.pdf) | *Australian Pain Society eNewsletter*, 26 June 2019
+[New Sensation: Chronic Pain as a New Concept for the International Classification of Diseases](/files/content/posts/new-sensation-icd11/newsensation.pdf) | *Australian Pain Society eNewsletter*, 26 June 2019
 
 [Understanding Placebo and Nocebo Effects: A Chat With Ben Colagiuri](https://www.painresearchforum.org/forums/interview/118541-understanding-placebo-and-nocebo-effects-chat-ben-colagiuri) | *Pain Research Forum*, 19 June 2019
 
 [Testing the Effects of LSD Microdoses on Mood and Cognitive Functioning](https://www.brainpost.co/weekly-brainpost/2019/6/11/testing-the-effects-of-lsd-microdoses-on-mood-and-cognitive-functioning) | *BrainPost*, 11 June 2019
 
-Communications, Advocacy, and The Joshua Tree: A Chat with Beth Darnall | *Australian Pain Society eNewsletter*, 5 June 2019
+[Communications, Advocacy, and The Joshua Tree: A Chat with Beth Darnall](/files/content/posts/darnall/darnall.pdf) | *Australian Pain Society eNewsletter*, 5 June 2019
 
-Cops for Kids and the Australian Pain Society: Working Together to Support Research into Pain in Childhood | *Australian Pain Society eNewsletter*, 5 June 2019
+[Cops for Kids and the Australian Pain Society: Working Together to Support Research into Pain in Childhood](/files/content/posts/aps-cfk/cfksummary.pdf) | *Australian Pain Society eNewsletter*, 5 June 2019
 
 [Hypothalamic Oxytocin Neurons Represent Fear Engrams in Rats](https://www.brainpost.co/weekly-brainpost/2019/5/21/hypothalamic-oxytocin-neurons-represent-fear-memory-traces-in-rats) | *BrainPost*, 21 May 2019
 
@@ -150,7 +150,7 @@ Cops for Kids and the Australian Pain Society: Working Together to Support Resea
 
 [Early Skill Learning Occurs Predominantly at Rest](https://www.brainpost.co/weekly-brainpost/2019/4/2/early-skill-learning-occurs-predominantly-at-rest) | *BrainPost*, 2 April 2019
 
-Prescription Drug Diversion and Pain: History, Policy, and Treatment | *Australian Pain Society eNewsletter*, 2 April 2019
+[Prescription Drug Diversion and Pain: History, Policy, and Treatment](/files/content/posts/prescription-drug-diversion-pain/prescriptiondrugdiversion.pdf) | *Australian Pain Society eNewsletter*, 2 April 2019
 
 [Producing a Positive Mood Reduces Nocebo Effects](https://www.lincolntracy.com/posts/mood-and-placebo/) | *Personal Website*, 29 March 2019
 
@@ -160,7 +160,7 @@ Prescription Drug Diversion and Pain: History, Policy, and Treatment | *Australi
 
 [Hippocampal-Accumbens Pathway Drive Memories of Reward-Seeking Behavior](https://www.brainpost.co/weekly-brainpost/2019/2/26/hippocampal-accumbens-pathway-drives-memories-of-reward-seeking-behavior) | *BrainPost*, 26 February 2019
 
-Reminiscing about the North American Pain School with Anne Burke | *Australian Pain Society eNewsletter*, 2 February 2019
+[Reminiscing about the North American Pain School with Anne Burke](/files/content/posts/naps-writeup/naps.pdf) | *Australian Pain Society eNewsletter*, 2 February 2019
 
 ## 2018
 [Why Do Women Experience Chronic Pain More Often than Men?](http://relief.news/why-do-women-experience-chronic-pain-more-often-than-men/) | *RELIEF*, 16 October 2018

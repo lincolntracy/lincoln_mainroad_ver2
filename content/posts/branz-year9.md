@@ -9,8 +9,6 @@ tags:
  - "report"
 ---
 
-Summary of burn injuries in the 2017/18 financial year
-
 <!--more-->
 
 The ninth Annual Report from the BRANZ provides valuable information on the incidence and aetiology of burn injury across Australia and New Zealand. Data are presented for 3,459 burns patients treated at 17 specialist burn units over the 12-month period from 1st July 2017 to 30th June 2018. 
