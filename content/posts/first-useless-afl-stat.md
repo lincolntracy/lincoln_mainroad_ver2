@@ -46,10 +46,6 @@ The table below displays the 12 games where the team playing away on a Friday ni
 
 *Note: Marvel Stadium, Colonial Stadium, and Etihad Stadium all refer to the Docklands Stadium in Melbourne. Simonds Stadium refers to Kardinia Park in Geelong. Naming rights sponsors to these grounds have changed over time.*
 
-![Double Cobra](/img/content/posts/first-useless-afl-stat/double_cobra.gif)
-
-*Source: https://giphy.com/gifs/carltonfc-carlton-football-club-fc-LY99xfoJeHlONJMmiJ*
-
 If graphs are more your thing, then the same data can be viusalised below in a bar chart.
 
 ![Graphical representation of First Useless AFL Stat](/img/content/posts/first-useless-afl-stat/round20_labelled.png)
