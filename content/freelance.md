@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2021
+[Distinct Roles for Social Brain Network Regions in Strategy Development](https://www.brainpost.co/weekly-brainpost/2021/8/24/distinct-roles-for-social-brain-network-regions-in-strategy-development) | *BrainPost*, 24 August 2021
+
 [Thinking Outside of the Box When Communicating About Pain](https://www.painresearchforum.org/news/176410-thinking-outside-box-when-communicating-about-pain) | *Pain Research Forum*, 10 August 2021
 
 [Cognitive Behavioral Group Therapy and Mindfulness Based Stress Reduction Recruit Similar Brain Regions](https://www.brainpost.co/weekly-brainpost/2021/7/27/cognitive-behavioral-group-therapy-and-mindfulness-based-stress-reduction-recruit-similar-brain-regions) | *BrainPost*, 27 July 2021

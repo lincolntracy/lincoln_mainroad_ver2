@@ -15,6 +15,10 @@ afltables %>%
 
 ```
 
+Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+
+In his beard lived three <span style="color:red">cardinals</span>.
+
 | Rank | Table Header | Second Header | Third Header             |
 | :--- | :----------- | ------------: | -----------------------: |
 | 1    | *Cell one*   | **Cell two**  | The quick brown fox      |

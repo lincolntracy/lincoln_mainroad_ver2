@@ -11,10 +11,9 @@ menu:
 
 ## Peer-Reviewed Publications
 
-### Accepted/In Press/Epub Ahead of Print
-Gong J, **Tracy LM**, Edgar DW, Wood F, Singer Y, & Gabbe BJ (accepted 21/04/2021). Poorer first aid after burn is associated with remoteness in Australia: Where to from here? *Australian Journal of Rural Health*. doi: 10.1111/AJR.12752
-
 ### 2021
+Gong J, **Tracy LM**, Edgar DW, Wood F, Singer Y, & Gabbe BJ (2021). [Poorer first aid after burn is associated with remoteness in Australia: Where to from here?](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajr.12752) *Australian Journal of Rural Health*, 29(4): 521-529. doi: 10.1111/ajr.12752
+
 McLure M, Macneil F, Wood FM, Cuttle L, Eastwood K, Bray J, & **Tracy LM** (2021). [A Rapid Review of Burns First Aid Guidelines: Is There Consistency Across International Guidelines?](https://www.cureus.com/articles/58738-a-rapid-review-of-burns-first-aid-guidelines-is-there-consistency-across-international-guidelines) *Cureus* 13(6): e15779. doi: 10.7759/cureus.15779
 
 Connolly S, Bertinetti M, Teague WJ, Gabbe BJ, & **Tracy LM** (2021). [Sunburn Injuries Admitted to Burn Services in Australia and New Zealand](https://jamanetwork.com/journals/jamadermatology/fullarticle/2779640). *JAMA Dermatology*, 157(6):729-731. doi: 10.1001/jamadermatol.2021.1110
@@ -74,7 +73,13 @@ Petersen KK, Andersen HH, Tsukamoto M, **Tracy LM**, Koenig J, & Ardent-Nielsen 
 ### 2014
 Broadbear JH, Kabel D, **Tracy LM**, & Mak P (2014). [Oxytocinergic regulation of endogenous as well as drug-induced mood](https://www.sciencedirect.com/science/article/pii/S0091305713001676?via%3Dihub). *Pharmacology, Biochemistry and Behaviour*, 119, 61-71. doi: 10.1016/j.pbb.2013.07.002
 
+---
+## Letters and Commentaries
 
+### 2021
+Cleland H, **Tracy LM**, Singer Y, Wood F, Gong J, Cameron P, & Gabbe BJ (2021). [Re: Re: Driving improved burns care and patient outcomes through clinical registry data: A review of quality indicators in the burns registry of Australia and New Zealand](https://www.sciencedirect.com/science/article/abs/pii/S030541792100214X?via%3Dihub). *Burns*. doi: 10.1016/j.burns.2021.07.025
+
+---
 ## Book Chapters
 
 ### 2020
@@ -83,7 +88,7 @@ Makovac E, **Tracy LM**, Koenig J (2020). Autonomic nervous system activity in i
 ### 2017
 Giummarra MJ, **Tracy LM**, Young KA, & Fitzgibbon BM (2017). The social side of pain: What does it mean to feel another’s pain? In S. van Rysewyk (Ed.) *Meanings of pain.* Springer International Publishing: Switzerland. [p. 355-373](https://link.springer.com/chapter/10.1007/978-3-319-49022-9_21).
 
-
+---
 ## Published Conference Abstracts
 
 ### 2017
@@ -95,7 +100,7 @@ Perkins M, Giummarra MJ, & **Tracy LM** (2017). [The effect of oxytocin on auton
 ### 2015
 **Tracy LM**, Gibson SJ, Georgiou-Karistianis N & Giummarra MJ (2015). Impact of explicit cuing on anxiety and arousal during the anticipation of thermal pain. *Anaesthesia and Intensive Care*, 43 (3), 380-411.
 
-
+---
 ## Technical Reports
 
 ### 2021
