@@ -11,6 +11,9 @@ menu:
 
 ## Peer-Reviewed Publications
 
+### Accepted/In press
+Singer Y, **Tracy LM**, Menezes H, Cleland H, Perrett T, Wood F, Harvey L (accepted 27/08/2021). “The home, the bathroom, the taps, and hot water”: The contextual characteristics of tap water scalds in Australia and New Zealand. *Burns*.
+
 ### 2021
 Gong J, **Tracy LM**, Edgar DW, Wood F, Singer Y, & Gabbe BJ (2021). [Poorer first aid after burn is associated with remoteness in Australia: Where to from here?](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajr.12752) *Australian Journal of Rural Health*, 29(4): 521-529. doi: 10.1111/ajr.12752
 
