@@ -75,6 +75,6 @@ Here's Goodwin's final record as a player and coach (after the 2021 Grand Final)
 
 From a win/loss perspective, Goodwin's record as a coach is almost consistent with when he was a player. 
 
-Melbourne fans will be hoping for a period of ongoing success to keep pushing Goodwin's coaching win percentage up and that he becomes the 19th member of the multiple Jock McHale Medal winners club.  
+Melbourne fans will be hoping for a period of ongoing success to keep pushing Goodwin's coaching win percentage up, and that he becomes the 19th member of the multiple Jock McHale Medal winners club.  
 
 *As always, apologies to anyone who has already presented these stats.*
