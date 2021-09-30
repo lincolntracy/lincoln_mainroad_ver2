@@ -73,6 +73,8 @@ Here's Goodwin's final record as a player and coach (after the 2021 Grand Final)
 | Coach     | 112       | 62       | 55.36     |
 | **Total** | **387**   | **217**  | **56.07** | 
 
-From a win/loss perspective, Goodwin's record as a coach is almost consistent with when he was a player.  
+From a win/loss perspective, Goodwin's record as a coach is almost consistent with when he was a player. 
+
+Melbourne fans will be hoping for a period of ongoing success to keep pushing that win percentage up.  
 
 *As always, apologies to anyone who has already presented these stats.*
