@@ -15,7 +15,7 @@ Outside of research Lincoln has conducted interviews and written for [Pain Resea
 
 Lincoln is the Editor for the Australian Pain Society Newsletter, a Board member of the [Australian and New Zealand Burn Association](https://anzba.org.au/), and is the Podcast Editor for [One Thing](http://onething.painsci.org/). 
 
-A brief CV can be found [here](/files/content/about/TracyCV-September2021.pdf). 
+A brief CV can be found [here](/files/content/about/TracyCV-October2021.pdf). 
 
 I'm most active on Twitter - [@lincolntracy](https://twitter.com/lincolntracy).
 
