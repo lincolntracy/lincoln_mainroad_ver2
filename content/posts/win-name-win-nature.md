@@ -14,7 +14,7 @@ tags:
 
 The AFL Grand Final has been run and won for another year, with the Melbourne Demons ending a 57-year premiership drought with a 74-point win over the Western Bulldogs. The win continues the [recent trend in teams with the lower jumper number total winning on the last Saturday in September](https://www.lincolntracy.com/posts/2021-afl-grand-final/).
 
-Their coach, Simon Goodwin, became the latest recipient of the Jock McHale Medal. The Jock McHale Medal was first awarded in 2001, but the AFL has retrospectively awarded the medal to each premiership coach since 1950. 
+Their coach, Simon Goodwin, became the latest recipient of the Jock McHale Medal. The Jock McHale Medal was first awarded in 2001, but the AFL has retrospectively awarded the medal to each premiership coach since 1950. Prior to 1950, the award was known as the Premiership coach's medal.
 
 Goodwin becomes the 33rd recipient of the Jock McHale Medal. Eighteen coaches have won multiple Jock McHale Medals, with the great Norm Smith (6) having won the most. 
 
