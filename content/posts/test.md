@@ -31,3 +31,7 @@ endash: --
 emdash: ---
 
 ellipsis: ...
+
+This is a <sup>1</sup>. 
+
+> Quoted text example. 
