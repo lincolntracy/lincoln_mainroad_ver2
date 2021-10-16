@@ -10,6 +10,12 @@ menu:
 ---
 
 ## 2021
+[Identifying the Neural Mechanism Behind Team Flow](https://www.brainpost.co/weekly-brainpost/2021/10/12/identifying-the-neural-mechanism-behind-team-flow) | *BrainPost*, 12 October 2021
+
+[The Adventures of Hayley, Queen of the Desert: A Chat with Pain Researcher and Sole Survivor Hayley Leake](https://blog.apsoc.org.au/2021/10/12/the-adventures-of-hayley-queen-of-the-desert-a-chat-with-pain-researcher-and-sole-survivor-hayley-leake%ef%bf%bc/) | *Australian Poin Society*, 12 October 2021
+
+[Dose Tapering in Patients Prescribed Long-Term Opioids: More Harm Than Good?](https://www.painresearchforum.org/news/180850-dose-tapering-patients-prescribed-long-term-opioids-more-harm-good) | *Pain Research Forum*, 8 October 2021
+
 [Distinct Roles for Social Brain Network Regions in Strategy Development](https://www.brainpost.co/weekly-brainpost/2021/8/24/distinct-roles-for-social-brain-network-regions-in-strategy-development) | *BrainPost*, 24 August 2021
 
 [Thinking Outside of the Box When Communicating About Pain](https://www.painresearchforum.org/news/176410-thinking-outside-box-when-communicating-about-pain) | *Pain Research Forum*, 10 August 2021
