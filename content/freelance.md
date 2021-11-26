@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2021
+[IASP Early Career Research Grant Winner: A Conversation With Sarah Luthy](https://www.painresearchforum.org/forums/interview/182833-iasp-early-career-research-grant-winner-conversation-sarah-luthy) | *Pain Research Forum*, 3 November 2021
+
 [Identifying the Neural Mechanism Behind Team Flow](https://www.brainpost.co/weekly-brainpost/2021/10/12/identifying-the-neural-mechanism-behind-team-flow) | *BrainPost*, 12 October 2021
 
 [The Adventures of Hayley, Queen of the Desert: A Chat with Pain Researcher and Sole Survivor Hayley Leake](https://blog.apsoc.org.au/2021/10/12/the-adventures-of-hayley-queen-of-the-desert-a-chat-with-pain-researcher-and-sole-survivor-hayley-leake%ef%bf%bc/) | *Australian Poin Society*, 12 October 2021
