@@ -12,6 +12,8 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+Perkins M, Wood F, Griffin B, Gus E, Carney B, Teague WJ, & **Tracy LM** (accepted 1/12/2021). Variation in burn wound management approaches for paediatric burn patients in Australia and New Zealand. *ANZ Journal of Surgery*.
+
 Singer Y, **Tracy LM**, Menezes H, Cleland H, Perrett T, Wood F, Harvey L (accepted 27/08/2021). “The home, the bathroom, the taps, and hot water”: The contextual characteristics of tap water scalds in Australia and New Zealand. *Burns*.
 
 ### 2021
@@ -75,6 +77,12 @@ Petersen KK, Andersen HH, Tsukamoto M, **Tracy LM**, Koenig J, & Ardent-Nielsen 
 
 ### 2014
 Broadbear JH, Kabel D, **Tracy LM**, & Mak P (2014). [Oxytocinergic regulation of endogenous as well as drug-induced mood](https://www.sciencedirect.com/science/article/pii/S0091305713001676?via%3Dihub). *Pharmacology, Biochemistry and Behaviour*, 119, 61-71. doi: 10.1016/j.pbb.2013.07.002
+
+---
+## Invited Editorials
+
+### 2022
+**Tracy LM** (2022). [The Models of Care They Are A-Changin’](https://journals.sagepub.com/doi/full/10.1177/20494637221075187). *British Journal of Pain*, 16(1): 4-5. doi: 10.1177/20494637221075187 
 
 ---
 ## Letters and Commentaries
