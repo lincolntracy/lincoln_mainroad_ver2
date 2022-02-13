@@ -9,6 +9,9 @@ menu:
         weight: 30
 ---
 
+## 2022
+[Creative Fluency is Driven by Default Network Activity](https://www.brainpost.co/weekly-brainpost/2022/1/11/creative-fluency-is-driven-by-default-network-activity) | *BrainPost*, 11 January 2022
+
 ## 2021
 [IASP Early Career Research Grant Winner: A Conversation With Sarah Luthy](https://www.painresearchforum.org/forums/interview/182833-iasp-early-career-research-grant-winner-conversation-sarah-luthy) | *Pain Research Forum*, 3 November 2021
 
@@ -26,7 +29,7 @@ menu:
 
 [Dopamine and Brain Network Dynamics in Schizophrenia](https://www.brainpost.co/weekly-brainpost/2021/6/15/dopamine-and-brain-network-dynamics-in-schizophrenia) | *BrainPost*, 15 June 2021
 
-[IASP 2021 Virtual World Congress on Pain Award Winners: An Interview With Gary Lewin](https://www.painresearchforum.org/forums/interview/170966-iasp-2021-virtual-world-congress-pain-award-winners-interview-gary-lewin) Pain Research Forum, 1 June 2021
+[IASP 2021 Virtual World Congress on Pain Award Winners: An Interview With Gary Lewin](https://www.painresearchforum.org/forums/interview/170966-iasp-2021-virtual-world-congress-pain-award-winners-interview-gary-lewin) | *Pain Research Forum*, 1 June 2021
 
 [IASP 2021 Virtual World Congress on Pain Award Winners: An Interview With Srinivasa Raja](https://www.painresearchforum.org/forums/interview/170965-iasp-2021-virtual-world-congress-pain-award-winners-interview-srinivasa-raja) | *Pain Research Forum*, 1 June 2021
 
