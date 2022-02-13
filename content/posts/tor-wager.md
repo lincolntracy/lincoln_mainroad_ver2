@@ -2,11 +2,10 @@
 title: "From Christian Science to the Placebo Effect: A Chat with Tor Wager"
 date: 2019-06-26
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "AusPainSoc"
- - "pain" 
- - "freelance"
+ - "pain"
 ---
 
 <!--more-->

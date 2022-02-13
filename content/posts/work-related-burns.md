@@ -5,7 +5,7 @@ categories:
  - "Research"
 tags:
  - "BRANZ"
- - "burn" 
+ - "burns" 
 ---
 
 New publication in *Burns*

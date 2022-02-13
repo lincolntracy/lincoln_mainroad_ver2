@@ -2,11 +2,11 @@
 title: "Focus and Frank: A Conversation with Sean Mackey"
 date: 2019-10-02
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "AusPainSoc"
  - "pain" 
- - "freelance"
+ - "interview"
 ---
 
 <!--more-->

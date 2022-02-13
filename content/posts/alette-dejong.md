@@ -2,11 +2,11 @@
 title: "A Pioneering Nurse Researcher and The Fresh Prince: An Interview with Alette De Jong"
 date: 2019-12-12
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "burns"
  - "ANZBA" 
- - "freelance"
+ - "interview"
 ---
 
 <!--more-->

@@ -2,11 +2,10 @@
 title: "Meanings of Pain Volume 2: Common Types of Pain and Language"
 date: 2019-04-02
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "pain"
  - "AusPainSoc" 
- - "freelance"
  - "book review"
 ---
 

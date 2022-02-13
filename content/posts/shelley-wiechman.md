@@ -2,11 +2,11 @@
 title: "Sports Psychology to Rehabilitation Medicine: An Interview with Shelley Wiechman"
 date: 2020-02-13
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "burns"
  - "ANZBA" 
- - "freelance"
+ - "interview"
 ---
 
 <!--more-->

@@ -2,11 +2,11 @@
 title: "Back to Basics (Pain Research)"
 date: 2019-09-05
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "pain"
  - "AusPainSoc" 
- - "freelance"
+ - "Summary"
 ---
 
 <!--more-->

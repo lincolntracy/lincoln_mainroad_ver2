@@ -1,6 +1,6 @@
 ---
 title: "John J. Bonica Distinguished Lecture Award: An Interview With Srinivasa Raja"
-ddate: 2021-06-01
+date: 2021-06-01
 categories:
  - "Freelance"
 tags:

@@ -6,7 +6,7 @@ categories:
 tags:
  - "Interview"
  - "Pain"
- - "Australian Pain Society"
+ - "AusPainSoc"
  - "Scicomm"
 ---
 

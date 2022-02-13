@@ -1,12 +1,12 @@
 ---
 title: "Thinking Outside of the Box When Communicating About Pain"
-date: 2022-02-13T11:57:53+11:00
+date: 2022-08-10
 categories:
  - "Freelance"
 tags:
  - "Summary"
  - "Pain"
- - "Australian Pain Society"
+ - "AusPainSoc"
  - "Pain Research Forum" 
  - "Scicomm"
 ---

@@ -2,11 +2,11 @@
 title: "Communications, Advocacy, and The Joshua Tree: A Chat with Beth Darnall"
 date: 2019-06-05
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "AusPainSoc"
  - "pain" 
- - "freelance"
+ - "interview"
 ---
 
 <!--more-->

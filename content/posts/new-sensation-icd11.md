@@ -2,11 +2,11 @@
 title: "New Sensation: Chronic Pain as a New Concept for the International Classification of Diseases"
 date: 2019-06-26
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "pain"
  - "AusPainSoc" 
- - "freelance"
+ - "Summary"
 ---
 
 <!--more-->

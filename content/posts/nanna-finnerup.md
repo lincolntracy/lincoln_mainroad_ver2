@@ -2,11 +2,11 @@
 title: "Personalised Treatment, Collaboration, and Puzzles: A Chat with Nanna Finnerup"
 date: 2019-08-05
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "AusPainSoc"
  - "pain" 
- - "freelance"
+ - "interview"
 ---
 
 <!--more-->

@@ -2,11 +2,12 @@
 title: "Cops for Kids and the Australian Pain Society: Working Together to Support Research into Pain in Childhood"
 date: 2019-06-05
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "AusPainSoc"
  - "pain" 
- - "freelance"
+ - "interview"
+ - "Summary"
 ---
 
 <!--more-->
