@@ -1,5 +1,5 @@
 ---
-title: "Iasp Early Career Research Grant Winner Conversation Sarah Luthy"
+title: "IASP Early Career Research Grant Winner: A Conversation with Sarah Luthy"
 date: 2021-11-03
 categories:
  - "Freelance"
@@ -8,6 +8,7 @@ tags:
  - "Pain"
  - "IASP"
  - "Pain Research Forum" 
+ - "Scicomm"
 ---
 
 <!--more-->

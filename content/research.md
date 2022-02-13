@@ -12,6 +12,8 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+**Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study. *Journal of Burn Care & Research*.
+
 Perkins M, Wood F, Griffin B, Gus E, Carney B, Teague WJ, & **Tracy LM** (accepted 1/12/2021). Variation in burn wound management approaches for paediatric burn patients in Australia and New Zealand. *ANZ Journal of Surgery*.
 
 Singer Y, **Tracy LM**, Menezes H, Cleland H, Perrett T, Wood F, Harvey L (accepted 27/08/2021). “The home, the bathroom, the taps, and hot water”: The contextual characteristics of tap water scalds in Australia and New Zealand. *Burns*.
