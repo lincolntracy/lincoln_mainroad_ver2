@@ -2,11 +2,10 @@
 title: "Prescription Drug Diversion and Pain: History, Policy, and Treatment"
 date: 2019-04-02
 categories:
- - "Blog"
+ - "Freelance"
 tags:
  - "AusPainSoc"
  - "pain" 
- - "freelance"
  - "book review"
 ---
 
