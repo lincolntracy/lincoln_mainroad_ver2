@@ -12,7 +12,7 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
-**Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study. *Journal of Burn Care & Research*.
+**Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac017
 
 Perkins M, Wood F, Griffin B, Gus E, Carney B, Teague WJ, & **Tracy LM** (accepted 1/12/2021). Variation in burn wound management approaches for paediatric burn patients in Australia and New Zealand. *ANZ Journal of Surgery*.
 
