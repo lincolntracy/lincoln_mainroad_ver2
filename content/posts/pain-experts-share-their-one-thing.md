@@ -1,5 +1,5 @@
 ---
-title: "Pain Experts Share Their "One Thing" for Patients"
+title: "Pain Experts Share Their One Thing for Patients"
 date: 2022-02-18T10:21:52+11:00
 categories:
  - "Blog"
