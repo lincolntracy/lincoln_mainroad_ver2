@@ -32,7 +32,9 @@ Some of the guests featured in Season Two include Pete Moore (creator and author
 All nine episodes of Season Two are now freely available online in video, podcast, and written form. One episode will be promoted each week in the lead up to the APS 42nd Annual Scientific Meeting, which will take place at the Hotel Grand Chancellor, Hobart from April 10 – 13, 2022.
 
 **For media enquiries please contact:**
+
 **One Thing:** Dr Joshua Pate (Co-founder & Senior Editor) – Joshua.Pate@uts.edu.au
+
 **Australian Pain Society:** Trudy Maunsell (President) – Trudy.Maunsell@health.qld.gov.au
 
 **About *One Thing***

@@ -14,9 +14,9 @@ menu:
 ### Accepted/In press
 **Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac017
 
-Perkins M, Wood F, Griffin B, Gus E, Carney B, Teague WJ, & **Tracy LM** (accepted 1/12/2021). Variation in burn wound management approaches for paediatric burn patients in Australia and New Zealand. *ANZ Journal of Surgery*.
+Perkins M, Wood F, Griffin B, Gus E, Carney B, Teague WJ, & **Tracy LM** (accepted 1/12/2021). [Variation in burn wound management approaches for paediatric burn patients in Australia and New Zealand](https://onlinelibrary.wiley.com/doi/abs/10.1111/ans.17435). *ANZ Journal of Surgery*. doi: 10.1111/ans.17435
 
-Singer Y, **Tracy LM**, Menezes H, Cleland H, Perrett T, Wood F, Harvey L (accepted 27/08/2021). “The home, the bathroom, the taps, and hot water”: The contextual characteristics of tap water scalds in Australia and New Zealand. *Burns*.
+Singer Y, **Tracy LM**, Menezes H, Cleland H, Perrett T, Wood F, Harvey L (accepted 27/08/2021). [“The home, the bathroom, the taps, and hot water”: The contextual characteristics of tap water scalds in Australia and New Zealand](https://www.sciencedirect.com/science/article/abs/pii/S0305417921002436). *Burns*. doi: 10.1016/j.burns.2021.08.022
 
 ### 2021
 Gong J, **Tracy LM**, Edgar DW, Wood F, Singer Y, & Gabbe BJ (2021). [Poorer first aid after burn is associated with remoteness in Australia: Where to from here?](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajr.12752) *Australian Journal of Rural Health*, 29(4): 521-529. doi: 10.1111/ajr.12752
