@@ -11,6 +11,8 @@ tags:
 
 <!--more-->
 
+[Australian Pain Society](https://www.apsoc.org.au/), February 2019
+
 The North American Pain School (NAPS) is an educational initiative of the International Association for the Study of Pain (IASP) and the Analgesic, Anaesthetic, and Addiction Clinical Trial Translations, Innovations, Opportunities, and Networks (ACTTION) partnership, presented by the Quebec Pain Research Network.
 
 Each year, NAPS brings leading experts in the field of pain research and management together with 30 trainees to provide a unique educational and networking experience at the incredible Chateau Montebello (approximately ninety minutes out of Montreal).

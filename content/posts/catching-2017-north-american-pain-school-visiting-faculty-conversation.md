@@ -1,5 +1,5 @@
 ---
-title: "Catching 2017 North American Pain School Visiting Faculty Conversation"
+title: "Catching Up With the 2017 North American Pain School Visiting Faculty: A Conversation with Jennifer Haythornthwaite"
 date: 2017-08-17
 categories:
  - "Freelance"

@@ -11,6 +11,8 @@ tags:
 
 <!--more-->
 
+[Australian Pain Society](https://www.apsoc.org.au/), April/May 2019
+
 Opioids have been used in both medical and recreational (non-medical) contexts for thousands of years. Using opioids for medical purposes has been a polarising issue for nearly as long. In the 1990’s opioids had become the standard of care for treating non-cancer chronic pain. Yet by 2000, concerns about the increased frequency of opioid-related abuse and deaths were growing. These concerns have continued to the develop over the last two decades and have resulted in a range of suggested approaches to reduce prescription opioid-related morbidity and mortality. 
 
 *Prescription Drug Diversion and Pain* discusses the history of opioid use in the treatment of chronic pain, the regulatory regime associated with opioid prescription, the evaluation and assessment of chronic pain patients, the complex nature of minimising risk factors associated with the use of controlled substances for the treatment of chronic pain, and the importance of interdisciplinary pain management from a multidisciplinary perspective. 
