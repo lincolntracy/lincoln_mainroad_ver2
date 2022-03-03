@@ -12,6 +12,8 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+**Tracy LM**, Braaf S, Gold M, & Cleland HJ (accepted 02/03/2022). Burn Care Specialists’ Views Towards End of Life Decision-Making in Patients with Severe Burn Injury: Findings from an Online Survey in Australia and New Zealand. *Journal of Burn Care & Research*.
+
 **Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac017
 
 Perkins M, Wood F, Griffin B, Gus E, Carney B, Teague WJ, & **Tracy LM** (accepted 1/12/2021). [Variation in burn wound management approaches for paediatric burn patients in Australia and New Zealand](https://onlinelibrary.wiley.com/doi/abs/10.1111/ans.17435). *ANZ Journal of Surgery*. doi: 10.1111/ans.17435
