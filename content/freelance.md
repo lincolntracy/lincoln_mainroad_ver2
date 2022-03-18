@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[Australian Pain Society 2022 Rising Star Winner: A Chat with Adrian Traeger](https://blog.apsoc.org.au/2022/03/19/australian-pain-society-2022-rising-star-winner-a-chat-with-adrian-traeger/) | *Australian Pain Society Blog*, 19 March 2022
+
 [Sleep Instability in Aging is Driven by Hyperexcitable Neural Circuits](https://www.brainpost.co/weekly-brainpost/2022/3/1/sleep-instability-in-aging-is-driven-by-hyperexcitable-neural-circuits) | *BrainPost*, 1 March 2022
 
 [Creative Fluency is Driven by Default Network Activity](https://www.brainpost.co/weekly-brainpost/2022/1/11/creative-fluency-is-driven-by-default-network-activity) | *BrainPost*, 11 January 2022
