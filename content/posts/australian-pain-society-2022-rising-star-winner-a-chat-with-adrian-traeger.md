@@ -1,5 +1,5 @@
 ---
-title: "Australian Pain Society 2022 Rising Star Winner a Chat With Adrian Traeger"
+title: "Australian Pain Society 2022 Rising Star Winner: A Chat With Adrian Traeger"
 date: 2022-03-19T09:05:58+11:00
 categories:
  - "Freelance"
