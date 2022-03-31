@@ -1,5 +1,5 @@
 ---
-title: "Buddy Joins Wade Exclusive Club"
+title: "Buddy Joins Wade in Even More Exclusive 1000 Goal Club"
 date: 2022-04-01T07:42:36+11:00
 categories:
  - "Blog"
@@ -20,14 +20,14 @@ With the loss, Franklin joins Doug Wade as the only players to lose their first 
 
 The table below shows the performances in the game after their thousandth goal was kicked. Individual stats are not available for Gordon Coventry, as these were not recorded at the time.
 
-| Player          | Result                     | Marks | Kicks | Handballs | Goals | Behinds |
-| :-------------- | :------------------------- | :---: | :---: | :-------: | :---: | :-----: |
-| Gordon Coventry | def Fitzroy, 15 points     | -     | -     | -         | 3     | -       |
-| Doug Wade       | def by Richmond, 21 points | 1     | 5     | 0         | 3     | 1       | 
-| Jason Dunstall  | def Adelaide, 19 points    | 1     | 3     | 4         | 2     | 0       |
-| Gary Ablett Snr | def Fitzroy, 127 points    | 6     | 13    | 4         | 6     | 3       | 
-| Tony Lockett    | def Collingwood, 23 points | 9     | 11    | 2         | 7     | 4       |
-| Lance Franklin  | def by WB, 11 points       | 7     | 15    | 4         | 2     | 1       |
+| Player       | Result                 | Marks | Kicks | Handballs | Goals | Behinds |
+| :----------- | :--------------------- | :---: | :---: | :-------: | :---: | :-----: |
+| G Coventry   | def FITZ, 15 points    | -     | -     | -         | 3     | -       |
+| D Wade       | def by RICH, 21 points | 1     | 5     | 0         | 3     | 1       | 
+| J Dunstall   | def ADEL, 19 points    | 1     | 3     | 4         | 2     | 0       |
+| G Ablett Snr | def FITZ, 127 points   | 6     | 13    | 4         | 6     | 3       | 
+| T Lockett    | def COLL, 23 points    | 9     | 11    | 2         | 7     | 4       |
+| L Franklin   | def by WB, 11 points   | 7     | 15    | 4         | 2     | 1       |
 
 Swans coach John Longmire was uncertain if his team’s poor showing was the result of an emotional “hangover” after the celebrations of last week.
 
