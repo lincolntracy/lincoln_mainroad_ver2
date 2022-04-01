@@ -1,5 +1,5 @@
 ---
-title: "History Serendipity and Neuropathic Pain a Chat With Andrew Rice"
+title: "History, Serendipity, and Neuropathic Pain: A Chat With Andrew Rice"
 date: 2022-03-30T17:44:41+11:00
 categories:
  - "Freelance"

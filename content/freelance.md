@@ -10,6 +10,12 @@ menu:
 ---
 
 ## 2022
+[Cognitive Behavioural Therapy and van Gogh’s Sister-in-law: A Chat with Beverly Thorn](https://blog.apsoc.org.au/2022/04/01/cognitive-behavioural-therapy-and-van-goghs-sister-in-law-a-chat-with-beverly-thorn/) | *Australian Pain Society Blog*, 1 April 2022
+
+[Chilean Collaboration Aims to Find New Targets for the Treatment of Pain](https://www.painresearchforum.org/news/193712-chilean-collaboration-aims-find-new-targets-treatment-pain) | *Pain Research Forum*, 31 March 2022
+
+[History, Serendipity, and Neuropathic Pain: A Chat with Andrew Rice](https://blog.apsoc.org.au/2022/03/29/history-serendipity-and-neuropathic-pain-a-chat-with-andrew-rice/) | *Australian Pain Society Blog*, 29 March 2022
+
 [Australian Pain Society 2022 Rising Star Winner: A Chat with Adrian Traeger](https://blog.apsoc.org.au/2022/03/19/australian-pain-society-2022-rising-star-winner-a-chat-with-adrian-traeger/) | *Australian Pain Society Blog*, 19 March 2022
 
 [Sleep Instability in Aging is Driven by Hyperexcitable Neural Circuits](https://www.brainpost.co/weekly-brainpost/2022/3/1/sleep-instability-in-aging-is-driven-by-hyperexcitable-neural-circuits) | *BrainPost*, 1 March 2022
