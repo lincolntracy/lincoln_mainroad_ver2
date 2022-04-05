@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[Understanding and Reducing Drug-Related Harms: A Chat with Suzanne Nielsen](https://blog.apsoc.org.au/2022/04/05/understanding-and-reducing-drug-related-harms-a-chat-with-suzanne-nielsen/) | *Australian Pain Society Blog*, 5 April 2022
+
 [Cognitive Behavioural Therapy and van Gogh’s Sister-in-law: A Chat with Beverly Thorn](https://blog.apsoc.org.au/2022/04/01/cognitive-behavioural-therapy-and-van-goghs-sister-in-law-a-chat-with-beverly-thorn/) | *Australian Pain Society Blog*, 1 April 2022
 
 [Chilean Collaboration Aims to Find New Targets for the Treatment of Pain](https://www.painresearchforum.org/news/193712-chilean-collaboration-aims-find-new-targets-treatment-pain) | *Pain Research Forum*, 31 March 2022
