@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[Utilizing Artificial Intelligence Improves Planning and Decision Making](https://www.brainpost.co/weekly-brainpost/2022/4/5/utilizing-artificial-intelligence-improves-planning-and-decision-making) | *BrainPost*, 5 April 2022
+
 [Understanding and Reducing Drug-Related Harms: A Chat with Suzanne Nielsen](https://blog.apsoc.org.au/2022/04/05/understanding-and-reducing-drug-related-harms-a-chat-with-suzanne-nielsen/) | *Australian Pain Society Blog*, 5 April 2022
 
 [Cognitive Behavioural Therapy and van Gogh’s Sister-in-law: A Chat with Beverly Thorn](https://blog.apsoc.org.au/2022/04/01/cognitive-behavioural-therapy-and-van-goghs-sister-in-law-a-chat-with-beverly-thorn/) | *Australian Pain Society Blog*, 1 April 2022

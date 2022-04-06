@@ -1,5 +1,6 @@
 ---
 title: "Tighter Regulations Needed to Prevent Scalds From Taps and Hot Water"
+date: 2022-03-31
 categories:
  - "Research"
 tags:
