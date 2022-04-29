@@ -11,6 +11,8 @@ menu:
 
 A collection of interviews and newspaper articles about my research. 
 
+[New Study Finds Accidental Alteration Of Water Temperature At The Tap Whilst Bathing Was Involved In More Than 55% Of Injuries In People Admitted With Tap Water Scalds To Australian And New Zealand Burn Centers](https://www.worldplumbing.org/wpc-review-april-2022/#scalding) | World Plumbing Council Newsletter April 2022
+
 [Making sure you don't sunburn](https://www.abc.net.au/radionational/programs/healthreport/making-sure-you-dont-sunburn/13364056) | ABC Radio National Health Report 31 May 2021
 
 [Sunburns Severe Enough to Warrant Admission Described](https://www.physiciansweekly.com/sunburns-severe-enough-to-warrant-admission-described) | Physicians Weekly 13 May 2021
