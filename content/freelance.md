@@ -10,6 +10,10 @@ menu:
 ---
 
 ## 2022
+[Migraine in the Emergency Department Setting: A Chat With Anne-Maree Kelly](https://www.linkedin.com/pulse/migraine-emergency-department-setting-chat-/) | *Migraine Science Collaborative*, 12 May 2022
+
+[Researchers Discover New Genetic Variants for Migraine](https://www.linkedin.com/pulse/researchers-discover-new-genetic-variants-/) | *Migraine Science Collaborative*, 5 May 2022
+
 [Utilizing Artificial Intelligence Improves Planning and Decision Making](https://www.brainpost.co/weekly-brainpost/2022/4/5/utilizing-artificial-intelligence-improves-planning-and-decision-making) | *BrainPost*, 5 April 2022
 
 [Understanding and Reducing Drug-Related Harms: A Chat with Suzanne Nielsen](https://blog.apsoc.org.au/2022/04/05/understanding-and-reducing-drug-related-harms-a-chat-with-suzanne-nielsen/) | *Australian Pain Society Blog*, 5 April 2022
