@@ -12,6 +12,10 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+Cleland H, **Tracy LM**, Padiglione A, & Stewardson A (accepted 23/05/2022). Patterns of multidrug resistant organism acquisition in an adult specialist burns service: A retrospective review. *Antimicrobial Resistance & Infection Control*.
+
+Kurmis R, Nicholls C, Singer Y, Edgar DW, Wood FM, Gabbe BJ, & **Tracy LM** (accepted 11/05/2022). An investigation of early enteral nutrition provision in major burn patients in Australia and New Zealand. *Nutrition & Dietetics*.
+
 **Tracy LM**, Braaf S, Gold M, & Cleland HJ (accepted 02/03/2022). Burn Care Specialists’ Views Towards End of Life Decision-Making in Patients with Severe Burn Injury: Findings from an Online Survey in Australia and New Zealand. *Journal of Burn Care & Research*.
 
 **Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac017
