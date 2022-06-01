@@ -12,6 +12,8 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). Concordance between coding sources of burn size and depth across Australian and New Zealand specialist burn services. *Health Information Management Journal*. 
+
 Cleland H, **Tracy LM**, Padiglione A, & Stewardson A (accepted 23/05/2022). Patterns of multidrug resistant organism acquisition in an adult specialist burns service: A retrospective review. *Antimicrobial Resistance & Infection Control*.
 
 Kurmis R, Nicholls C, Singer Y, Edgar DW, Wood FM, Gabbe BJ, & **Tracy LM** (accepted 11/05/2022). An investigation of early enteral nutrition provision in major burn patients in Australia and New Zealand. *Nutrition & Dietetics*.
