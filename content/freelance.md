@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[Individual Differences and Similarities in How Pain is Represented in the Brain](https://www.brainpost.co/weekly-brainpost/2022/6/7/individual-differences-in-how-pain-is-represented-in-the-brain) | *BrainPost*, 7 June 2022
+
 [IASP Global Year Lecture: Complexity of Pain Underlies Importance of Impact and Translation](https://blog.apsoc.org.au/2022/06/03/aps2022-iasp-global-year-lecture-complexity-of-pain-underlies-importance-of-impact-and-translation/) | *Australian Pain Society Blog*, 03 June 2022
 
 [Will a Cannabis Crisis Replace the Opioid Crisis?](https://blog.apsoc.org.au/2022/05/30/aps2022-debate-will-a-cannabis-crisis-replace-the-opioid-crisis/) | *Australian Pain Society Blog*, 30 May 2022
