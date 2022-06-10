@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[How Can we Help Children Better Cope with Pain?](https://blog.apsoc.org.au/2022/06/10/aps2022-topical-session-2c-how-can-we-help-children-better-cope-with-pain/) | *Australian Pain Society Blog*, 10 June 2022
+
 [Individual Differences and Similarities in How Pain is Represented in the Brain](https://www.brainpost.co/weekly-brainpost/2022/6/7/individual-differences-in-how-pain-is-represented-in-the-brain) | *BrainPost*, 7 June 2022
 
 [IASP Global Year Lecture: Complexity of Pain Underlies Importance of Impact and Translation](https://blog.apsoc.org.au/2022/06/03/aps2022-iasp-global-year-lecture-complexity-of-pain-underlies-importance-of-impact-and-translation/) | *Australian Pain Society Blog*, 03 June 2022
