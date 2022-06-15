@@ -1,5 +1,5 @@
 ---
-title: "One Two People Experience Headache Disorder"
+title: "One in Two People Experience a Headache Disorder, an Updated Review Reports"
 date: 2022-06-16T09:48:19+10:00
 categories:
  - "Freelance"
