@@ -14,8 +14,6 @@ menu:
 ### Accepted/In press
 Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). Concordance between coding sources of burn size and depth across Australian and New Zealand specialist burn services. *Health Information Management Journal*. 
 
-Cleland H, **Tracy LM**, Padiglione A, & Stewardson A (accepted 23/05/2022). Patterns of multidrug resistant organism acquisition in an adult specialist burns service: A retrospective review. *Antimicrobial Resistance & Infection Control*.
-
 Kurmis R, Nicholls C, Singer Y, Edgar DW, Wood FM, Gabbe BJ, & **Tracy LM** (accepted 11/05/2022). An investigation of early enteral nutrition provision in major burn patients in Australia and New Zealand. *Nutrition & Dietetics*.
 
 **Tracy LM**, Braaf S, Gold M, & Cleland HJ (accepted 02/03/2022). Burn Care Specialists’ Views Towards End of Life Decision-Making in Patients with Severe Burn Injury: Findings from an Online Survey in Australia and New Zealand. *Journal of Burn Care & Research*.
@@ -25,6 +23,8 @@ Kurmis R, Nicholls C, Singer Y, Edgar DW, Wood FM, Gabbe BJ, & **Tracy LM** (acc
 Singer Y, **Tracy LM**, Menezes H, Cleland H, Perrett T, Wood F, Harvey L (accepted 27/08/2021). [“The home, the bathroom, the taps, and hot water”: The contextual characteristics of tap water scalds in Australia and New Zealand](https://www.sciencedirect.com/science/article/abs/pii/S0305417921002436). *Burns*. doi: 10.1016/j.burns.2021.08.022
 
 ### 2022
+Cleland H, **Tracy LM**, Padiglione A, & Stewardson A (2022). [Patterns of multidrug resistant organism acquisition in an adult specialist burns service: A retrospective review](https://aricjournal.biomedcentral.com/articles/10.1186/s13756-022-01123-w). *Antimicrobial Resistance & Infection Control*, 11: 82. doi: 10.1186/s13756-022-01123-w
+
 Perkins M, Wood F, Griffin B, Gus E, Carney B, Teague WJ, & **Tracy LM** (2022). [Variation in burn wound management approaches for paediatric burn patients in Australia and New Zealand](https://onlinelibrary.wiley.com/doi/abs/10.1111/ans.17435). *ANZ Journal of Surgery*, 92(4): 753-758. doi: 10.1111/ans.17435
 
 ### 2021

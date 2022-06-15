@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[One in Two People Experience a Headache Disorder, an Updated Review Reports](https://www.linkedin.com/pulse/one-two-people-experience-headache-disorder-/?trackingId=/Rg/roDvGRk6rA7%2B/A3oFg%3D%3D) | *Migraine Science Collaborative*, 16 June 2022
+
 [How Can we Help Children Better Cope with Pain?](https://blog.apsoc.org.au/2022/06/10/aps2022-topical-session-2c-how-can-we-help-children-better-cope-with-pain/) | *Australian Pain Society Blog*, 10 June 2022
 
 [Individual Differences and Similarities in How Pain is Represented in the Brain](https://www.brainpost.co/weekly-brainpost/2022/6/7/individual-differences-in-how-pain-is-represented-in-the-brain) | *BrainPost*, 7 June 2022
