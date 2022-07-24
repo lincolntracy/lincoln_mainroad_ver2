@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[All That Glitters Is Gold: Can Gold Treat Osteoarthritis Pain?](https://www.painresearchforum.org/news/202362-all-glitters-gold-can-gold-treat-osteoarthritis-pain) | *Pain Research Forum*, 21 July 2022
+
 [When the System Is Disrupted, a Better Understanding of Migraine Emerges: An Interview with Nasim Maleki](https://www.linkedin.com/pulse/when-system-disrupted-better-understanding-/) | *Migraine Science Collaborative*, 19 July 2022
 
 [One in Two People Experience a Headache Disorder, an Updated Review Reports](https://www.linkedin.com/pulse/one-two-people-experience-headache-disorder-/?trackingId=/Rg/roDvGRk6rA7%2B/A3oFg%3D%3D) | *Migraine Science Collaborative*, 16 June 2022
