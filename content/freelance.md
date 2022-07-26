@@ -10,6 +10,10 @@ menu:
 ---
 
 ## 2022
+[From Pharmacy to Neurology, the Art of Headache Medicine, and the Importance of Mentorship: A Chat with Shivang Joshi](https://www.linkedin.com/pulse/from-pharmacy-neurology-art-headache-medicine-/?trackingId=igrsHe3OQZCvUgwDiijtxw%3D%3D) | *Migraine Science Collaborative*, 27 July 2022
+
+[Thermal Pain Sensitivity is Driven by Circadian Rhythms](https://www.brainpost.co/weekly-brainpost/2022/7/26/thermal-pain-sensitivity-is-driven-by-circadian-rhythms) | *BrainPost*, 26 July 2022
+
 [All That Glitters Is Gold: Can Gold Treat Osteoarthritis Pain?](https://www.painresearchforum.org/news/202362-all-glitters-gold-can-gold-treat-osteoarthritis-pain) | *Pain Research Forum*, 21 July 2022
 
 [When the System Is Disrupted, a Better Understanding of Migraine Emerges: An Interview with Nasim Maleki](https://www.linkedin.com/pulse/when-system-disrupted-better-understanding-/) | *Migraine Science Collaborative*, 19 July 2022
