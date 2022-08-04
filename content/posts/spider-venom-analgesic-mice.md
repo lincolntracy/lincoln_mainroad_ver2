@@ -1,5 +1,5 @@
 ---
-title: "Spider Venom Analgesic Mice"
+title: "From a Spider Venom to an Analgesic in Mice"
 date: 2019-08-07
 categories:
  - "Freelance"

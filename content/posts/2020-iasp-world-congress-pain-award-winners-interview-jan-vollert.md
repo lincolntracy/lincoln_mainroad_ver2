@@ -1,5 +1,5 @@
 ---
-title: "2020 Iasp World Congress Pain Award Winners Interview Jan Vollert"
+title: "2020 IASP World Congress Pain Award Winners Interview Jan Vollert"
 date: 2020-02-24
 categories:
  - "Freelance"

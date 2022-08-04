@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[Making a Difference in Neurology and Headache Medicine with an Integrated Approach: An Interview with Deena Kuruvilla](https://www.linkedin.com/pulse/making-difference-neurology-headache-medicine-/) | *Migraine Science Collaborative*, 5 August 2022
+
 [From Pharmacy to Neurology, the Art of Headache Medicine, and the Importance of Mentorship: A Chat with Shivang Joshi](https://www.linkedin.com/pulse/from-pharmacy-neurology-art-headache-medicine-/?trackingId=igrsHe3OQZCvUgwDiijtxw%3D%3D) | *Migraine Science Collaborative*, 27 July 2022
 
 [Thermal Pain Sensitivity is Driven by Circadian Rhythms](https://www.brainpost.co/weekly-brainpost/2022/7/26/thermal-pain-sensitivity-is-driven-by-circadian-rhythms) | *BrainPost*, 26 July 2022
