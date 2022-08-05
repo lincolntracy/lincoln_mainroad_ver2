@@ -21,6 +21,8 @@ Kurmis R, Nicholls C, Singer Y, Edgar DW, Wood FM, Gabbe BJ, & **Tracy LM** (acc
 **Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac017
 
 ### 2022
+Hong R, Perkins M, Gabbe BJ & **Tracy LM** (2022). [Comparing peak burn injury times and characteristics in Australia and New Zealand](https://www.mdpi.com/1660-4601/19/15/9578). *International Journal of Environmental Research and Public Health*, 19(15): 9578. doi: 10.3390/ijerph19159578
+
 Singer Y, **Tracy LM**, Menezes H, Cleland H, Perrett T, Wood F, Harvey L (2022). [“The home, the bathroom, the taps, and hot water”: The contextual characteristics of tap water scalds in Australia and New Zealand](https://www.sciencedirect.com/science/article/abs/pii/S0305417921002436). *Burns*, 48(4): 1004-1012. doi: 10.1016/j.burns.2021.08.022
 
 Cleland H, **Tracy LM**, Padiglione A, & Stewardson A (2022). [Patterns of multidrug resistant organism acquisition in an adult specialist burns service: A retrospective review](https://aricjournal.biomedcentral.com/articles/10.1186/s13756-022-01123-w). *Antimicrobial Resistance & Infection Control*, 11: 82. doi: 10.1186/s13756-022-01123-w
