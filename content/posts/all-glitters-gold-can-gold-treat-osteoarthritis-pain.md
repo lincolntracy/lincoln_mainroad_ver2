@@ -1,5 +1,5 @@
 ---
-title: "All Glitters Gold Can Gold Treat Osteoarthritis Pain"
+title: "All That Glitters Is Gold: Can Gold Treat Osteoarthritis Pain?"
 date: 2022-07-21
 categories:
  - "Freelance"
