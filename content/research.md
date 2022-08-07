@@ -12,6 +12,8 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+**Tracy LM**, Darton A, Gabbe BJ, Heath K, Kurmis R, Lisec C, Lo C, Singer Y, Wood FM, & Cleland H (accepted 06/08/2022). Examining the patient profile and variance of management and in-hospital outcomes for Australian adult burns patients. *ANZ Journal of Surgery*.
+
 Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). Concordance between coding sources of burn size and depth across Australian and New Zealand specialist burn services. *Health Information Management Journal*. 
 
 Kurmis R, Nicholls C, Singer Y, Edgar DW, Wood FM, Gabbe BJ, & **Tracy LM** (accepted 11/05/2022). [An investigation of early enteral nutrition provision in major burn patients in Australia and New Zealand](https://onlinelibrary.wiley.com/doi/full/10.1111/1747-0080.12746). *Nutrition & Dietetics*. doi: 10.1111/1747-0080.12746
