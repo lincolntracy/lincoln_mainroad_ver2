@@ -12,6 +12,8 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+Singer Y, Gabbe BJ, Cleland H, Holden D, Schnekenburger M, & **Tracy LM** (accepted 10/08/2022). The association between out of hours burn centre admission and in-hospital outcomes in patients with severe burns. *Burns*.
+
 **Tracy LM**, Darton A, Gabbe BJ, Heath K, Kurmis R, Lisec C, Lo C, Singer Y, Wood FM, & Cleland H (accepted 06/08/2022). Examining the patient profile and variance of management and in-hospital outcomes for Australian adult burns patients. *ANZ Journal of Surgery*.
 
 Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). Concordance between coding sources of burn size and depth across Australian and New Zealand specialist burn services. *Health Information Management Journal*. 
