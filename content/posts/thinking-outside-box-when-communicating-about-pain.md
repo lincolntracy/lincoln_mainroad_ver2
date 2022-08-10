@@ -1,6 +1,6 @@
 ---
 title: "Thinking Outside of the Box When Communicating About Pain"
-date: 2022-08-10
+date: 2021-08-10
 categories:
  - "Freelance"
 tags:
