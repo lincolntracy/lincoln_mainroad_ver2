@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[Pain Avoidance in People with Migraine](https://www.linkedin.com/pulse/pain-avoidance-people-migraine-migraine-science-collaborative/) | *Migraine Science Collaborative*, 19 August 2022
+
 [Sex Differences in the Contextual Control of Conditioned Pain Tolerance](https://www.painresearchforum.org/news/203914-sex-differences-contextual-control-conditioned-pain-tolerance) | *Pain Research Forum*, 5 August 2022
 
 [Making a Difference in Neurology and Headache Medicine with an Integrated Approach: An Interview with Deena Kuruvilla](https://www.linkedin.com/pulse/making-difference-neurology-headache-medicine-/) | *Migraine Science Collaborative*, 5 August 2022
