@@ -131,6 +131,9 @@ Perkins M, Giummarra MJ, & **Tracy LM** (2017). [The effect of oxytocin on auton
 ---
 ## Technical Reports
 
+### 2022
+Burns Registry of Australia and New Zealand (2022). Annual Report 2020/21. Department of Epidemiology and Preventive Medicine, Monash University. Melbourne, Australia. [Available online](https://www.monash.edu/__data/assets/pdf_file/0004/2934805/BRANZ-12th-Annual-Report-Jul-20-Jun-21.pdf). 
+
 ### 2021
 Burns Registry of Australia and New Zealand (2021). Annual Report 2019/20. Department of Epidemiology and Preventive Medicine, Monash University. Melbourne, Australia. [Available online](https://www.monash.edu/__data/assets/pdf_file/0009/2598534/BRANZ-11th-Annual-Report-Jul-19-Jun-20.pdf). 
 
