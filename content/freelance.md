@@ -10,7 +10,11 @@ menu:
 ---
 
 ## 2022
+[Addressing Needle Fear Early Pays Off](https://medicalrepublic.com.au/addressing-needle-fear-early-pays-off/75694) | *The Medical Republic*, 26 August 2022
+
 [Pain Avoidance in People with Migraine](https://www.linkedin.com/pulse/pain-avoidance-people-migraine-migraine-science-collaborative/) | *Migraine Science Collaborative*, 19 August 2022
+
+[Podcast: Effect of Graded Sensorimotor Retraining in Patients with Chronic Low Back Pain](https://www.painresearchforum.org/forums/interview/205104-iasp-prf-podcast-effect-graded-sensorimotor-retraining-patients-chronic-low) | *Pain Research Forum*, 18 August 2022
 
 [Sex Differences in the Contextual Control of Conditioned Pain Tolerance](https://www.painresearchforum.org/news/203914-sex-differences-contextual-control-conditioned-pain-tolerance) | *Pain Research Forum*, 5 August 2022
 
