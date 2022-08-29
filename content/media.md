@@ -11,6 +11,8 @@ menu:
 
 A collection of interviews and newspaper articles about my research. 
 
+[Study reveals a lack of standardisation in burns care across Australia](https://www.monash.edu/medicine/news/latest/2022-articles/study-reveals-a-lack-of-standardisation-in-burns-care-across-australia) | Monash University 29 August 2022
+
 [New Study Finds Accidental Alteration Of Water Temperature At The Tap Whilst Bathing Was Involved In More Than 55% Of Injuries In People Admitted With Tap Water Scalds To Australian And New Zealand Burn Centers](https://www.worldplumbing.org/wpc-review-april-2022/#scalding) | World Plumbing Council Newsletter April 2022
 
 [Making sure you don't sunburn](https://www.abc.net.au/radionational/programs/healthreport/making-sure-you-dont-sunburn/13364056) | ABC Radio National Health Report 31 May 2021
