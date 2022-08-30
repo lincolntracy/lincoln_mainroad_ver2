@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[Long-Term Memory Formation Occurs Differently During Wakefulness and Sleep](https://www.brainpost.co/weekly-brainpost/2022/8/30/long-term-memory-formation-occurs-differently-during-wakefulness-and-sleep) | *BrainPost*, 30 August 2022
+
 [Addressing Needle Fear Early Pays Off](https://medicalrepublic.com.au/addressing-needle-fear-early-pays-off/75694) | *The Medical Republic*, 26 August 2022
 
 [Pain Avoidance in People with Migraine](https://www.linkedin.com/pulse/pain-avoidance-people-migraine-migraine-science-collaborative/) | *Migraine Science Collaborative*, 19 August 2022
