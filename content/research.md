@@ -126,7 +126,7 @@ Perkins M, Giummarra MJ, & **Tracy LM** (2017). [The effect of oxytocin on auton
 **Tracy LM** & Giummarra MJ (2016). [Females display increased empathy for pain and poorer autonomic regulation under cognitive stress compared to males](https://www.frontiersin.org/Community/AbstractDetails.aspx?ABS_DOI=10.3389/conf.fnhum.2016.221.00011&eid=4121&sname=ASP2016_-_The_26th_Annual_Meeting_of_the_Australasian_Society_for_Psychophysiology_Adelaide_Austral). *Front. Hum. Neurosci. Conference Abstract: 26th Annual Meeting of the Australasian Society for Psychophysiology*, Adelaide, Australia. doi: 10.3389/conf.fnhum.2016.221.00011
 
 ### 2015
-**Tracy LM**, Gibson SJ, Georgiou-Karistianis N & Giummarra MJ (2015). Impact of explicit cuing on anxiety and arousal during the anticipation of thermal pain. *Anaesthesia and Intensive Care*, 43 (3), 380-411.
+**Tracy LM**, Gibson SJ, Georgiou-Karistianis N & Giummarra MJ (2015). [Impact of explicit cuing on anxiety and arousal during the anticipation of thermal pain](https://www.proquest.com/docview/1681253792/8DD48CF3F876471APQ/15). *Anaesthesia and Intensive Care*, 43 (3), 380-411.
 
 ---
 ## Technical Reports
@@ -148,4 +148,4 @@ Connolly S, Tran S, Bertinetti M, & **Tracy LM** (2020). Exploring burn injuries
 **Tracy LM**, McInnes JA, Gong J, Karunakaran R, & Gabbe BJ (2019). Burns Registry of Australia and New Zealand 9th Annual Report. Monash University, Melbourne. [Available online](https://www.monash.edu/__data/assets/pdf_file/0003/1870005/BRANZ_AnnualReport_Year9_FINAL.pdf).
 
 ### 2018
-**Tracy LM**, McInnes JA, Gong J, Gabbe BJ, & Thomas T (2018). Burns Registry of Australia and New Zealand 8th Annual Report. Monash University, Melbourne. [Available online](http://branz.org/sites/default/files/BRANZ-8th-Annual-Report-Jul-16-Jun-17_0.pdf).
+**Tracy LM**, McInnes JA, Gong J, Gabbe BJ, & Thomas T (2018). Burns Registry of Australia and New Zealand 8th Annual Report. Monash University, Melbourne. [Available online](https://www.monash.edu/__data/assets/pdf_file/0005/1411349/BRANZ-8th-Annual-Report-Jul-16-Jun-17_0.pdf).

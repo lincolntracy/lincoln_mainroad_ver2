@@ -25,6 +25,8 @@ A collection of interviews and newspaper articles about my research.
 
 [Gender Linked With Outcomes in Acute Burn Injury Patients](https://www.physiciansweekly.com/gender-linked-with-outcomes-in-acute-burn-injury-patients) | Physicians Weekly 23 March 2021
 
+[Burning for a holiday](https://retailpharmacymagazine.com.au/13156-2/) | Retail Pharmacy 22 June 2020
+
 [Warning for parents as data reveals spike in burn injuries during school holidays](https://www.nationaltribune.com.au/warning-for-parents-as-data-reveals-spike-in-burn-injuries-during-school-holidays/) | National Tribune 22 June 2020
 
 [A red hot issue: Consensus needed for inhalation injury diagnosis in burn patients](https://labdownunder.com/a-red-hot-issue-consensus-needed-for-inhalation-injury-diagnosis-in-burn-patients) | Lab Down Under 22 April 2020
