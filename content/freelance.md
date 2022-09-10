@@ -14,23 +14,23 @@ menu:
 
 [Addressing Needle Fear Early Pays Off](https://medicalrepublic.com.au/addressing-needle-fear-early-pays-off/75694) | *The Medical Republic*, 26 August 2022
 
-[Pain Avoidance in People with Migraine](https://www.linkedin.com/pulse/pain-avoidance-people-migraine-migraine-science-collaborative/) | *Migraine Science Collaborative*, 19 August 2022
+[Pain Avoidance in People with Migraine](https://migrainecollaborative.org/pain-avoidance-in-people-with-migraine) | *Migraine Science Collaborative*, 19 August 2022
 
 [Podcast: Effect of Graded Sensorimotor Retraining in Patients with Chronic Low Back Pain](https://www.painresearchforum.org/forums/interview/205104-iasp-prf-podcast-effect-graded-sensorimotor-retraining-patients-chronic-low) | *Pain Research Forum*, 18 August 2022
 
 [Sex Differences in the Contextual Control of Conditioned Pain Tolerance](https://www.painresearchforum.org/news/203914-sex-differences-contextual-control-conditioned-pain-tolerance) | *Pain Research Forum*, 5 August 2022
 
-[Making a Difference in Neurology and Headache Medicine with an Integrated Approach: An Interview with Deena Kuruvilla](https://www.linkedin.com/pulse/making-difference-neurology-headache-medicine-/) | *Migraine Science Collaborative*, 5 August 2022
+[Making a Difference in Neurology and Headache Medicine with an Integrated Approach: An Interview with Deena Kuruvilla](https://migrainecollaborative.org/making-a-difference-in-neurology-and-headache-medicine-with-an-integrated-approach-an-interview-with-deena-kuruvilla) | *Migraine Science Collaborative*, 5 August 2022
 
-[From Pharmacy to Neurology, the Art of Headache Medicine, and the Importance of Mentorship: A Chat with Shivang Joshi](https://www.linkedin.com/pulse/from-pharmacy-neurology-art-headache-medicine-/?trackingId=igrsHe3OQZCvUgwDiijtxw%3D%3D) | *Migraine Science Collaborative*, 27 July 2022
+[From Pharmacy to Neurology, the Art of Headache Medicine, and the Importance of Mentorship: A Chat with Shivang Joshi](https://migrainecollaborative.org/from-pharmacy-to-neurology-the-art-of-headache-medicine-and-the-importance-of-mentorship-a-chat-with-shivang-joshi) | *Migraine Science Collaborative*, 27 July 2022
 
 [Thermal Pain Sensitivity is Driven by Circadian Rhythms](https://www.brainpost.co/weekly-brainpost/2022/7/26/thermal-pain-sensitivity-is-driven-by-circadian-rhythms) | *BrainPost*, 26 July 2022
 
 [All That Glitters Is Gold: Can Gold Treat Osteoarthritis Pain?](https://www.painresearchforum.org/news/202362-all-glitters-gold-can-gold-treat-osteoarthritis-pain) | *Pain Research Forum*, 21 July 2022
 
-[When the System Is Disrupted, a Better Understanding of Migraine Emerges: An Interview with Nasim Maleki](https://www.linkedin.com/pulse/when-system-disrupted-better-understanding-/) | *Migraine Science Collaborative*, 19 July 2022
+[When the System Is Disrupted, a Better Understanding of Migraine Emerges: An Interview with Nasim Maleki](https://migrainecollaborative.org/when-the-system-is-disrupted-a-better-understanding-of-migraine-emerges-an-interview-with-nasim-maleki) | *Migraine Science Collaborative*, 19 July 2022
 
-[One in Two People Experience a Headache Disorder, an Updated Review Reports](https://www.linkedin.com/pulse/one-two-people-experience-headache-disorder-/?trackingId=/Rg/roDvGRk6rA7%2B/A3oFg%3D%3D) | *Migraine Science Collaborative*, 16 June 2022
+[One in Two People Experience a Headache Disorder, an Updated Review Reports](https://migrainecollaborative.org/one-in-two-people-experience-a-headache-disorder-an-updated-review-reports) | *Migraine Science Collaborative*, 16 June 2022
 
 [How Can we Help Children Better Cope with Pain?](https://blog.apsoc.org.au/2022/06/10/aps2022-topical-session-2c-how-can-we-help-children-better-cope-with-pain/) | *Australian Pain Society Blog*, 10 June 2022
 
@@ -40,9 +40,9 @@ menu:
 
 [Will a Cannabis Crisis Replace the Opioid Crisis?](https://blog.apsoc.org.au/2022/05/30/aps2022-debate-will-a-cannabis-crisis-replace-the-opioid-crisis/) | *Australian Pain Society Blog*, 30 May 2022
 
-[Migraine in the Emergency Department Setting: A Chat With Anne-Maree Kelly](https://www.linkedin.com/pulse/migraine-emergency-department-setting-chat-/) | *Migraine Science Collaborative*, 12 May 2022
+[Migraine in the Emergency Department Setting: A Chat With Anne-Maree Kelly](https://migrainecollaborative.org/migraine-in-the-emergency-department-setting-a-chat-with-anne-maree-kelly) | *Migraine Science Collaborative*, 12 May 2022
 
-[Researchers Discover New Genetic Variants for Migraine](https://www.linkedin.com/pulse/researchers-discover-new-genetic-variants-/) | *Migraine Science Collaborative*, 5 May 2022
+[Researchers Discover New Genetic Variants for Migraine](https://migrainecollaborative.org/researchers-discover-new-genetic-variants-for-migraine) | *Migraine Science Collaborative*, 5 May 2022
 
 [Utilizing Artificial Intelligence Improves Planning and Decision Making](https://www.brainpost.co/weekly-brainpost/2022/4/5/utilizing-artificial-intelligence-improves-planning-and-decision-making) | *BrainPost*, 5 April 2022
 
