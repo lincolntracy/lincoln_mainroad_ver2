@@ -1,5 +1,5 @@
 ---
-title: "Resilience Face Pain Chat Liesbet Goubert"
+title: "Resilience in the Face of Pain: A Chat With Liesbet Goubert"
 date: 2018-07-18
 categories:
  - "Freelance"

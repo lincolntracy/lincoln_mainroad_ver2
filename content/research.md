@@ -12,8 +12,6 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
-**Tracy LM**, Lo CH, Cleland HJ, Teague WJ, & Gabbe BJ (accepted 09/09/2022). Early impact of COVID-19 pandemic on burn injuries, admissions, and care in a statewide burn service. *European Burns Journal*. 
-
 Singer Y, Gabbe BJ, Cleland H, Holden D, Schnekenburger M, & **Tracy LM** (accepted 10/08/2022). [The association between out of hours burn centre admission and in-hospital outcomes in patients with severe burns](https://www.sciencedirect.com/science/article/abs/pii/S0305417922002029). *Burns*. doi: 10.1016/j.burns.2022.08.002
 
 **Tracy LM**, Darton A, Gabbe BJ, Heath K, Kurmis R, Lisec C, Lo C, Singer Y, Wood FM, & Cleland H (accepted 06/08/2022). [Examining the patient profile and variance of management and in-hospital outcomes for Australian adult burns patients](https://onlinelibrary.wiley.com/doi/10.1111/ans.17985). *ANZ Journal of Surgery*.
@@ -27,6 +25,8 @@ Kurmis R, Nicholls C, Singer Y, Edgar DW, Wood FM, Gabbe BJ, & **Tracy LM** (acc
 **Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac017
 
 ### 2022
+**Tracy LM**, Lo CH, Cleland HJ, Teague WJ, & Gabbe BJ (2022). [Early impact of COVID-19 pandemic on burn injuries, admissions, and care in a statewide burn service](https://www.mdpi.com/2673-1991/3/3/39). *European Burns Journal*, 3(3): 447-456. doi: 10.3390/ebj3030039
+
 Hong R, Perkins M, Gabbe BJ & **Tracy LM** (2022). [Comparing peak burn injury times and characteristics in Australia and New Zealand](https://www.mdpi.com/1660-4601/19/15/9578). *International Journal of Environmental Research and Public Health*, 19(15): 9578. doi: 10.3390/ijerph19159578
 
 Singer Y, **Tracy LM**, Menezes H, Cleland H, Perrett T, Wood F, Harvey L (2022). [“The home, the bathroom, the taps, and hot water”: The contextual characteristics of tap water scalds in Australia and New Zealand](https://www.sciencedirect.com/science/article/abs/pii/S0305417921002436). *Burns*, 48(4): 1004-1012. doi: 10.1016/j.burns.2021.08.022
