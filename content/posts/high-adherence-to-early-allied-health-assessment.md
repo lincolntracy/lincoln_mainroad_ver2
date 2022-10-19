@@ -1,5 +1,5 @@
 ---
-title: "High Adherence to Early Allied Health Assessment"
+title: "High Adherence to Early Allied Health Assessment Observed in Australian and New Zealand Burn Services"
 date: 2022-10-19T18:16:58+11:00
 categories:
  - "Research"
