@@ -12,7 +12,7 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
-**Tracy LM**, Kurmis R, Heath L, & Edgar D (accepted 12/10/2022). Adherence with early allied health assessments in specialist burn services. *Journal of Burn Care & Research*. 
+**Tracy LM**, Kurmis R, Heath L, & Edgar D (accepted 12/10/2022). [Adherence with early allied health assessments in specialist burn services](https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irac153/6762642). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac153
 
 Singer Y, Gabbe BJ, Cleland H, Holden D, Schnekenburger M, & **Tracy LM** (accepted 10/08/2022). [The association between out of hours burn centre admission and in-hospital outcomes in patients with severe burns](https://www.sciencedirect.com/science/article/abs/pii/S0305417922002029). *Burns*. doi: 10.1016/j.burns.2022.08.002
 
