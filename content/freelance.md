@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[More Than Meets the (Human) Eye: Headache Researchers Use Facial Detection Software as an Automated Readout of Pain in Mice](https://migrainecollaborative.org/more-than-meets-the-human-eye-headache-researchers-use-facial-detection-software-as-an-automated-readout-of-pain-in-mice) | *Migraine Science Collaborative*, 26 October 2022
+
 [Sleep-Like Slow Waves Modulate Attention While Awake](https://www.brainpost.co/weekly-brainpost/2022/10/4/sleep-like-slow-waves-modulate-attention-while-awake) | *BrainPost*, 4 October 2022
 
 [Long-Term Memory Formation Occurs Differently During Wakefulness and Sleep](https://www.brainpost.co/weekly-brainpost/2022/8/30/long-term-memory-formation-occurs-differently-during-wakefulness-and-sleep) | *BrainPost*, 30 August 2022

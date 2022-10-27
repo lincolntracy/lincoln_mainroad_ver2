@@ -12,7 +12,7 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
-**Tracy LM**, Kurmis R, Heath L, & Edgar D (accepted 12/10/2022). [Adherence with early allied health assessments in specialist burn services](https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irac153/6762642). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac153
+**Tracy LM**, Kurmis R, Heath K, & Edgar D (accepted 12/10/2022). [Adherence with early allied health assessments in specialist burn services](https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irac153/6762642). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac153
 
 Singer Y, Gabbe BJ, Cleland H, Holden D, Schnekenburger M, & **Tracy LM** (accepted 10/08/2022). [The association between out of hours burn centre admission and in-hospital outcomes in patients with severe burns](https://www.sciencedirect.com/science/article/abs/pii/S0305417922002029). *Burns*. doi: 10.1016/j.burns.2022.08.002
 
@@ -46,7 +46,7 @@ Connolly S, Bertinetti M, Teague WJ, Gabbe BJ, & **Tracy LM** (2021). [Sunburn I
 
 **Tracy LM**, Cleland H, Cameron PA & Gabbe BJ (2021). [Pain assessment following burn injury in Australia and New Zealand: Variation in prevalence and impact on in-hospital outcomes](sciencedirect.com/science/article/abs/pii/S2588994X20300658). *Australasian Emergency Care*, 24(1): 73-79. doi: 10.1016/j.auec.2020.07.007
 
-Perkins M, Abesamis GMM, Cleland H, Gabbe BJ, & **Tracy** LM (2021). [Association between gender and outcomes of acute burns patients](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ans.16426). *Australian and New Zealand Journal of Surgery*, 91(1-2): 83-88. doi: 10.1111/ans.16426
+Perkins M, Abesamis GMM, Cleland H, Gabbe BJ, & **Tracy LM** (2021). [Association between gender and outcomes of acute burns patients](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ans.16426). *Australian and New Zealand Journal of Surgery*, 91(1-2): 83-88. doi: 10.1111/ans.16426
 
 **Tracy LM**, Cameron PA, Singer Y, Earnest A, Wood F, Cleland H, & Gabbe BJ (2021). [Venous thromboembolism prophylaxis practice and its effect on outcomes in Australia and New Zealand burns patients](https://academic.oup.com/burnstrauma/article/doi/10.1093/burnst/tkaa044/6133166?guestAccessKey=7143965b-a958-4d80-b4d7-177727246ae4). *Burns & Trauma*, 9: tkaa044. doi: 10.1093/burnst/tkaa044
 
