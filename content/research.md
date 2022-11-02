@@ -20,11 +20,11 @@ Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). Concordance
 
 Kurmis R, Nicholls C, Singer Y, Edgar DW, Wood FM, Gabbe BJ, & **Tracy LM** (accepted 11/05/2022). [An investigation of early enteral nutrition provision in major burn patients in Australia and New Zealand](https://onlinelibrary.wiley.com/doi/full/10.1111/1747-0080.12746). *Nutrition & Dietetics*. doi: 10.1111/1747-0080.12746
 
-**Tracy LM**, Braaf S, Gold M, & Cleland HJ (accepted 02/03/2022). [Burn Care Specialists’ Views Towards End of Life Decision-Making in Patients with Severe Burn Injury: Findings from an Online Survey in Australia and New Zealand](https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irac030/6543950). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac030
-
 **Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac017
 
 ### 2022
+**Tracy LM**, Braaf S, Gold M, & Cleland HJ (2022). [Burn Care Specialists’ Views Towards End of Life Decision-Making in Patients with Severe Burn Injury: Findings from an Online Survey in Australia and New Zealand](https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irac030/6543950). *Journal of Burn Care & Research*, 43(6): 1322-1328. doi: 10.1093/jbcr/irac030
+
 **Tracy LM**, Darton A, Gabbe BJ, Heath K, Kurmis R, Lisec C, Lo C, Singer Y, Wood FM, & Cleland H (2022). [Examining the patient profile and variance of management and in-hospital outcomes for Australian adult burns patients](https://onlinelibrary.wiley.com/doi/10.1111/ans.17985). *ANZ Journal of Surgery*, 92(10): 2641-2647. doi: 10.1111/ans.17985
 
 **Tracy LM**, Lo CH, Cleland HJ, Teague WJ, & Gabbe BJ (2022). [Early impact of COVID-19 pandemic on burn injuries, admissions, and care in a statewide burn service](https://www.mdpi.com/2673-1991/3/3/39). *European Burns Journal*, 3(3): 447-456. doi: 10.3390/ebj3030039
