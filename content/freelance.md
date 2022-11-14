@@ -22,6 +22,10 @@ menu:
 
 [Podcast: Effect of Graded Sensorimotor Retraining in Patients with Chronic Low Back Pain](https://www.painresearchforum.org/forums/interview/205104-iasp-prf-podcast-effect-graded-sensorimotor-retraining-patients-chronic-low) | *Pain Research Forum*, 18 August 2022
 
+[Behçet’s Disease](https://www.rheumatologyadvisor.com/ddi/behcets-disease/) | *Rheumatology Advisor*, 10 August 2022
+
+[Undifferentiated Connective Tissue Disease](https://www.rheumatologyadvisor.com/ddi/undifferentiated-connective-tissue-disease/) | *Rheumatology Advisor*, 9 August 2022
+
 [Sex Differences in the Contextual Control of Conditioned Pain Tolerance](https://www.painresearchforum.org/news/203914-sex-differences-contextual-control-conditioned-pain-tolerance) | *Pain Research Forum*, 5 August 2022
 
 [Making a Difference in Neurology and Headache Medicine with an Integrated Approach: An Interview with Deena Kuruvilla](https://migrainecollaborative.org/making-a-difference-in-neurology-and-headache-medicine-with-an-integrated-approach-an-interview-with-deena-kuruvilla) | *Migraine Science Collaborative*, 5 August 2022
