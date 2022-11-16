@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[Dopaminergic Dual Gating of Obsessive-Compulsive Behaviors](https://www.brainpost.co/weekly-brainpost/2022/11/15/dopaminergic-dual-gating-of-obsessive-compulsive-behaviors) | *BrainPost*, 15 November 2022
+
 [More Than Meets the (Human) Eye: Headache Researchers Use Facial Detection Software as an Automated Readout of Pain in Mice](https://migrainecollaborative.org/more-than-meets-the-human-eye-headache-researchers-use-facial-detection-software-as-an-automated-readout-of-pain-in-mice) | *Migraine Science Collaborative*, 26 October 2022
 
 [Sleep-Like Slow Waves Modulate Attention While Awake](https://www.brainpost.co/weekly-brainpost/2022/10/4/sleep-like-slow-waves-modulate-attention-while-awake) | *BrainPost*, 4 October 2022
