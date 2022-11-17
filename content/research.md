@@ -16,7 +16,7 @@ menu:
 
 Singer Y, Gabbe BJ, Cleland H, Holden D, Schnekenburger M, & **Tracy LM** (accepted 10/08/2022). [The association between out of hours burn centre admission and in-hospital outcomes in patients with severe burns](https://www.sciencedirect.com/science/article/abs/pii/S0305417922002029). *Burns*. doi: 10.1016/j.burns.2022.08.002
 
-Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). Concordance between coding sources of burn size and depth across Australian and New Zealand specialist burn services. *Health Information Management Journal*. 
+Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). [Concordance between coding sources of burn size and depth across Australian and New Zealand specialist burn services](https://journals.sagepub.com/doi/10.1177/18333583221135710). *Health Information Management Journal*. doi: 10.1177/18333583221135710 
 
 **Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac017
 
