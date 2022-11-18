@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[A Chat with the New Editor-in-Chief of the PRF Editorial Board: Rebecca Seal](https://www.painresearchforum.org/forums/interview/211770-chat-new-editor-chief-prf-editorial-board-rebecca-seal) | *Pain Research Forum*, 16 November 2022
+
 [Mindfulness and Migraine: Is There a Link?](https://migrainecollaborative.org/mindfulness-and-migraine-is-there-a-link) | *Migraine Science Collaborative*, 16 November 2022
 
 [Dopaminergic Dual Gating of Obsessive-Compulsive Behaviors](https://www.brainpost.co/weekly-brainpost/2022/11/15/dopaminergic-dual-gating-of-obsessive-compulsive-behaviors) | *BrainPost*, 15 November 2022
