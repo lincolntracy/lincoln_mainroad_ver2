@@ -10,6 +10,10 @@ menu:
 ---
 
 ## 2022
+[Metabolic Syndrome Increases Risk of Gout](https://rheuma.com.au/metabolic-syndrome-increases-the-risk-of-gout/23677) *Rheumatology Republic*, 24 November 2022
+
+[Pollen-Related Asthma in Kids Needs Yearlong Vigilance](https://medicalrepublic.com.au/pollen-related-asthma-in-kids-needs-yearlong-vigilance/82178) | *The Medical Republic*, 24 November 2022
+
 [A Chat with the New Editor-in-Chief of the PRF Editorial Board: Rebecca Seal](https://www.painresearchforum.org/forums/interview/211770-chat-new-editor-chief-prf-editorial-board-rebecca-seal) | *Pain Research Forum*, 16 November 2022
 
 [Mindfulness and Migraine: Is There a Link?](https://migrainecollaborative.org/mindfulness-and-migraine-is-there-a-link) | *Migraine Science Collaborative*, 16 November 2022
