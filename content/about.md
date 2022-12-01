@@ -18,10 +18,11 @@ Outside of research Lincoln has conducted interviews and written for:
 - [Migraine Science Collaborative](https://www.migrainecollaborative.org/home)
 - [Australian Pain Society](https://www.apsoc.org.au/)
 - [Rheumatology Advisor](https://www.rheumatologyadvisor.com/)
+- [The Medical Republic](https://medicalrepublic.com.au/)
 
 Lincoln is the Editor for the Australian Pain Society Newsletter, a Board member of the [Australian and New Zealand Burn Association](https://anzba.org.au/), and is the Podcast Editor for [One Thing](http://onething.painsci.org/). 
 
-A brief copy of Lincoln's CV can be found [here](/files/content/about/TracyCV-November2022.pdf). 
+A brief copy of Lincoln's CV can be found [here](/files/content/about/TracyCV-December2022.pdf). 
 
 Lincoln is most active on Twitter - [@lincolntracy](https://twitter.com/lincolntracy).
 

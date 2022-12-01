@@ -10,7 +10,9 @@ menu:
 ---
 
 ## 2022
-[Metabolic Syndrome Increases Risk of Gout](https://rheuma.com.au/metabolic-syndrome-increases-the-risk-of-gout/23677) *Rheumatology Republic*, 24 November 2022
+[GP-led preconception care works](https://medicalrepublic.com.au/gp-led-preconception-care-works/82567) | *The Medical Republic*, 1 December 2022
+
+[COPD increases shingles risk](https://medicalrepublic.com.au/copd-increases-shingles-risk/82621) | *Rheumatology Republic*, 1 December 2022
 
 [Pollen-Related Asthma in Kids Needs Yearlong Vigilance](https://medicalrepublic.com.au/pollen-related-asthma-in-kids-needs-yearlong-vigilance/82178) | *The Medical Republic*, 24 November 2022
 
