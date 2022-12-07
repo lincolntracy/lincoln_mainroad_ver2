@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[Intoxication is not in the eye of the beer-holder](https://medicalrepublic.com.au/intoxication-is-not-in-the-eye-of-the-beer-holder/82991) | *The Medical Republic*, 7 December 2022
+
 [GP-led preconception care works](https://medicalrepublic.com.au/gp-led-preconception-care-works/82567) | *The Medical Republic*, 1 December 2022
 
 [COPD increases shingles risk](https://medicalrepublic.com.au/copd-increases-shingles-risk/82621) | *Rheumatology Republic*, 1 December 2022
