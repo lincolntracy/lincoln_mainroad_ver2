@@ -39,7 +39,7 @@ For the third part of the project, I interviewed 11 clinicians (burn surgeons, b
 
 A summary of the themes and subthemes identified from the interviews is presented in the figure below.
 
-![Blog figure](/img/content/posts/exploring-clinician-decision-making-process-about-end-of-life-care-burns/Pall Care Qual Blog.png)
+![Blog figure](../../static/img/content/posts/exploring-clinician-decision-making-process-about-end-of-life-care-burns/Pall%20Care%20Qual%20Blog.png)
 
 Let’s unpack some of these themes in more detail.
 
