@@ -10,6 +10,10 @@ menu:
 ---
 
 ## 2022
+[Cancer drug hope for pemphigus patients](https://medicalrepublic.com.au/cancer-drug-hope-for-pemphigus-patients/83422) | *The Medical Republic*, 16 December 2022
+
+[Future grim for Australia's research sector](https://medicalrepublic.com.au/future-grim-for-australias-research-sector/83419) | *The Medical Republic*, 16 December 2022
+
 [Intoxication is not in the eye of the beer-holder](https://medicalrepublic.com.au/intoxication-is-not-in-the-eye-of-the-beer-holder/82991) | *The Medical Republic*, 7 December 2022
 
 [GP-led preconception care works](https://medicalrepublic.com.au/gp-led-preconception-care-works/82567) | *The Medical Republic*, 1 December 2022

@@ -12,6 +12,8 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+Reeder S, Cleland HJ, Gold M, & **Tracy LM** (accepted 8/12/2022). [Exploring Clinicians’ Decision-Making Processes about End-of-Life Care After Burns: A Qualitative Interview study](https://www.sciencedirect.com/science/article/abs/pii/S0305417922003060). *Burns*. doi: 10.1016/j.burns.2022.12.001
+
 **Tracy LM**, Kurmis R, Heath K, & Edgar D (accepted 12/10/2022). [Adherence with early allied health assessments in specialist burn services](https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irac153/6762642). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac153
 
 Singer Y, Gabbe BJ, Cleland H, Holden D, Schnekenburger M, & **Tracy LM** (accepted 10/08/2022). [The association between out of hours burn centre admission and in-hospital outcomes in patients with severe burns](https://www.sciencedirect.com/science/article/abs/pii/S0305417922002029). *Burns*. doi: 10.1016/j.burns.2022.08.002
