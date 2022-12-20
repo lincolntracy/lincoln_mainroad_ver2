@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2022
+[Deep Brain Stimulation in Alzheimer’s Disease](https://www.brainpost.co/weekly-brainpost/2022/12/20/deep-brain-stimulation-in-alzheimers-disease) | *BrainPost*, 20 December 2022
+
 [Cancer drug hope for pemphigus patients](https://medicalrepublic.com.au/cancer-drug-hope-for-pemphigus-patients/83422) | *The Medical Republic*, 16 December 2022
 
 [Future grim for Australia's research sector](https://medicalrepublic.com.au/future-grim-for-australias-research-sector/83419) | *The Medical Republic*, 16 December 2022
