@@ -9,6 +9,11 @@ menu:
         weight: 30
 ---
 
+## 2023
+[Alarm at surge in invasive Strep A infections](https://medicalrepublic.com.au/alarm-at-surge-in-invasive-strep-a-infections/84079) | *The Medical Republic*, 16 January 2022
+
+[Experts divided on supplements for hair loss](https://medicalrepublic.com.au/experts-divided-on-nutritional-supplements-for-hair-loss/84033) | *The Medical Republic*, 16 January 2022
+
 ## 2022
 [Why Does Sumatriptan Only Work for Headache Disorders?](https://migrainecollaborative.org/why-does-sumatriptan-only-work-for-headache-disorders) | *Migraine Science Collaborative*, 30 December 2022
 
