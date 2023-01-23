@@ -10,6 +10,12 @@ menu:
 ---
 
 ## 2023
+[Non-steroid hope for kids with sleep problems](https://medicalrepublic.com.au/non-steroid-hope-for-kids-with-sleep-problems/84283) | *The Medical Republic*, 23 January 2022
+
+[Obesity blunts benefits of vitamin D supplements](https://medicalrepublic.com.au/obesity-blunts-benefits-of-vitamin-d-supplements/84371) | *The Medical Republic*, 23 January 2022
+
+[Treating chronic pain with telehealth](https://wildhealth.net.au/treating-chronic-pain-with-telehealth) | *Wild Health*, 19 January 2022
+
 [Alarm at surge in invasive Strep A infections](https://medicalrepublic.com.au/alarm-at-surge-in-invasive-strep-a-infections/84079) | *The Medical Republic*, 16 January 2022
 
 [Experts divided on supplements for hair loss](https://medicalrepublic.com.au/experts-divided-on-nutritional-supplements-for-hair-loss/84033) | *The Medical Republic*, 16 January 2022
