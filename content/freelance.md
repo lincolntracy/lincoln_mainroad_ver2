@@ -10,6 +10,10 @@ menu:
 ---
 
 ## 2023
+[First covid, then strep, now gastroenteritis](https://medicalrepublic.com.au/first-covid-then-strep-now-gastroenteritis/84637) | *The Medical Republic*, 27 January 2023
+
+[Heel prick tests key to spinal muscular atrophy care](https://medicalrepublic.com.au/sma-screening-ups-chances-of-walking/84634) | *The Medical Republic*, 27 January 2023
+
 [Gray Matter Atrophy Correlates with Neurotransmitter Dysfunction in Multiple Sclerosis](https://www.brainpost.co/weekly-brainpost/2023/1/24/gray-matter-atrophy-correlates-with-neurotransmitter-dysfunction-in-multiple-sclerosis) | *BrainPost*, 24 January 2023
 
 [Non-steroid hope for kids with sleep problems](https://medicalrepublic.com.au/non-steroid-hope-for-kids-with-sleep-problems/84283) | *The Medical Republic*, 23 January 2023
