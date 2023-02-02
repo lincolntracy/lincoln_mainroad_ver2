@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2023
+[More exercise is not the answer for knee OA](https://rheuma.com.au/more-exercise-is-not-the-answer-for-knee-oa/23928) | *Rheumatology Republic*, 2 February 2023
+
 [First covid, then strep, now gastroenteritis](https://medicalrepublic.com.au/first-covid-then-strep-now-gastroenteritis/84637) | *The Medical Republic*, 27 January 2023
 
 [Heel prick tests key to spinal muscular atrophy care](https://medicalrepublic.com.au/sma-screening-ups-chances-of-walking/84634) | *The Medical Republic*, 27 January 2023
