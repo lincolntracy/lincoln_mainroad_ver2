@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2023
+[Headache Disorders in Veterans: A Big Problem](https://migrainecollaborative.org/headache-disorders-in-veterans-a-big-problem) | *Migraine Science Collaborative*, 9 February 2023
+
 [SGLT2 inhibitors may help men’s hearts more](https://medicalrepublic.com.au/sglt2-inhibitors-may-help-mens-hearts-more/85525) | *The Medical Republic*, 9 February 2023
 
 [Older diabetics face increased cancer risk](https://www.oncologyrepublic.com.au/older-diabetics-face-increased-cancer-risk/2995) | *Oncology Republic*, 8 February 2023
