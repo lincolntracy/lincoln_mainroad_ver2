@@ -10,6 +10,10 @@ menu:
 ---
 
 ## 2023
+[Both Cardiovascular and Behavioral Threat Responses Contribute to Defensive States](brainpost.co/weekly-brainpost/2023/2/14/both-cardiovascular-and-behavioral-threat-responses-contribute-to-defensive-states) | *BrainPost*, 14 February 2023
+
+[Treat chlamydia with doxycycline first: new guidelines](https://medicalrepublic.com.au/treat-chlamydia-with-doxycycline-first-new-guidelines/85667) | *The Medical Republic*, 13 February 2023
+
 [Headache Disorders in Veterans: A Big Problem](https://migrainecollaborative.org/headache-disorders-in-veterans-a-big-problem) | *Migraine Science Collaborative*, 9 February 2023
 
 [SGLT2 inhibitors may help men’s hearts more](https://medicalrepublic.com.au/sglt2-inhibitors-may-help-mens-hearts-more/85525) | *The Medical Republic*, 9 February 2023

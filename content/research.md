@@ -12,6 +12,8 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+**Tracy LM**, Gabbe BJ, & Beck B (accepted 14/02/2023). Friction Burns in Cyclists: An Under-recognised Problem. *Injury*. 
+
 Reeder S, Cleland HJ, Gold M, & **Tracy LM** (accepted 8/12/2022). [Exploring Clinicians’ Decision-Making Processes about End-of-Life Care After Burns: A Qualitative Interview study](https://www.sciencedirect.com/science/article/abs/pii/S0305417922003060). *Burns*. doi: 10.1016/j.burns.2022.12.001
 
 **Tracy LM**, Kurmis R, Heath K, & Edgar D (accepted 12/10/2022). [Adherence with early allied health assessments in specialist burn services](https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irac153/6762642). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac153
