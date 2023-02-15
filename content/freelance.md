@@ -14,6 +14,8 @@ menu:
 
 [Treat chlamydia with doxycycline first: new guidelines](https://medicalrepublic.com.au/treat-chlamydia-with-doxycycline-first-new-guidelines/85667) | *The Medical Republic*, 13 February 2023
 
+[Finally Getting to Scratch That Itch](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/finally-getting-to-scratch-that-itch/) | *Pain Research Forum*, 10 February 2023
+
 [Headache Disorders in Veterans: A Big Problem](https://migrainecollaborative.org/headache-disorders-in-veterans-a-big-problem) | *Migraine Science Collaborative*, 9 February 2023
 
 [SGLT2 inhibitors may help men’s hearts more](https://medicalrepublic.com.au/sglt2-inhibitors-may-help-mens-hearts-more/85525) | *The Medical Republic*, 9 February 2023
