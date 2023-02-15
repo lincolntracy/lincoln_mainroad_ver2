@@ -24,6 +24,10 @@ menu:
 
 [New round of covid boosters approved](https://medicalrepublic.com.au/new-round-of-covid-boosters-approved/85356) | *The Medical Republic*, 8 February 2023
 
+[Gig economy more diverse than first thought](https://www.uts.edu.au/about/uts-business-school/research/centre-livelihoods-and-wellbeing/about-us/news/gig-economy-more-diverse-first-thought) | *University of Technology Sydney*, 5 February 2023
+
+[Nice (gig) work if you can get it](https://www.uts.edu.au/about/uts-business-school/research/centre-livelihoods-and-wellbeing/about-us/news/nice-gig-work-if-you-can-get-it) | *University of Technology Sydney*, 5 February 2023
+
 [More exercise is not the answer for knee OA](https://rheuma.com.au/more-exercise-is-not-the-answer-for-knee-oa/23928) | *Rheumatology Republic*, 2 February 2023
 
 [First covid, then strep, now gastroenteritis](https://medicalrepublic.com.au/first-covid-then-strep-now-gastroenteritis/84637) | *The Medical Republic*, 27 January 2023

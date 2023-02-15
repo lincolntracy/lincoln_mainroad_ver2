@@ -19,6 +19,7 @@ Outside of research Lincoln has conducted interviews and written for:
 - [Australian Pain Society](https://www.apsoc.org.au/)
 - [Rheumatology Advisor](https://www.rheumatologyadvisor.com/)
 - [The Medical Republic](https://medicalrepublic.com.au/)
+- [STEMM Matters](https://stemmatters.com.au/)
 
 Lincoln is the Editor for the Australian Pain Society Newsletter, a Board member of the [Australian and New Zealand Burn Association](https://anzba.org.au/), and is the Podcast Editor for [One Thing](http://onething.painsci.org/). 
 
