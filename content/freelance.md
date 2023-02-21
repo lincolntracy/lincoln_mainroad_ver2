@@ -10,6 +10,10 @@ menu:
 ---
 
 ## 2023
+[Is Alcohol a Migraine Trigger?](https://migrainecollaborative.org/is-alcohol-a-migraine-trigger) | *Migraine Science Collaborative*, 20 February 2023
+
+[Obesity in type 1 diabetics a growing concern](https://www.medicalrepublic.com.au/obesity-in-type-1-diabetics-a-growing-concern/86160) | *The Medical Republic*, 20 February 2023
+
 [Both Cardiovascular and Behavioral Threat Responses Contribute to Defensive States](brainpost.co/weekly-brainpost/2023/2/14/both-cardiovascular-and-behavioral-threat-responses-contribute-to-defensive-states) | *BrainPost*, 14 February 2023
 
 [Treat chlamydia with doxycycline first: new guidelines](https://medicalrepublic.com.au/treat-chlamydia-with-doxycycline-first-new-guidelines/85667) | *The Medical Republic*, 13 February 2023
