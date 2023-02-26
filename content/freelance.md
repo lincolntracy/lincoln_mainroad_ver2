@@ -91,7 +91,7 @@ menu:
 
 [Undifferentiated Connective Tissue Disease](https://www.rheumatologyadvisor.com/ddi/undifferentiated-connective-tissue-disease/) | *Rheumatology Advisor*, 9 August 2022
 
-[Sex Differences in the Contextual Control of Conditioned Pain Tolerance](https://www.painresearchforum.org/news/203914-sex-differences-contextual-control-conditioned-pain-tolerance) | *Pain Research Forum*, 5 August 2022
+[Sex Differences in the Contextual Control of Conditioned Pain Tolerance](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/203914-sex-differences-contextual-control-conditioned-pain-tolerance/) | *Pain Research Forum*, 5 August 2022
 
 [Making a Difference in Neurology and Headache Medicine with an Integrated Approach: An Interview with Deena Kuruvilla](https://migrainecollaborative.org/making-a-difference-in-neurology-and-headache-medicine-with-an-integrated-approach-an-interview-with-deena-kuruvilla) | *Migraine Science Collaborative*, 5 August 2022
 
@@ -99,7 +99,7 @@ menu:
 
 [Thermal Pain Sensitivity is Driven by Circadian Rhythms](https://www.brainpost.co/weekly-brainpost/2022/7/26/thermal-pain-sensitivity-is-driven-by-circadian-rhythms) | *BrainPost*, 26 July 2022
 
-[All That Glitters Is Gold: Can Gold Treat Osteoarthritis Pain?](https://www.painresearchforum.org/news/202362-all-glitters-gold-can-gold-treat-osteoarthritis-pain) | *Pain Research Forum*, 21 July 2022
+[All That Glitters Is Gold: Can Gold Treat Osteoarthritis Pain?](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/202362-all-glitters-gold-can-gold-treat-osteoarthritis-pain/) | *Pain Research Forum*, 21 July 2022
 
 [When the System Is Disrupted, a Better Understanding of Migraine Emerges: An Interview with Nasim Maleki](https://migrainecollaborative.org/when-the-system-is-disrupted-a-better-understanding-of-migraine-emerges-an-interview-with-nasim-maleki) | *Migraine Science Collaborative*, 19 July 2022
 
@@ -123,7 +123,7 @@ menu:
 
 [Cognitive Behavioural Therapy and van Gogh’s Sister-in-law: A Chat with Beverly Thorn](https://blog.apsoc.org.au/2022/04/01/cognitive-behavioural-therapy-and-van-goghs-sister-in-law-a-chat-with-beverly-thorn/) | *Australian Pain Society Blog*, 1 April 2022
 
-[Chilean Collaboration Aims to Find New Targets for the Treatment of Pain](https://www.painresearchforum.org/news/193712-chilean-collaboration-aims-find-new-targets-treatment-pain) | *Pain Research Forum*, 31 March 2022
+[Chilean Collaboration Aims to Find New Targets for the Treatment of Pain](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/193712-chilean-collaboration-aims-find-new-targets-treatment-pain/) | *Pain Research Forum*, 31 March 2022
 
 [History, Serendipity, and Neuropathic Pain: A Chat with Andrew Rice](https://blog.apsoc.org.au/2022/03/29/history-serendipity-and-neuropathic-pain-a-chat-with-andrew-rice/) | *Australian Pain Society Blog*, 29 March 2022
 
@@ -140,11 +140,11 @@ menu:
 
 [The Adventures of Hayley, Queen of the Desert: A Chat with Pain Researcher and Sole Survivor Hayley Leake](https://blog.apsoc.org.au/2021/10/12/the-adventures-of-hayley-queen-of-the-desert-a-chat-with-pain-researcher-and-sole-survivor-hayley-leake%ef%bf%bc/) | *Australian Poin Society*, 12 October 2021
 
-[Dose Tapering in Patients Prescribed Long-Term Opioids: More Harm Than Good?](https://www.painresearchforum.org/news/180850-dose-tapering-patients-prescribed-long-term-opioids-more-harm-good) | *Pain Research Forum*, 8 October 2021
+[Dose Tapering in Patients Prescribed Long-Term Opioids: More Harm Than Good?](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/180850-dose-tapering-patients-prescribed-long-term-opioids-more-harm-good/) | *Pain Research Forum*, 8 October 2021
 
 [Distinct Roles for Social Brain Network Regions in Strategy Development](https://www.brainpost.co/weekly-brainpost/2021/8/24/distinct-roles-for-social-brain-network-regions-in-strategy-development) | *BrainPost*, 24 August 2021
 
-[Thinking Outside of the Box When Communicating About Pain](https://www.painresearchforum.org/news/176410-thinking-outside-box-when-communicating-about-pain) | *Pain Research Forum*, 10 August 2021
+[Thinking Outside of the Box When Communicating About Pain](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/176410-thinking-outside-box-when-communicating-about-pain/) | *Pain Research Forum*, 10 August 2021
 
 [Cognitive Behavioral Group Therapy and Mindfulness Based Stress Reduction Recruit Similar Brain Regions](https://www.brainpost.co/weekly-brainpost/2021/7/27/cognitive-behavioral-group-therapy-and-mindfulness-based-stress-reduction-recruit-similar-brain-regions) | *BrainPost*, 27 July 2021
 
@@ -154,7 +154,7 @@ menu:
 
 [IASP 2021 Virtual World Congress on Pain Award Winners: An Interview With Srinivasa Raja](https://www.painresearchforum.org/forums/interview/170965-iasp-2021-virtual-world-congress-pain-award-winners-interview-srinivasa-raja) | *Pain Research Forum*, 1 June 2021
 
-[The Transition From Acute to Chronic Low Back Pain: How Common Is It? What Are the Risk Factors?](https://www.painresearchforum.org/news/169255-transition-acute-chronic-low-back-pain-how-common-it-what-are-risk-factors) | *Pain Research Forum*, 11 May 2021
+[The Transition From Acute to Chronic Low Back Pain: How Common Is It? What Are the Risk Factors?](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/169255-transition-acute-chronic-low-back-pain-how-common-it-what-are-risk-factors/) | *Pain Research Forum*, 11 May 2021
 
 [Greater Education Does Not Reduce the Rate of Brain Aging](https://www.brainpost.co/weekly-brainpost/2021/5/11/greater-education-does-not-reduce-the-rate-of-brain-aging) | *BrainPost*, 11 May 2021
 
@@ -166,7 +166,7 @@ menu:
 
 [Timing Differences in Neural Responses Related to Perception of Synesthetic Colors](https://www.brainpost.co/weekly-brainpost/2021/2/9/timing-differences-in-neural-responses-related-to-perception-of-synesthetic-colors) | *BrainPost*, 9 February 2021
 
-[Therapeutic Suggestions During General Anesthesia Reduce Postoperative Pain and Opioid Use](https://www.painresearchforum.org/news/161788-therapeutic-suggestions-during-general-anesthesia-reduce-postoperative-pain-and-opioid) | *Pain Research Forum*, 8 February 2021
+[Therapeutic Suggestions During General Anesthesia Reduce Postoperative Pain and Opioid Use](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/161788-therapeutic-suggestions-during-general-anesthesia-reduce-postoperative-pain-and-opioid/) | *Pain Research Forum*, 8 February 2021
 
 [The Effect of Nucleus Accumbens Medium Spiny Neuron Subtypes on Stress-Induced Sleep Changes](https://www.brainpost.co/weekly-brainpost/2021/1/19/the-effect-of-nucleus-accumbens-medium-spiny-neuron-subtypes-on-stress-induced-sleep-changes) | *BrainPost*, 19 January 2021
 
@@ -215,7 +215,7 @@ menu:
 
 [Learning from Your Mistakes: The Role of Dopamine Activity in Prediction Errors](https://www.brainpost.co/weekly-brainpost/2020/2/11/learning-from-your-mistakes-the-role-of-dopamine-activity-in-prediction-errors) | *BrainPost*, 11 February 2020
 
-[In the Search for New Drugs, the Migraine Field Wins the Day ─ Again](https://www.painresearchforum.org/news/133509-search-new-drugs-migraine-field-wins-day-%E2%94%80-again) | *Pain Research Forum*, 4 February 2020
+[In the Search for New Drugs, the Migraine Field Wins the Day ─ Again](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/133509-search-new-drugs-migraine-field-wins-day-%E2%94%80-again/) | *Pain Research Forum*, 4 February 2020
 
 [Gene-Environment Interactions, Major Depressive Disorder and Traumatic Experiences](https://www.brainpost.co/weekly-brainpost/2020/1/28/gene-environment-interactions-major-depressive-disorder-and-traumatic-experiences) | *BrainPost*, 29 January 2020
 
@@ -228,7 +228,7 @@ menu:
 
 [Meanings of Pain Volume 2: Common Types of Pain and Language](/files/content/posts/meanings-of-pain-vol2/meaningsofpain.pdf) | *Australian Pain Society eNewsletter*, 12 December 2019
 
-[A New Mechanism of Medication-Overuse Headache](https://www.painresearchforum.org/news/129507-new-mechanism-medication-overuse-headache) | *Pain Research Forum*, 4 December 2019
+[A New Mechanism of Medication-Overuse Headache](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/129507-new-mechanism-medication-overuse-headache/) | *Pain Research Forum*, 4 December 2019
 
 [Keep At It: Improving an Old Strategy to Find New Treatments for Itch](https://relief.news/keep-at-it-improving-an-old-strategy-to-find-new-treatments-for-itch/) | *RELIEF*, 19 November 2019
 
@@ -236,11 +236,11 @@ menu:
 
 [Stress-Induced Lateral Habenula Changes and the Association with Depressive Behavior in Mice](https://www.brainpost.co/weekly-brainpost/2019/11/5/stress-induced-lateral-habenula-changes-and-the-association-with-depressive-behavior-in-mice?rq=Lincoln%20Tracy) | *BrainPost*, 5 November 2019
 
-[If at First You Don’t Succeed, Try, Try Again: An Improved Strategy to Treat Itch](https://www.painresearchforum.org/news/126348-if-first-you-don%E2%80%99t-succeed-try-try-again-improved-strategy-treat-itch) | *Pain Research Forum*, 15 October 2019
+[If at First You Don’t Succeed, Try, Try Again: An Improved Strategy to Treat Itch](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/126348-if-first-you-dont-succeed-try-try-again-improved-strategy-treat-itch/) | *Pain Research Forum*, 15 October 2019
 
 [X-Chromosome Insufficiency Alters the Structure and Function of the Human Visual Cortex](https://www.brainpost.co/weekly-brainpost/2019/10/15/x-chromosome-insufficiency-alters-the-structure-and-function-of-the-human-visual-cortex) | *BrainPost*, 15 October 2019
 
-[Everybody Has Won and All Must Have Prizes: Dodo Birds in Psychological Treatments for Chronic Pain](https://www.painresearchforum.org/news/125485-%E2%80%9Ceverybody-has-won-and-all-must-have-prizes%E2%80%9D-dodo-birds-psychological-treatments-chronic) | *Pain Research Forum*, 2 October 2019
+[Everybody Has Won and All Must Have Prizes: Dodo Birds in Psychological Treatments for Chronic Pain](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/125485-everybody-has-won-and-all-must-have-prizes-dodo-birds-psychological-treatments-chronic/) | *Pain Research Forum*, 2 October 2019
 
 [Focus and Frank: A Conversation with Sean Mackey](/files/content/posts/sean-mackey/mackey.pdf) | *Australian Pain Society eNewsletter*, 2 October 2019
 
@@ -252,7 +252,7 @@ menu:
 
 [Cerebral Blood Flow Changes as a Potential Biomarker of Major Depressive Disorder](https://www.brainpost.co/weekly-brainpost/2019/8/13/cerebral-blood-flow-changes-as-a-potential-biomarker-of-major-depressive-disorder) | *BrainPost*, 13 August 2019
 
-[From a Spider Venom to an Analgesic in Mice](https://www.painresearchforum.org/news/121897-spider-venom-analgesic-mice) | *Pain Research Forum*, 7 August 2019
+[From a Spider Venom to an Analgesic in Mice](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/121897-spider-venom-analgesic-mice/) | *Pain Research Forum*, 7 August 2019
 
 [Personalised Treatment, Collaboration, and Puzzles: A Chat with Nanna Finnerup](/files/content/posts/nanna-finnerup/finnerup.pdf) | *Australian Pain Society eNewsletter*, 5 August 2019
 
@@ -278,7 +278,7 @@ menu:
 
 [Hypothalamic Oxytocin Neurons Represent Fear Engrams in Rats](https://www.brainpost.co/weekly-brainpost/2019/5/21/hypothalamic-oxytocin-neurons-represent-fear-memory-traces-in-rats) | *BrainPost*, 21 May 2019
 
-[A Search for Blood Biomarkers of Pain](https://www.painresearchforum.org/news/115699-search-blood-biomarkers-pain) | *Pain Research Forum*, 6 May 2019
+[A Search for Blood Biomarkers of Pain](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/115699-search-blood-biomarkers-pain/) | *Pain Research Forum*, 6 May 2019
 
 [Thirst Controls Motivated Behavior by Modulating Neural Activity in Mice](https://www.brainpost.co/weekly-brainpost/2019/4/30/thirst-controls-motivated-behavior-by-modulating-neural-activity-in-mice) | *BrainPost*, 30 April 2019
 
