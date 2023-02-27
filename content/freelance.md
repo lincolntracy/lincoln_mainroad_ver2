@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2023
+[New treatments for RSV just as effective](https://www.medicalrepublic.com.au/new-treatments-for-rsv-just-as-effective/86624) | *The Medical Republic*, 27 February 2023
+
 [Is Alcohol a Migraine Trigger?](https://migrainecollaborative.org/is-alcohol-a-migraine-trigger) | *Migraine Science Collaborative*, 20 February 2023
 
 [Obesity in type 1 diabetics a growing concern](https://www.medicalrepublic.com.au/obesity-in-type-1-diabetics-a-growing-concern/86160) | *The Medical Republic*, 20 February 2023
