@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2023
+[Promising Signs for Psychedelic Use in Cluster Headache](https://migrainecollaborative.org/promising-signs-for-psychedelic-use-in-cluster-headache) | *Migraine Science Collaborative*, 27 February 2023
+
 [New treatments for RSV just as effective](https://www.medicalrepublic.com.au/new-treatments-for-rsv-just-as-effective/86624) | *The Medical Republic*, 27 February 2023
 
 [Is Alcohol a Migraine Trigger?](https://migrainecollaborative.org/is-alcohol-a-migraine-trigger) | *Migraine Science Collaborative*, 20 February 2023
