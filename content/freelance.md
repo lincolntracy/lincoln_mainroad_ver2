@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2023
+[Antibiotic usage linked to necrolysing skin disorders](https://www.dermatologyrepublic.com.au/antibiotic-usage-linked-to-necrolysing-skin-disorders/1499) | *Dermatology Republic*, 8 March 2023
+
 [Aggression-Specific Mirror Neurons Exist in the Hypothalamus](https://www.brainpost.co/weekly-brainpost/2023/3/7/aggression-specific-mirror-neurons-exist-in-the-hypothalamus) | *BrainPost*, 7 March 2023
 
 [Good Samaritan: your risks and obligations](https://www.medicalrepublic.com.au/good-samaritan-your-risks-and-obligations/86698) | *The Medical Republic*, 28 February 2023
