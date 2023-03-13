@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2023
+[Open-Label Placebo Analgesia Blocked by Naloxone](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/open-label-placebo-analgesia-blocked-by-naloxone/) | *Pain Research Forum*, 10 March 2023
+
 [Antibiotic usage linked to necrolysing skin disorders](https://www.dermatologyrepublic.com.au/antibiotic-usage-linked-to-necrolysing-skin-disorders/1499) | *Dermatology Republic*, 8 March 2023
 
 [Aggression-Specific Mirror Neurons Exist in the Hypothalamus](https://www.brainpost.co/weekly-brainpost/2023/3/7/aggression-specific-mirror-neurons-exist-in-the-hypothalamus) | *BrainPost*, 7 March 2023
@@ -144,7 +146,7 @@ menu:
 [Creative Fluency is Driven by Default Network Activity](https://www.brainpost.co/weekly-brainpost/2022/1/11/creative-fluency-is-driven-by-default-network-activity) | *BrainPost*, 11 January 2022
 
 ## 2021
-[IASP Early Career Research Grant Winner: A Conversation With Sarah Luthy](https://www.painresearchforum.org/forums/interview/182833-iasp-early-career-research-grant-winner-conversation-sarah-luthy) | *Pain Research Forum*, 3 November 2021
+[IASP Early Career Research Grant Winner: A Conversation With Sarah Luthy](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/182833-iasp-early-career-research-grant-winner-conversation-sarah-luthy/) | *Pain Research Forum*, 3 November 2021
 
 [Identifying the Neural Mechanism Behind Team Flow](https://www.brainpost.co/weekly-brainpost/2021/10/12/identifying-the-neural-mechanism-behind-team-flow) | *BrainPost*, 12 October 2021
 
@@ -160,9 +162,9 @@ menu:
 
 [Dopamine and Brain Network Dynamics in Schizophrenia](https://www.brainpost.co/weekly-brainpost/2021/6/15/dopamine-and-brain-network-dynamics-in-schizophrenia) | *BrainPost*, 15 June 2021
 
-[IASP 2021 Virtual World Congress on Pain Award Winners: An Interview With Gary Lewin](https://www.painresearchforum.org/forums/interview/170966-iasp-2021-virtual-world-congress-pain-award-winners-interview-gary-lewin) | *Pain Research Forum*, 1 June 2021
+[IASP 2021 Virtual World Congress on Pain Award Winners: An Interview With Gary Lewin](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/170966-iasp-2021-virtual-world-congress-pain-award-winners-interview-gary-lewin/) | *Pain Research Forum*, 1 June 2021
 
-[IASP 2021 Virtual World Congress on Pain Award Winners: An Interview With Srinivasa Raja](https://www.painresearchforum.org/forums/interview/170965-iasp-2021-virtual-world-congress-pain-award-winners-interview-srinivasa-raja) | *Pain Research Forum*, 1 June 2021
+[IASP 2021 Virtual World Congress on Pain Award Winners: An Interview With Srinivasa Raja](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/170965-iasp-2021-virtual-world-congress-pain-award-winners-interview-srinivasa-raja/) | *Pain Research Forum*, 1 June 2021
 
 [The Transition From Acute to Chronic Low Back Pain: How Common Is It? What Are the Risk Factors?](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/169255-transition-acute-chronic-low-back-pain-how-common-it-what-are-risk-factors/) | *Pain Research Forum*, 11 May 2021
 
@@ -187,9 +189,9 @@ menu:
 
 [More Than a Watch: How Wearable Tech is Helping Advance Neuroscience](https://www.brainpost.co/weekly-brainpost/2020/10/20/more-than-a-watch-how-wearable-tech-is-helping-advance-neuroscience) | *BrainPost*, 20 October 2020
 
-[Of Autoantibodies in Mice and Men: A Chat With Andreas Goebel](https://www.painresearchforum.org/forums/interview/151801-autoantibodies-mice-and-men-chat-andreas-goebel) | *Pain Research Forum*, 1 October 2020
+[Of Autoantibodies in Mice and Men: A Chat With Andreas Goebel](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/151801-autoantibodies-mice-and-men-chat-andreas-goebel/) | *Pain Research Forum*, 1 October 2020
 
-[Understanding Osteoarthritis and the Pain It Causes: A Chat With Tuhina Neogi](https://www.painresearchforum.org/forums/interview/151206-understanding-osteoarthritis-and-pain-it-causes-chat-tuhina-neogi) | *Pain Research Forum*, 23 September 2020
+[Understanding Osteoarthritis and the Pain It Causes: A Chat With Tuhina Neogi](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/151206-understanding-osteoarthritis-and-pain-it-causes-chat-tuhina-neogi/) | *Pain Research Forum*, 23 September 2020
 
 [The Role of Group Identity in Social Influence](https://www.brainpost.co/weekly-brainpost/2020/9/22/the-role-of-group-identity-in-social-influence) | *BrainPost*, 22 September 2020
 
@@ -205,11 +207,11 @@ menu:
 
 [Olfactory Support Cells, Not Primary Neurons, Are Targeted in COVID-19](https://www.brainpost.co/weekly-brainpost/2020/7/14/olfactory-support-cells-not-primary-neurons-are-targeted-in-covid-19) | *BrainPost*, 14 July 2020
 
-[Looking to Toxins to Understand Pain: A Chat With Australian Pain Society 2020 Rising Star Samuel Robinson](https://www.painresearchforum.org/forums/interview/144979-looking-toxins-understand-pain-chat-australian-pain-society-2020-rising-star) | *Pain Research Forum*, 9 July 2020
+[Looking to Toxins to Understand Pain: A Chat With Australian Pain Society 2020 Rising Star Samuel Robinson](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/144979-looking-toxins-understand-pain-chat-australian-pain-society-2020-rising-star/) | *Pain Research Forum*, 9 July 2020
 
 [The Role of the Anterior Cingulate Cortex in Effort-Based Decision Making](https://www.brainpost.co/weekly-brainpost/2020/6/16/the-role-of-the-anterior-cingulate-cortex-in-effort-based-decision-making) | *BrainPost*, 16 June 2020
 
-[Investigating the Mechanisms of Neuropathic Pain: An Interview With Margarita Calvo](https://www.painresearchforum.org/forums/interview/141896-investigating-mechanisms-neuropathic-pain-interview-margarita-calvo) | *Pain Research Forum*, 2 June 2020
+[Investigating the Mechanisms of Neuropathic Pain: An Interview With Margarita Calvo](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/141896-investigating-mechanisms-neuropathic-pain-interview-margarita-calvo/) | *Pain Research Forum*, 2 June 2020
 
 [An International, Modern Replication of Prospect Theory](https://www.brainpost.co/weekly-brainpost/2020/5/26/an-international-modern-replication-of-prospect-theory) | *BrainPost*, 26 May 2020
 
@@ -219,7 +221,7 @@ menu:
 
 [Nucleus Accumbens Inhibition is Required for Appetitive or Fearful Behaviors](https://www.brainpost.co/weekly-brainpost/2020/2/25/nucleus-accumbens-inhibition-is-required-for-appetitive-or-fearful-behaviors) | *BrainPost*, 25 February 2020
 
-[2020 IASP World Congress on Pain Award Winners: An Interview With Jan Vollert](https://www.painresearchforum.org/forums/interview/134934-2020-iasp-world-congress-pain-award-winners-interview-jan-vollert) | *Pain Research Forum*, 24 February 2020
+[2020 IASP World Congress on Pain Award Winners: An Interview With Jan Vollert](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/134934-2020-iasp-world-congress-pain-award-winners-interview-jan-vollert/) | *Pain Research Forum*, 24 February 2020
 
 [Sports Psychology to Rehabilitation Medicine: An Interview with Shelley Wiechman](/files/content/posts/shelley-wiechman/wiechman.pdf) | *Australian Pain Society*, 13 February 2020
 
@@ -268,7 +270,7 @@ menu:
 
 [Development of a Viral Vector Library to Target Retinal Cell Types](https://www.brainpost.co/weekly-brainpost/2019/7/23/development-of-a-viral-vector-library-to-target-retinal-cell-types) | *BrainPost*, 23 July 2019
 
-[Australian Pain Society 2019 Rising Star: A Chat With Arjun Muralidharan](https://www.painresearchforum.org/forums/interview/119869-australian-pain-society-2019-rising-star-chat-arjun-muralidharan) | *Pain Research Forum*, 10 July 2019
+[Australian Pain Society 2019 Rising Star: A Chat With Arjun Muralidharan](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/119869-australian-pain-society-2019-rising-star-chat-arjun-muralidharan/) | *Pain Research Forum*, 10 July 2019
 
 [Food and Drug Rewards are Processed by Unique Pathways in Mice](https://www.brainpost.co/weekly-brainpost/2019/7/9/food-and-drug-rewards-are-processed-by-unique-pathways-in-mice) | *BrainPost*, 10 July 2019
 
@@ -278,7 +280,7 @@ menu:
 
 [New Sensation: Chronic Pain as a New Concept for the International Classification of Diseases](/files/content/posts/new-sensation-icd11/newsensation.pdf) | *Australian Pain Society eNewsletter*, 26 June 2019
 
-[Understanding Placebo and Nocebo Effects: A Chat With Ben Colagiuri](https://www.painresearchforum.org/forums/interview/118541-understanding-placebo-and-nocebo-effects-chat-ben-colagiuri) | *Pain Research Forum*, 19 June 2019
+[Understanding Placebo and Nocebo Effects: A Chat With Ben Colagiuri](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/118541-understanding-placebo-and-nocebo-effects-chat-ben-colagiuri/) | *Pain Research Forum*, 19 June 2019
 
 [Testing the Effects of LSD Microdoses on Mood and Cognitive Functioning](https://www.brainpost.co/weekly-brainpost/2019/6/11/testing-the-effects-of-lsd-microdoses-on-mood-and-cognitive-functioning) | *BrainPost*, 11 June 2019
 
@@ -300,7 +302,7 @@ menu:
 
 [Heard It Through the Grapevine: Can Music Ease Pain?](https://relief.news/heard-it-through-the-grapevine-can-music-ease-pain/) | *RELIEF*, 25 March 2019
 
-[Back (Pain) to the Drawing Board: Pain Education as a Treatment – A Chat with Lorimer Moseley](https://www.painresearchforum.org/forums/interview/111631-back-pain-drawing-board-pain-education-treatment%E2%80%94-chat-lorimer-moseley) | *Pain Research Forum*, 4 March 2019
+[Back (Pain) to the Drawing Board: Pain Education as a Treatment – A Chat with Lorimer Moseley](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/111631-back-pain-drawing-board-pain-education-treatment-chat-lorimer-moseley/) | *Pain Research Forum*, 4 March 2019
 
 [Hippocampal-Accumbens Pathway Drive Memories of Reward-Seeking Behavior](https://www.brainpost.co/weekly-brainpost/2019/2/26/hippocampal-accumbens-pathway-drives-memories-of-reward-seeking-behavior) | *BrainPost*, 26 February 2019
 
