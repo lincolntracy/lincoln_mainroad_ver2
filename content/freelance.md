@@ -10,6 +10,10 @@ menu:
 ---
 
 ## 2023
+[Vitamin D could protect against dementia](https://www.medicalrepublic.com.au/vitamin-d-could-protect-against-dementia/87483) | *The Medical Republic*, 13 March 2023
+
+[Fewer chlamydia scripts in covid lockdowns](https://www.medicalrepublic.com.au/fewer-chlamydia-scripts-in-covid-lockdowns/87370) | *The Medical Republic*, 13 March 2023
+
 [Open-Label Placebo Analgesia Blocked by Naloxone](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/open-label-placebo-analgesia-blocked-by-naloxone/) | *Pain Research Forum*, 10 March 2023
 
 [Antibiotic usage linked to necrolysing skin disorders](https://www.dermatologyrepublic.com.au/antibiotic-usage-linked-to-necrolysing-skin-disorders/1499) | *Dermatology Republic*, 8 March 2023
