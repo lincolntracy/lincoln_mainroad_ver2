@@ -10,6 +10,10 @@ menu:
 ---
 
 ## 2023
+[IL-23 inhibitors for psoriasis best at preventing arthritis development](https://www.rheuma.com.au/il-23-inhibitors-for-psoriasis-may-prevent-arthritis-progression/24167) | *Rheumatology Republic*, 16 March 2023
+
+[Smartwatch warning for cardiac devices](https://www.medicalrepublic.com.au/smartwatch-warning-for-cardiac-devices/87578) | *The Medical Republic*, 16 March 2023
+
 [Vitamin D could protect against dementia](https://www.medicalrepublic.com.au/vitamin-d-could-protect-against-dementia/87483) | *The Medical Republic*, 13 March 2023
 
 [Fewer chlamydia scripts in covid lockdowns](https://www.medicalrepublic.com.au/fewer-chlamydia-scripts-in-covid-lockdowns/87370) | *The Medical Republic*, 13 March 2023
