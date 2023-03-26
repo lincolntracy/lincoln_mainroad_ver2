@@ -10,6 +10,8 @@ menu:
 ---
 
 ## 2023
+[All hormonal contraceptives linked to breast cancer](https://www.medicalrepublic.com.au/all-hormonal-contraceptives-linked-to-breast-cancer/88024) | *The Medical Republic*, 23 March 2023
+
 [IL-23 inhibitors for psoriasis best at preventing arthritis development](https://www.rheuma.com.au/il-23-inhibitors-for-psoriasis-may-prevent-arthritis-progression/24167) | *Rheumatology Republic*, 16 March 2023
 
 [Smartwatch warning for cardiac devices](https://www.medicalrepublic.com.au/smartwatch-warning-for-cardiac-devices/87578) | *The Medical Republic*, 16 March 2023
