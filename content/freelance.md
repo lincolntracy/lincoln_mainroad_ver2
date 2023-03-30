@@ -10,6 +10,18 @@ menu:
 ---
 
 ## 2023
+[Surgeon, Researcher, Author, and Hobby Data Scientist: A Chat with Professor Ian Harris](https://blog.apsoc.org.au/2023/03/30/aps2023-surgeon-researcher-author-and-hobby-data-scientist-a-chat-with-professor-ian-harris/) | *Australian Pain Society*, 30 March 2023
+
+[Rotavirus wave hitting Australia](https://www.medicalrepublic.com.au/rotavirus-wave-hitting-australia/88531) | *The Medical Republic*, 30 March 2023
+
+[Kids hepatitis outbreak culprit found](https://www.medicalrepublic.com.au/kids-hepatitis-outbreak-culprit-found/88534) | *The Medical Republic*, 30 March 2023
+
+[Don’t sleep on CPAPs in pregnancy](https://www.medicalrepublic.com.au/dont-sleep-on-cpaps-in-pregnancy/88537) | *The Medical Republic*, 30 March 2023
+
+[Improving the Diagnosis of Pediatric CNS Tumors](https://www.brainpost.co/weekly-brainpost/2023/3/28/vy9d1tu4wjj90d9xsf72z5kq6revce) | *BrainPost*, 28 March 2023
+
+[Depressive symptoms may increase stroke risk](https://www.medicalrepublic.com.au/depressive-symptoms-may-increase-stroke-risk/88194) | *The Medical Republic*, 27 March 2023
+
 [All hormonal contraceptives linked to breast cancer](https://www.medicalrepublic.com.au/all-hormonal-contraceptives-linked-to-breast-cancer/88024) | *The Medical Republic*, 23 March 2023
 
 [IL-23 inhibitors for psoriasis best at preventing arthritis development](https://www.rheuma.com.au/il-23-inhibitors-for-psoriasis-may-prevent-arthritis-progression/24167) | *Rheumatology Republic*, 16 March 2023

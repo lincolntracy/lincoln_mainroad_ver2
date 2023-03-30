@@ -14,8 +14,6 @@ menu:
 ### Accepted/In press
 Lo CH, **Tracy LM**, Lam C, Kimble R, & Wong She R (accepted 21/03/2023). In-hospital outcomes of paediatric burn injuries managed in children’s hospitals compared to general hospitals. *Burns*.
 
-Reeder S, Cleland HJ, Gold M, & **Tracy LM** (accepted 8/12/2022). [Exploring Clinicians’ Decision-Making Processes about End-of-Life Care After Burns: A Qualitative Interview study](https://www.sciencedirect.com/science/article/abs/pii/S0305417922003060). *Burns*. doi: 10.1016/j.burns.2022.12.001
-
 **Tracy LM**, Kurmis R, Heath K, & Edgar D (accepted 12/10/2022). [Adherence with early allied health assessments in specialist burn services](https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irac153/6762642). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac153
 
 Singer Y, Gabbe BJ, Cleland H, Holden D, Schnekenburger M, & **Tracy LM** (accepted 10/08/2022). [The association between out of hours burn centre admission and in-hospital outcomes in patients with severe burns](https://www.sciencedirect.com/science/article/abs/pii/S0305417922002029). *Burns*. doi: 10.1016/j.burns.2022.08.002
@@ -25,6 +23,8 @@ Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). [Concordanc
 **Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac017
 
 ### 2023
+Reeder S, Cleland HJ, Gold M, & **Tracy LM** (2023). [Exploring Clinicians’ Decision-Making Processes about End-of-Life Care After Burns: A Qualitative Interview study](https://www.sciencedirect.com/science/article/abs/pii/S0305417922003060). *Burns*, 49(3): 595-606. doi: 10.1016/j.burns.2022.12.001
+
 **Tracy LM**, Gabbe BJ, & Beck B (2023). [Friction Burns in Cyclists: An Under-recognised Problem](https://www.sciencedirect.com/science/article/abs/pii/S0020138323001614). *Injury*, 54(4): 1119-1124. doi: 10.1016/j.injury.2023.02.029
 
 ### 2022
