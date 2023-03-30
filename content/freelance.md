@@ -14,8 +14,6 @@ menu:
 
 [Rotavirus wave hitting Australia](https://www.medicalrepublic.com.au/rotavirus-wave-hitting-australia/88531) | *The Medical Republic*, 30 March 2023
 
-[Kids hepatitis outbreak culprit found](https://www.medicalrepublic.com.au/kids-hepatitis-outbreak-culprit-found/88534) | *The Medical Republic*, 30 March 2023
-
 [Don’t sleep on CPAPs in pregnancy](https://www.medicalrepublic.com.au/dont-sleep-on-cpaps-in-pregnancy/88537) | *The Medical Republic*, 30 March 2023
 
 [Improving the Diagnosis of Pediatric CNS Tumors](https://www.brainpost.co/weekly-brainpost/2023/3/28/vy9d1tu4wjj90d9xsf72z5kq6revce) | *BrainPost*, 28 March 2023
