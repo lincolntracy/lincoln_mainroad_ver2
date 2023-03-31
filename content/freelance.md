@@ -10,6 +10,12 @@ menu:
 ---
 
 ## 2023
+[Sagan, Spin-outs, and a Slovenian Basketballer: A Chat with Professor Ted Price](https://blog.apsoc.org.au/2023/03/31/aps2023-sagan-spin-outs-and-a-slovenian-basketballer-a-chat-with-professor-ted-price/) | *Australian Pain Society*, 31 March 2023
+
+[Kids hepatitis outbreak culprit found](https://www.medicalrepublic.com.au/kids-hepatitis-outbreak-culprit-found/88534) | *The Medical Republic*, 31 March 2023
+
+[Making a Career from a Childhood Job: A Chat with Professor Denise Harrison](https://blog.apsoc.org.au/2023/03/30/aps2023-making-a-career-from-a-childhood-job-a-chat-with-professor-denise-harrison/) | *Australian Pain Society*, 30 March 2023
+
 [Surgeon, Researcher, Author, and Hobby Data Scientist: A Chat with Professor Ian Harris](https://blog.apsoc.org.au/2023/03/30/aps2023-surgeon-researcher-author-and-hobby-data-scientist-a-chat-with-professor-ian-harris/) | *Australian Pain Society*, 30 March 2023
 
 [Rotavirus wave hitting Australia](https://www.medicalrepublic.com.au/rotavirus-wave-hitting-australia/88531) | *The Medical Republic*, 30 March 2023
