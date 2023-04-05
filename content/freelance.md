@@ -10,6 +10,14 @@ menu:
 ---
 
 ## 2023
+[Blood cancer patients generate strong immune response to covid vax](https://www.oncologyrepublic.com.au/blood-cancer-patients-generate-strong-immune-response-to-covid-vax/3225) | *Oncology Republic*, 5 April 2023
+
+[Infection fears for artificial tears](https://www.medicalrepublic.com.au/infection-fears-for-artificial-tears/88561) | *The Medical Republic*, 3 April 2023
+
+[Australian Pain Society 2023 Rising Star Award Winner: A Chat with Dr Aidan Cashin](https://blog.apsoc.org.au/2023/04/02/aps2023-australian-pain-society-2023-rising-star-award-winner-a-chat-with-dr-aidan-cashin/) | *Australian Pain Society*, 2 April 2023
+
+[Pain as the Signature of Humanity: A Chat with Associate Professor Melanie Noel](https://blog.apsoc.org.au/2023/04/01/aps2023-pain-as-the-signature-of-humanity-a-chat-with-associate-professor-melanie-noel/) | *Australian Pain Society*, 1 April 2023
+
 [Sagan, Spin-outs, and a Slovenian Basketballer: A Chat with Professor Ted Price](https://blog.apsoc.org.au/2023/03/31/aps2023-sagan-spin-outs-and-a-slovenian-basketballer-a-chat-with-professor-ted-price/) | *Australian Pain Society*, 31 March 2023
 
 [Kids hepatitis outbreak culprit found](https://www.medicalrepublic.com.au/kids-hepatitis-outbreak-culprit-found/88534) | *The Medical Republic*, 31 March 2023
