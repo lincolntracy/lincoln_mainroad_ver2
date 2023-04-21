@@ -10,6 +10,10 @@ menu:
 ---
 
 ## 2023
+[Flipping the Switch in Visceral Mechanosensation](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/flipping-the-switch-in-visceral-mechanosensation/) | *Pain Research Forum*, 21 April 2023
+
+[Avoid deprescribing in severe opioid use disorder](https://www.medicalrepublic.com.au/avoid-deprescribing-in-severe-opioid-use-disorder/89962) | *The Medical Republic*, 20 April 2023
+
 [Blood cancer patients generate strong immune response to covid vax](https://www.oncologyrepublic.com.au/blood-cancer-patients-generate-strong-immune-response-to-covid-vax/3225) | *Oncology Republic*, 5 April 2023
 
 [Infection fears for artificial tears](https://www.medicalrepublic.com.au/infection-fears-for-artificial-tears/88561) | *The Medical Republic*, 3 April 2023
