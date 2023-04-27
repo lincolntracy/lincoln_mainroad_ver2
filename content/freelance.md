@@ -10,6 +10,12 @@ menu:
 ---
 
 ## 2023
+[How high do you score on this dementia risk test?](https://www.medicalrepublic.com.au/how-high-do-you-score-on-this-dementia-risk-test/90268) | *The Medical Republic*, 27 April 2023
+
+[Spinal fusion for back pain is ‘tooth fairy research’](https://www.medicalrepublic.com.au/spinal-fusion-for-back-pain-is-tooth-fairy-research/90392) | *The Medical Republic*, 27 April 2023
+
+[Doctors more neurotic – and more empathic – than patients](https://www.medicalrepublic.com.au/doctors-more-neurotic-and-more-empathic-than-patients/90200) | *The Medical Republic*, 27 April 2023
+
 [Flipping the Switch in Visceral Mechanosensation](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/flipping-the-switch-in-visceral-mechanosensation/) | *Pain Research Forum*, 21 April 2023
 
 [Avoid deprescribing in severe opioid use disorder](https://www.medicalrepublic.com.au/avoid-deprescribing-in-severe-opioid-use-disorder/89962) | *The Medical Republic*, 20 April 2023
