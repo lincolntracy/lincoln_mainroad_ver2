@@ -16,6 +16,8 @@ menu:
 
 [Doctors more neurotic – and more empathic – than patients](https://www.medicalrepublic.com.au/doctors-more-neurotic-and-more-empathic-than-patients/90200) | *The Medical Republic*, 27 April 2023
 
+[Encoding Numerical Information is as Easy as 1-2-3 for Infants](https://www.brainpost.co/weekly-brainpost/2023/4/25/encoding-numerical-information-is-as-easy-as-1-2-3-for-infants) | *BrainPost*, 25 April 2023
+
 [Flipping the Switch in Visceral Mechanosensation](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/flipping-the-switch-in-visceral-mechanosensation/) | *Pain Research Forum*, 21 April 2023
 
 [Avoid deprescribing in severe opioid use disorder](https://www.medicalrepublic.com.au/avoid-deprescribing-in-severe-opioid-use-disorder/89962) | *The Medical Republic*, 20 April 2023
