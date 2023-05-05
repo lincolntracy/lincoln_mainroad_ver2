@@ -6,25 +6,17 @@ sidebar: false
 menu: 
     main: 
         name: "Freelance Writing"
-        weight: 30
+        weight: 40
 ---
 
+A collection of articles, interviews, and podcasts I have produced in a freelance capacity. 
+
 ## 2023
-[How high do you score on this dementia risk test?](https://www.medicalrepublic.com.au/how-high-do-you-score-on-this-dementia-risk-test/90268) | *The Medical Republic*, 27 April 2023
-
-[Spinal fusion for back pain is ‘tooth fairy research’](https://www.medicalrepublic.com.au/spinal-fusion-for-back-pain-is-tooth-fairy-research/90392) | *The Medical Republic*, 27 April 2023
-
-[Doctors more neurotic – and more empathic – than patients](https://www.medicalrepublic.com.au/doctors-more-neurotic-and-more-empathic-than-patients/90200) | *The Medical Republic*, 27 April 2023
+[Talking Migraine Genetics: An Interview with Lyn Griffiths](https://migrainecollaborative.org/talking-migraine-genetics-interview-lyn-griffiths) | *Migraine Science Collaborative*, 4 May 2023
 
 [Encoding Numerical Information is as Easy as 1-2-3 for Infants](https://www.brainpost.co/weekly-brainpost/2023/4/25/encoding-numerical-information-is-as-easy-as-1-2-3-for-infants) | *BrainPost*, 25 April 2023
 
 [Flipping the Switch in Visceral Mechanosensation](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/flipping-the-switch-in-visceral-mechanosensation/) | *Pain Research Forum*, 21 April 2023
-
-[Avoid deprescribing in severe opioid use disorder](https://www.medicalrepublic.com.au/avoid-deprescribing-in-severe-opioid-use-disorder/89962) | *The Medical Republic*, 20 April 2023
-
-[Blood cancer patients generate strong immune response to covid vax](https://www.oncologyrepublic.com.au/blood-cancer-patients-generate-strong-immune-response-to-covid-vax/3225) | *Oncology Republic*, 5 April 2023
-
-[Infection fears for artificial tears](https://www.medicalrepublic.com.au/infection-fears-for-artificial-tears/88561) | *The Medical Republic*, 3 April 2023
 
 [Australian Pain Society 2023 Rising Star Award Winner: A Chat with Dr Aidan Cashin](https://blog.apsoc.org.au/2023/04/02/aps2023-australian-pain-society-2023-rising-star-award-winner-a-chat-with-dr-aidan-cashin/) | *Australian Pain Society*, 2 April 2023
 
@@ -32,45 +24,19 @@ menu:
 
 [Sagan, Spin-outs, and a Slovenian Basketballer: A Chat with Professor Ted Price](https://blog.apsoc.org.au/2023/03/31/aps2023-sagan-spin-outs-and-a-slovenian-basketballer-a-chat-with-professor-ted-price/) | *Australian Pain Society*, 31 March 2023
 
-[Kids hepatitis outbreak culprit found](https://www.medicalrepublic.com.au/kids-hepatitis-outbreak-culprit-found/88534) | *The Medical Republic*, 31 March 2023
-
 [Making a Career from a Childhood Job: A Chat with Professor Denise Harrison](https://blog.apsoc.org.au/2023/03/30/aps2023-making-a-career-from-a-childhood-job-a-chat-with-professor-denise-harrison/) | *Australian Pain Society*, 30 March 2023
 
 [Surgeon, Researcher, Author, and Hobby Data Scientist: A Chat with Professor Ian Harris](https://blog.apsoc.org.au/2023/03/30/aps2023-surgeon-researcher-author-and-hobby-data-scientist-a-chat-with-professor-ian-harris/) | *Australian Pain Society*, 30 March 2023
 
-[Rotavirus wave hitting Australia](https://www.medicalrepublic.com.au/rotavirus-wave-hitting-australia/88531) | *The Medical Republic*, 30 March 2023
-
-[Don’t sleep on CPAPs in pregnancy](https://www.medicalrepublic.com.au/dont-sleep-on-cpaps-in-pregnancy/88537) | *The Medical Republic*, 30 March 2023
-
 [Improving the Diagnosis of Pediatric CNS Tumors](https://www.brainpost.co/weekly-brainpost/2023/3/28/vy9d1tu4wjj90d9xsf72z5kq6revce) | *BrainPost*, 28 March 2023
-
-[Depressive symptoms may increase stroke risk](https://www.medicalrepublic.com.au/depressive-symptoms-may-increase-stroke-risk/88194) | *The Medical Republic*, 27 March 2023
-
-[All hormonal contraceptives linked to breast cancer](https://www.medicalrepublic.com.au/all-hormonal-contraceptives-linked-to-breast-cancer/88024) | *The Medical Republic*, 23 March 2023
-
-[IL-23 inhibitors for psoriasis best at preventing arthritis development](https://www.rheuma.com.au/il-23-inhibitors-for-psoriasis-may-prevent-arthritis-progression/24167) | *Rheumatology Republic*, 16 March 2023
-
-[Smartwatch warning for cardiac devices](https://www.medicalrepublic.com.au/smartwatch-warning-for-cardiac-devices/87578) | *The Medical Republic*, 16 March 2023
-
-[Vitamin D could protect against dementia](https://www.medicalrepublic.com.au/vitamin-d-could-protect-against-dementia/87483) | *The Medical Republic*, 13 March 2023
-
-[Fewer chlamydia scripts in covid lockdowns](https://www.medicalrepublic.com.au/fewer-chlamydia-scripts-in-covid-lockdowns/87370) | *The Medical Republic*, 13 March 2023
 
 [Open-Label Placebo Analgesia Blocked by Naloxone](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/open-label-placebo-analgesia-blocked-by-naloxone/) | *Pain Research Forum*, 10 March 2023
 
-[Antibiotic usage linked to necrolysing skin disorders](https://www.dermatologyrepublic.com.au/antibiotic-usage-linked-to-necrolysing-skin-disorders/1499) | *Dermatology Republic*, 8 March 2023
-
 [Aggression-Specific Mirror Neurons Exist in the Hypothalamus](https://www.brainpost.co/weekly-brainpost/2023/3/7/aggression-specific-mirror-neurons-exist-in-the-hypothalamus) | *BrainPost*, 7 March 2023
-
-[Good Samaritan: your risks and obligations](https://www.medicalrepublic.com.au/good-samaritan-your-risks-and-obligations/86698) | *The Medical Republic*, 28 February 2023
 
 [Promising Signs for Psychedelic Use in Cluster Headache](https://migrainecollaborative.org/promising-signs-for-psychedelic-use-in-cluster-headache) | *Migraine Science Collaborative*, 27 February 2023
 
-[New treatments for RSV just as effective](https://www.medicalrepublic.com.au/new-treatments-for-rsv-just-as-effective/86624) | *The Medical Republic*, 27 February 2023
-
 [Is Alcohol a Migraine Trigger?](https://migrainecollaborative.org/is-alcohol-a-migraine-trigger) | *Migraine Science Collaborative*, 20 February 2023
-
-[Obesity in type 1 diabetics a growing concern](https://www.medicalrepublic.com.au/obesity-in-type-1-diabetics-a-growing-concern/86160) | *The Medical Republic*, 20 February 2023
 
 [Both Cardiovascular and Behavioral Threat Responses Contribute to Defensive States](brainpost.co/weekly-brainpost/2023/2/14/both-cardiovascular-and-behavioral-threat-responses-contribute-to-defensive-states) | *BrainPost*, 14 February 2023
 
@@ -80,50 +46,16 @@ menu:
 
 [Headache Disorders in Veterans: A Big Problem](https://migrainecollaborative.org/headache-disorders-in-veterans-a-big-problem) | *Migraine Science Collaborative*, 9 February 2023
 
-[SGLT2 inhibitors may help men’s hearts more](https://medicalrepublic.com.au/sglt2-inhibitors-may-help-mens-hearts-more/85525) | *The Medical Republic*, 9 February 2023
-
-[Older diabetics face increased cancer risk](https://www.oncologyrepublic.com.au/older-diabetics-face-increased-cancer-risk/2995) | *Oncology Republic*, 8 February 2023
-
-[New round of covid boosters approved](https://medicalrepublic.com.au/new-round-of-covid-boosters-approved/85356) | *The Medical Republic*, 8 February 2023
-
 [Gig economy more diverse than first thought](https://www.uts.edu.au/about/uts-business-school/research/centre-livelihoods-and-wellbeing/about-us/news/gig-economy-more-diverse-first-thought) | *University of Technology Sydney*, 5 February 2023
 
 [Nice (gig) work if you can get it](https://www.uts.edu.au/about/uts-business-school/research/centre-livelihoods-and-wellbeing/about-us/news/nice-gig-work-if-you-can-get-it) | *University of Technology Sydney*, 5 February 2023
 
-[More exercise is not the answer for knee OA](https://rheuma.com.au/more-exercise-is-not-the-answer-for-knee-oa/23928) | *Rheumatology Republic*, 2 February 2023
-
-[First covid, then strep, now gastroenteritis](https://medicalrepublic.com.au/first-covid-then-strep-now-gastroenteritis/84637) | *The Medical Republic*, 27 January 2023
-
-[Heel prick tests key to spinal muscular atrophy care](https://medicalrepublic.com.au/sma-screening-ups-chances-of-walking/84634) | *The Medical Republic*, 27 January 2023
-
 [Gray Matter Atrophy Correlates with Neurotransmitter Dysfunction in Multiple Sclerosis](https://www.brainpost.co/weekly-brainpost/2023/1/24/gray-matter-atrophy-correlates-with-neurotransmitter-dysfunction-in-multiple-sclerosis) | *BrainPost*, 24 January 2023
-
-[Non-steroid hope for kids with sleep problems](https://medicalrepublic.com.au/non-steroid-hope-for-kids-with-sleep-problems/84283) | *The Medical Republic*, 23 January 2023
-
-[Obesity blunts benefits of vitamin D supplements](https://medicalrepublic.com.au/obesity-blunts-benefits-of-vitamin-d-supplements/84371) | *The Medical Republic*, 23 January 2023
-
-[Treating chronic pain with telehealth](https://wildhealth.net.au/treating-chronic-pain-with-telehealth) | *Wild Health*, 19 January 2023
-
-[Alarm at surge in invasive Strep A infections](https://medicalrepublic.com.au/alarm-at-surge-in-invasive-strep-a-infections/84079) | *The Medical Republic*, 16 January 2023
-
-[Experts divided on supplements for hair loss](https://medicalrepublic.com.au/experts-divided-on-nutritional-supplements-for-hair-loss/84033) | *The Medical Republic*, 16 January 2023
 
 ## 2022
 [Why Does Sumatriptan Only Work for Headache Disorders?](https://migrainecollaborative.org/why-does-sumatriptan-only-work-for-headache-disorders) | *Migraine Science Collaborative*, 30 December 2022
 
 [Deep Brain Stimulation in Alzheimer’s Disease](https://www.brainpost.co/weekly-brainpost/2022/12/20/deep-brain-stimulation-in-alzheimers-disease) | *BrainPost*, 20 December 2022
-
-[Cancer drug hope for pemphigus patients](https://medicalrepublic.com.au/cancer-drug-hope-for-pemphigus-patients/83422) | *The Medical Republic*, 16 December 2022
-
-[Future grim for Australia's research sector](https://medicalrepublic.com.au/future-grim-for-australias-research-sector/83419) | *The Medical Republic*, 16 December 2022
-
-[Intoxication is not in the eye of the beer-holder](https://medicalrepublic.com.au/intoxication-is-not-in-the-eye-of-the-beer-holder/82991) | *The Medical Republic*, 7 December 2022
-
-[GP-led preconception care works](https://medicalrepublic.com.au/gp-led-preconception-care-works/82567) | *The Medical Republic*, 1 December 2022
-
-[COPD increases shingles risk](https://medicalrepublic.com.au/copd-increases-shingles-risk/82621) | *Rheumatology Republic*, 1 December 2022
-
-[Pollen-Related Asthma in Kids Needs Yearlong Vigilance](https://medicalrepublic.com.au/pollen-related-asthma-in-kids-needs-yearlong-vigilance/82178) | *The Medical Republic*, 24 November 2022
 
 [A Chat with the New Editor-in-Chief of the PRF Editorial Board: Rebecca Seal](https://www.painresearchforum.org/forums/interview/211770-chat-new-editor-chief-prf-editorial-board-rebecca-seal) | *Pain Research Forum*, 16 November 2022
 

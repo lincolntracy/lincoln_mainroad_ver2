@@ -7,7 +7,7 @@ draft: "true"
 menu: 
     main: 
         name: "Contact"
-        weight: 40
+        weight: 60
 ---
 
 Contact me via the form below. 
