@@ -9,7 +9,7 @@ menu:
         weight: 30
 ---
 
-A collectoion of articles I have written while working for The Medical Republic. 
+A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
 [New hope for chronic low back pain](https://www.medicalrepublic.com.au/new-hope-for-chronic-low-back-pain/90908) | *The Medical Republic*, 4 May 2023
