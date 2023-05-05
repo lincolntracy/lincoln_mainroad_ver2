@@ -12,6 +12,8 @@ menu:
 A collection of articles, interviews, and podcasts I have produced in a freelance capacity. 
 
 ## 2023
+[Hypersensitivity Underlies the Pain Profile of Autistic People](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/hypersensitivity-underlies-the-pain-profile-of-autistic-people/) | *Pain Research Forum*, 5 May 2023
+
 [Talking Migraine Genetics: An Interview with Lyn Griffiths](https://migrainecollaborative.org/talking-migraine-genetics-interview-lyn-griffiths) | *Migraine Science Collaborative*, 4 May 2023
 
 [Encoding Numerical Information is as Easy as 1-2-3 for Infants](https://www.brainpost.co/weekly-brainpost/2023/4/25/encoding-numerical-information-is-as-easy-as-1-2-3-for-infants) | *BrainPost*, 25 April 2023
