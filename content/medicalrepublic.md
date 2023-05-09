@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Vaxneuvance gets NIP backing from PBAC](https://www.medicalrepublic.com.au/vaxneuvance-gets-nip-backing-from-pbac/91098) | *The Medical Republic*, 8 May 2023
+
 [New hope for chronic low back pain](https://www.medicalrepublic.com.au/new-hope-for-chronic-low-back-pain/90908) | *The Medical Republic*, 4 May 2023
 
 [Bright future for new alopecia drug](https://www.dermatologyrepublic.com.au/bright-future-for-new-alopecia-drug/1673) | *Dermatology Republic*, 3 May 2023

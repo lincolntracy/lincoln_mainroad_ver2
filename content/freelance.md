@@ -12,6 +12,8 @@ menu:
 A collection of articles, interviews, and podcasts I have produced in a freelance capacity. 
 
 ## 2023
+[The Impact of Migraine History and Medication Use on Pregnancy Outcomes](https://migrainecollaborative.org/the-impact-of-migraine-history-and-medication-use-on-pregnancy-outcomes) | *Migraine Science Collaborative*, 9 May 2023
+
 [Hypersensitivity Underlies the Pain Profile of Autistic People](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/hypersensitivity-underlies-the-pain-profile-of-autistic-people/) | *Pain Research Forum*, 5 May 2023
 
 [Talking Migraine Genetics: An Interview with Lyn Griffiths](https://migrainecollaborative.org/talking-migraine-genetics-interview-lyn-griffiths) | *Migraine Science Collaborative*, 4 May 2023
