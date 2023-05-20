@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Let’s get physical (to address substance use)](https://www.medicalrepublic.com.au/lets-get-physical-to-address-substance-use/91102) | *The Medical Republic*, 11 May 2023
+
 [Vaxneuvance gets NIP backing from PBAC](https://www.medicalrepublic.com.au/vaxneuvance-gets-nip-backing-from-pbac/91098) | *The Medical Republic*, 8 May 2023
 
 [New hope for chronic low back pain](https://www.medicalrepublic.com.au/new-hope-for-chronic-low-back-pain/90908) | *The Medical Republic*, 4 May 2023
