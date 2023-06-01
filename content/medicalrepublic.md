@@ -12,6 +12,14 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Denosumab beats alendronate on fracture risk](https://www.rheuma.com.au/denosumab-beats-alendronate-on-fracture-risk/24714) | *Rheumatology Republic*, 1 June 2023
+
+[Keeping the elderly itch-free](https://www.medicalrepublic.com.au/keeping-the-elderly-itch-free/92623) | *The Medical Republic*, 1 June 2023
+
+[Mindfulness and self-compassion helps atopic dermatitis](https://www.dermatologyrepublic.com.au/mindfulness-and-self-compassion-helps-atopic-dermatitis/1732) | *Dermatology Republic*, 31 May 2023
+
+[New asthma CPD targets Melbourne GPs](https://www.medicalrepublic.com.au/new-asthma-cpd-targets-melbourne-gps/92280) | *The Medical Republic*, 29 May 2023
+
 [Burnt out and overworked GPs more likely to prescribe opioids](https://www.medicalrepublic.com.au/burnt-out-and-overworked-gps-more-likely-to-prescribe-opioids/92158) | *The Medical Republic*, 25 May 2023
 
 [Metabolic risks for sons of women with PCOS](https://www.medicalrepublic.com.au/metabolic-risks-for-sons-of-women-with-pcos/91931) | *The Medical Republic*, 22 May 2023
