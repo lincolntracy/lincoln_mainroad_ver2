@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Registrars want climate training and action](https://www.medicalrepublic.com.au/registrars-want-climate-training-and-action/93100) | *The Medical Republic*, 9 June 2023
+
 [Denosumab beats alendronate on fracture risk](https://www.rheuma.com.au/denosumab-beats-alendronate-on-fracture-risk/24714) | *Rheumatology Republic*, 1 June 2023
 
 [Keeping the elderly itch-free](https://www.medicalrepublic.com.au/keeping-the-elderly-itch-free/92623) | *The Medical Republic*, 1 June 2023
@@ -104,3 +106,5 @@ A collection of articles I have written while working for The Medical Republic.
 [COPD increases shingles risk](https://medicalrepublic.com.au/copd-increases-shingles-risk/82621) | *Rheumatology Republic*, 1 December 2022
 
 [Pollen-Related Asthma in Kids Needs Yearlong Vigilance](https://medicalrepublic.com.au/pollen-related-asthma-in-kids-needs-yearlong-vigilance/82178) | *The Medical Republic*, 24 November 2022
+
+[Metabolic syndrome increases risk of gout](https://www.rheuma.com.au/metabolic-syndrome-increases-the-risk-of-gout/23677) | *Rheumatology Republic*, 24 November 2022
