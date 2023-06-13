@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Keep an eye out for vitamin A deficiency](https://www.medicalrepublic.com.au/keep-an-eye-out-for-vitamin-a-deficiency/93188) | *The Medical Republic*, 13 June 2023
+
 [Registrars want climate training and action](https://www.medicalrepublic.com.au/registrars-want-climate-training-and-action/93100) | *The Medical Republic*, 9 June 2023
 
 [Denosumab beats alendronate on fracture risk](https://www.rheuma.com.au/denosumab-beats-alendronate-on-fracture-risk/24714) | *Rheumatology Republic*, 1 June 2023
@@ -71,6 +73,8 @@ A collection of articles I have written while working for The Medical Republic.
 [New treatments for RSV just as effective](https://www.medicalrepublic.com.au/new-treatments-for-rsv-just-as-effective/86624) | *The Medical Republic*, 27 February 2023
 
 [Obesity in type 1 diabetics a growing concern](https://www.medicalrepublic.com.au/obesity-in-type-1-diabetics-a-growing-concern/86160) | *The Medical Republic*, 20 February 2023
+
+[Treat chlamydia with doxycycline first: new guidelines](https://www.medicalrepublic.com.au/treat-chlamydia-with-doxycycline-first-new-guidelines/85667) | *The Medical Republic*, 13 February 2023
 
 [SGLT2 inhibitors may help men’s hearts more](https://medicalrepublic.com.au/sglt2-inhibitors-may-help-mens-hearts-more/85525) | *The Medical Republic*, 9 February 2023
 
