@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Screens out and exercise in after concussion](https://www.medicalrepublic.com.au/screens-out-and-exercise-in-after-concussion/93376) | *The Medical Republic*, 15 June 2023
+
+[Cosmetic injectables: More than meets the eye](https://www.dermatologyrepublic.com.au/cosmetic-injectables-more-than-meets-the-eye/1791) | *Dermatology Republic*, 14 June 2023
+
+[TGA gives baricitinib the green light for alopecia](https://www.dermatologyrepublic.com.au/tga-gives-baricitinib-the-green-light-for-alopecia/1779) | *Dermatology Republic*, 14 June 2023
+
 [Keep an eye out for vitamin A deficiency](https://www.medicalrepublic.com.au/keep-an-eye-out-for-vitamin-a-deficiency/93188) | *The Medical Republic*, 13 June 2023
 
 [Registrars want climate training and action](https://www.medicalrepublic.com.au/registrars-want-climate-training-and-action/93100) | *The Medical Republic*, 9 June 2023
