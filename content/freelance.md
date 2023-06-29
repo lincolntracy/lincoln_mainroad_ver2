@@ -12,6 +12,8 @@ menu:
 A collection of articles, interviews, and podcasts I have produced in a freelance capacity. 
 
 ## 2023
+[Pain in the Media: The Good, the Bad, and the Ugly](https://www.apsoc.org.au/PDF/Newsletters/2023_eNews/APS_Newsletter_JUN23.pdf) | *Australian Pain Society*, 1 June 2023
+
 [The Impact of Migraine History and Medication Use on Pregnancy Outcomes](https://migrainecollaborative.org/the-impact-of-migraine-history-and-medication-use-on-pregnancy-outcomes) | *Migraine Science Collaborative*, 9 May 2023
 
 [Hypersensitivity Underlies the Pain Profile of Autistic People](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/hypersensitivity-underlies-the-pain-profile-of-autistic-people/) | *Pain Research Forum*, 5 May 2023

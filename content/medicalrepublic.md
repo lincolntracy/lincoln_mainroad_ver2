@@ -12,6 +12,14 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[What’s the similarity between John Connor and a dermatologist?](https://www.dermatologyrepublic.com.au/whats-the-similarity-between-john-connor-and-a-dermatologist/1822) | *Dermatology Republic*, 28 June 2023
+
+[AI does everything else, may as well let it entertain you](https://www.medicalrepublic.com.au/ai-does-everything-else-may-as-well-let-it-entertain-you/93747) | *The Medical Republic*, 21 June 2023
+
+[N95 masks are good for covid, bad for skin](https://www.medicalrepublic.com.au/n95-masks-are-good-for-covid-bad-for-skin/93612) | *The Medical Republic*, 19 June 2023
+
+[‘Insulting’ concussion consensus ignores CTE link](https://www.medicalrepublic.com.au/insulting-concussion-consensus-ignores-cte-link/93582) | *The Medical Republic*, 19 June 2023
+
 [Screens out and exercise in after concussion](https://www.medicalrepublic.com.au/screens-out-and-exercise-in-after-concussion/93376) | *The Medical Republic*, 15 June 2023
 
 [Cosmetic injectables: More than meets the eye](https://www.dermatologyrepublic.com.au/cosmetic-injectables-more-than-meets-the-eye/1791) | *Dermatology Republic*, 14 June 2023
