@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Sweetener ‘a possible carcinogen’, says WHO](https://www.medicalrepublic.com.au/sweetener-a-possible-carcinogen-says-who/94384) | *The Medical Republic*, 30 June 2023
+
+[See you next year, Ozempic](medicalrepublic.com.au/see-you-next-year-ozempic/94342) | *The Medical Republic*, 30 June 2023
+
+[Natural conception after ART ‘far from rare’](https://www.medicalrepublic.com.au/natural-conception-after-art-far-from-rare/94172) | *The Medical Republic*, 29 June 2023
+
 [What’s the similarity between John Connor and a dermatologist?](https://www.dermatologyrepublic.com.au/whats-the-similarity-between-john-connor-and-a-dermatologist/1822) | *Dermatology Republic*, 28 June 2023
 
 [AI does everything else, may as well let it entertain you](https://www.medicalrepublic.com.au/ai-does-everything-else-may-as-well-let-it-entertain-you/93747) | *The Medical Republic*, 21 June 2023
