@@ -18,9 +18,9 @@ Lo CH, **Tracy LM**, Lam C, Kimble R, & Wong She R (accepted 21/03/2023). In-hos
 
 Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). [Concordance between coding sources of burn size and depth across Australian and New Zealand specialist burn services](https://journals.sagepub.com/doi/10.1177/18333583221135710). *Health Information Management Journal*. doi: 10.1177/18333583221135710 
 
-**Tracy LM**, Gold M, Braaf S, & Cleland H (accepted 10/02/2022). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac017
-
 ### 2023
+**Tracy LM**, Gold M, Braaf S, & Cleland H (2023). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*, 44(3): 675-684. doi: 10.1093/jbcr/irac017
+
 Singer Y, Gabbe BJ, Cleland H, Holden D, Schnekenburger M, & **Tracy LM** (2023). [The association between out of hours burn centre admission and in-hospital outcomes in patients with severe burns](https://www.sciencedirect.com/science/article/abs/pii/S0305417922002029). *Burns*, 49(5): 1062-1072. doi: 10.1016/j.burns.2022.08.002
 
 Reeder S, Cleland HJ, Gold M, & **Tracy LM** (2023). [Exploring Clinicians’ Decision-Making Processes about End-of-Life Care After Burns: A Qualitative Interview study](https://www.sciencedirect.com/science/article/abs/pii/S0305417922003060). *Burns*, 49(3): 595-606. doi: 10.1016/j.burns.2022.12.001
