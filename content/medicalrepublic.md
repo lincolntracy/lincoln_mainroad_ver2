@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Little drops in kidney function can have a big impact](https://www.medicalrepublic.com.au/little-drops-in-kidney-function-can-have-a-big-impact/94711) | *The Medical Republic*, 6 July 2023
+
 [Sweetener ‘a possible carcinogen’, says WHO](https://www.medicalrepublic.com.au/sweetener-a-possible-carcinogen-says-who/94384) | *The Medical Republic*, 30 June 2023
 
 [See you next year, Ozempic](medicalrepublic.com.au/see-you-next-year-ozempic/94342) | *The Medical Republic*, 30 June 2023

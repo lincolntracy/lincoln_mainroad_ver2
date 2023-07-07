@@ -12,7 +12,9 @@ menu:
 A collection of articles, interviews, and podcasts I have produced in a freelance capacity. 
 
 ## 2023
-[Pain in the Media: The Good, the Bad, and the Ugly](https://www.apsoc.org.au/PDF/Newsletters/2023_eNews/APS_Newsletter_JUN23.pdf) | *Australian Pain Society*, 1 June 2023
+[IASP Global Year Lecture: How a Tri Flow Device, Merv Hughes, and a Spoon Represents Integrated Pain Care](/files/content/freelance/APS_Newsletter_JUL23-8-10.pdf) | *Australian Pain Society*, 5 July 2023
+
+[Pain in the Media: The Good, the Bad, and the Ugly](/files/content/posts/freelance/APS_Newsletter_JUN23-19-21.pdf) | *Australian Pain Society*, 1 June 2023
 
 [The Impact of Migraine History and Medication Use on Pregnancy Outcomes](https://migrainecollaborative.org/the-impact-of-migraine-history-and-medication-use-on-pregnancy-outcomes) | *Migraine Science Collaborative*, 9 May 2023
 
