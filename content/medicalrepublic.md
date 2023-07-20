@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[New CVD risk calculator and prevention guidelines](https://www.medicalrepublic.com.au/new-cvd-risk-calculator-and-prevention-guidelines/95464) | *The Medical Republic*, 20 July 2023
+
 [More evidence backs ketamine for severe depression](https://www.medicalrepublic.com.au/more-evidence-backs-ketamine-for-severe-depression/95177) | *The Medical Republic*, 14 July 2023
 
 [A third of Aussies have musculoskeletal conditions, says AIHW](https://www.rheuma.com.au/a-third-of-aussies-have-musculoskeletal-conditions-says-aihw/25031) | *Rheumatology Republic*, 13 July 2023
