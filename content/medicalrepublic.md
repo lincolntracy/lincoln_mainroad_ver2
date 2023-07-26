@@ -12,6 +12,14 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Lower vitamin D levels linked to increased psoriasis severity](https://www.dermatologyrepublic.com.au/lower-vitamin-d-levels-linked-to-increased-psoriasis-severity/1894) | *Dermatology Republic*, 26 June 2023
+
+[Are Ariana Grande and hipsters to blame for rise in traction alopecia?](https://www.dermatologyrepublic.com.au/are-ariana-grande-and-hipsters-to-blame-for-rise-in-traction-alopecia/1914) | *Dermatology Republic*, 26 June 2023
+
+[The AI ‘avalanche’ is coming](https://www.dermatologyrepublic.com.au/the-ai-avalanche-is-coming/1891) | *Dermatology Republic*, 26 June 2023
+
+[Red flags for imaging in musculoskeletal conditions](https://www.medicalrepublic.com.au/red-flags-for-imaging-in-musculoskeletal-conditions/95605) | *The Medical Republic*, 24 July 2023
+
 [New CVD risk calculator and prevention guidelines](https://www.medicalrepublic.com.au/new-cvd-risk-calculator-and-prevention-guidelines/95464) | *The Medical Republic*, 20 July 2023
 
 [More evidence backs ketamine for severe depression](https://www.medicalrepublic.com.au/more-evidence-backs-ketamine-for-severe-depression/95177) | *The Medical Republic*, 14 July 2023
