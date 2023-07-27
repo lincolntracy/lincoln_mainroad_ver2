@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Aspirin increases bleed risk in healthy older adults](https://www.medicalrepublic.com.au/aspirin-increases-bleed-risk-in-healthy-older-adults/95890) | *The Medical Republic*, 27 July 2023
+
+[One in four young Aussies can’t get no (sleep) satisfaction](https://www.medicalrepublic.com.au/one-in-four-young-aussies-cant-get-no-sleep-satisfaction/95854) | *The Medical Republic*, 27 July 2023
+
 [Lower vitamin D levels linked to increased psoriasis severity](https://www.dermatologyrepublic.com.au/lower-vitamin-d-levels-linked-to-increased-psoriasis-severity/1894) | *Dermatology Republic*, 26 July 2023
 
 [Are Ariana Grande and hipsters to blame for rise in traction alopecia?](https://www.dermatologyrepublic.com.au/are-ariana-grande-and-hipsters-to-blame-for-rise-in-traction-alopecia/1914) | *Dermatology Republic*, 26 July 2023
