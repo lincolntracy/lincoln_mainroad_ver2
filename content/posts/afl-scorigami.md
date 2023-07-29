@@ -42,7 +42,7 @@ While this might sound impressive, Gold Coast and Sydney have also been involved
 
 **Figure 1: Scorigamis by club in 2023 (to Round 19)**
 
-![Fig1](/static/files/content/posts/afl-scorigami/scorigami-1.png)
+![Fig1](/files/content/posts/afl-scorigami/scorigami-1.png)
 
 Carlton holds the all-time record for the most scorigami involvements (1163, Table 2), closely followed by Essendon (1139), Geelong (1137), and Collingwood (1132). It’s not  surprising that the ‘older’ clubs have much higher totals compared to newer/expansion clubs, such as GWS, Gold Coast, Port Adelaide, and Fremantle. 
 
@@ -80,7 +80,7 @@ It’s also not surprising that the number of scorigamis per year has been trend
 
 **Figure 2: Scorigamis by season (to Round 19, 2023)**
 
-![Fig2](/static/files/content/posts/afl-scorigami/scorigami-2.png)
+![Fig2](/files/content/posts/afl-scorigami/scorigami-2.png)
 
 ## Method 2: Goals and behinds
 
@@ -122,7 +122,7 @@ The Eagles’ total of five puts them 14th on the all-time club scorigami list, 
 
 </center>
 
-There have been 747 unique combinations of goals and behinds scored by each team in a game of AFL football. Click [here](/static/files/content/posts/afl-scorigami/scorigami-list.pdf) for a list of the first time each unique combination occurred.  
+There have been 747 unique combinations of goals and behinds scored by each team in a game of AFL football. Click [here](/files/content/posts/afl-scorigami/scorigami-list.pdf) for a list of the first time each unique combination occurred.  
 
 --- 
 
