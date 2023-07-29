@@ -38,6 +38,8 @@ Interestingly, Martin was Essendon’s ninth player to kick five or more goals o
 
 **Number of players to kick five or more goals on debut, by club**
 
+<center>
+
 | Team             | Number |
 | :--------------- | :----: |
 | Carlton          | 9      |
@@ -54,6 +56,8 @@ Interestingly, Martin was Essendon’s ninth player to kick five or more goals o
 | Collingwood      | 2      |
 | Fitzroy          | 2      |
 | West Coast       | 2      |
+
+</center>
 
 --- 
 

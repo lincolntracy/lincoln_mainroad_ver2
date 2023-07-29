@@ -56,6 +56,8 @@ Only four seasons have had two games where a team score matches the calendar dat
 
 The table below displays the number of calendar score games each team has played and the number of wins that have come from these appearances.
 
+<center>
+
 | Team             | Played | Wins | Win % |
 | :--------------- | :----: | :--: | :---: |
 | Adelaide         | 4      | 3    | 75    |
@@ -78,6 +80,8 @@ The table below displays the number of calendar score games each team has played
 | University       | 1      | 0    | 0     |
 | West Coast       | 2      | 1    | 50    |
 | Western Bulldogs | 4      | 1    | 25    |
+
+</center>
 
 From this table, we can see that the Lions and the Hawks have a perfect record in these games. However, their win percentages are somewhat inflated as they have only played in one and two of these games respectively. Realistically, **Geelong** has the best record in these games, winning **seven of their eight games** for an 87.5% win rate.
 

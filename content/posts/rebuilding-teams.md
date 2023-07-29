@@ -37,6 +37,8 @@ For example, the Bears got a little better each year from 1994-1996. In contrast
 
 An even more encouraging finding is that six of the seven teams played at least one final in the three years after the “bad” period. In fact, Sydney made the Grand Final in 1996, losing to North Melbourne. 
 
+<center>
+
 | Team           | Year | Finals? |
 | :------------- | :--- | :------ |
 | Brisbane Bears | 1994	| No      |
@@ -60,6 +62,8 @@ An even more encouraging finding is that six of the seven teams played at least 
 | Brisbane Lions | 2018	| No      |
 | Brisbane Lions | 2019	| Lost SF |
 | Brisbane Lions | 2020	| Lost PF |
+
+</center>
 
 Melbourne were the only team not to play finals in their post-“bad” period. Demons fans had to wait until 2018 to see Melbourne make finals again.
 

@@ -50,6 +50,8 @@ Things look much better after removing stopwords---“old” now tops the list w
 
 Eight clubs have “old” in their song lyrics, but the Carlton fans sing “old” more than any other supporter base.
 
+<center>
+
 | Club            | Number of times "old" appears in song |
 | :-------------- | :-----------------------------------: |
 | Brisbane Lions  | 2                                     |
@@ -60,6 +62,8 @@ Eight clubs have “old” in their song lyrics, but the Carlton fans sing “ol
 | Melbourne       | 2                                     |
 | North Melbourne | 2                                     |
 | Richmond        | 2                                     |
+
+</center>
 
 However, the data I have used inflates the number of times certain words appear. For most club songs (14 by my count), the same refrain is repeated twice---usually before and after an instrumental solo. Take the St Kilda club song, for example:
 

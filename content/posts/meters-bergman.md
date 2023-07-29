@@ -45,6 +45,8 @@ We can look at metres gained data from 2012 onwards, as this is available from t
 
 Miles Bergman has 5150 metres gained in his 23-game career, which equates to 3.2 miles. 
 
+<center>
+
 | Round             | Metres Gained | Miles Gained |
 | :---------------: | :-----------: | :----------: |
 | 1	                | 152           | 0.09         |
@@ -70,6 +72,8 @@ Miles Bergman has 5150 metres gained in his 23-game career, which equates to 3.2
 | 23                | 270           | 0.17         |
 | Finals Week 1	    | 373           | 0.23         |
 | Preliminary Final | 304           | 0.19         |
+
+</center>
 
 *Unsued medical sub in rounds 3 and 10.*
 

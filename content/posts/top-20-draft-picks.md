@@ -30,6 +30,8 @@ Pick #15 having the highest win percentage (closely followed by #16 and #18) isn
 
 But what I find interesting is the significant difference in win percentage between picks #13 and #15. I would not have thought that there would be such a difference here. But what’s the reason for this difference? Let’s compare the thirteenth and fifteenth picked players and see what we have.
 
+<center>
+
 | Year | Pick #13               | Pick #15               |
 | :--: | :--------------------- | :--------------------- |
 | 2010 | Seb Tape (GC)          | Billie Smedts (GEEL)   |
@@ -43,6 +45,8 @@ But what I find interesting is the significant difference in win percentage betw
 | 2018 | Isaac Quaynor (COLL)   | Jordan Clark (GEEL)    |
 | 2019 | Will Day (HAW)         | Cody Weightman (WB)    |
 | 2020 | Tom Powell (NM)        | Connor Stone (GWS)     |
+
+</center>
 
 Working our way down the list, it becomes pretty apparent why pick #13s have fared so poorly. Most of the players taken at pick 13 have either (a) been in teams that have been poor since the player was drafted, (b) only played a small number of games, or (c) some combination of the two. 
 

@@ -18,6 +18,8 @@ After he was selected by Carlton in the third round of the 2010 Rookie Draft, he
 
 Let’s compare the pair over the course of their careers, stats wise. 
 
+<center>
+
 | Stat                                                         | Casboult     | Greenwood |
 | :----------------------------------------------------------- | :----------: | :-------: |
 | Games                                                        | 154          | **160**   |
@@ -29,6 +31,8 @@ Let’s compare the pair over the course of their careers, stats wise.
 | Bounces                                                      | 1            | **57**    |
 | Brownlow votes                                               | 2            | **9**     |
 | [Double cobras](https://www.youtube.com/watch?v=65q9SKKTMSw) | **Multiple** | 0?        |
+
+</center>
 
 The differences are largely what you would come to expect, given Casboult played as a forward/ruck while Greenwood was a midfielder. One thing that caught my eye was Casboult’s one career bounce, which came in Round 18, 2015, against North Melbourne.
 

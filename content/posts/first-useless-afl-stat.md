@@ -29,6 +29,8 @@ It got me thinking about how accurate teams had been in certain games. Disappoin
 
 The table below displays the 12 games where the team playing away on a Friday night in Round 20 won the match, sorted by how accurate each team was in terms of their goalkicking. If you hadn't figured out where this was going yet, **Carlton's performance from earlier this year** tops the list.
 
+<center>
+
 | Year | Team           | Opponent        | Venue            | Goals | Behinds | Accuracy |
 | :--: | :------------- | :-------------- | :--------------- |:----: | :-----: | :------: |
 | 2021 | Carlton        | St Kilda        | Marvel Stadium   | 18    | 4       | 81.8%    |
@@ -43,6 +45,8 @@ The table below displays the 12 games where the team playing away on a Friday ni
 | 1999 | Essendon       | Collingwood     | MCG              | 12    | 15      | 44.4%    |
 | 2013 | Hawthorn       | St Kilda        | Etihad Stadium   | 14    | 18      | 43.8%    |
 | 2006 | Collingwood    | Port Adelaide   | Football Park    | 12    | 17      | 41.1%    |  
+
+</center>
 
 *Note: Marvel Stadium, Colonial Stadium, and Etihad Stadium all refer to the Docklands Stadium in Melbourne. Simonds Stadium refers to Kardinia Park in Geelong. Naming rights sponsors to these grounds have changed over time.*
 

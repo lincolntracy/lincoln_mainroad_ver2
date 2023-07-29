@@ -26,6 +26,8 @@ The worst three-week goalkicking performance came in Rounds 4, 5, and 6 in 1949,
 
 That’s quite a respectable percentage, compared to other teams. As we can see in the table below, St Kilda once had only 4.17% of scores as goals in a three-week period back in 1897.
 
+<center>
+
 | Team	           | Year | Rounds | Lowest Goal % Over 3 Weeks |
 | :----------------| :--: | :----: | :------------------------: |
 | Adelaide	       | 2010 | 3-5	   | 33.57                      |
@@ -49,6 +51,8 @@ That’s quite a respectable percentage, compared to other teams. As we can see 
 | University	   | 1909 | 13-15  | 24.53                      |
 | West Coast	   | 1989 | 13-15  | 22.98                      |
 | Western Bulldogs | 1949 | 4-6	   | 27.43                      |
+
+</center>
 
 ^ Includes final game of 1900 finals series
 ^^ Includes 2020 Preliminary Final

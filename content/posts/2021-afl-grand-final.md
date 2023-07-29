@@ -76,11 +76,11 @@ So, not only have Melbourne’s potential combinations appeared before, the team
 
 As a special bonus, here are some quick stats about Ba(i)ley(s). 
 
-According to [Wikipedia]( https://en.wikipedia.org/wiki/Bailey_(given_name)), Bailey is traditionally a male name derived from “bailiff”, meaning “agent of the law” or “debt collector”. The Wikipedia page lists numerous possible spelling derivations for Bailey. 
+According to [Wikipedia](https://en.wikipedia.org/wiki/Bailey_(given_name)), Bailey is traditionally a male name derived from “bailiff”, meaning “agent of the law” or “debt collector”. The Wikipedia page lists numerous possible spelling derivations for Bailey. 
 
-Most football fans will know these players running around tomorrow night --- Bailey Dale, [Bailey Smith]( https://www.instagram.com/bazlenka/?hl=en), Bailey Williams, and Bayley Fritsch. The first three play for the Western Bulldogs, while the last Bayley plays for Melbourne. 
+Most football fans will know these players running around tomorrow night --- Bailey Dale, [Bailey Smith](https://www.instagram.com/bazlenka/?hl=en), Bailey Williams, and Bayley Fritsch. The first three play for the Western Bulldogs, while the last Bayley plays for Melbourne. 
 
-As far as I can tell, four other Baileys have played AFL: [Bailey Banfield]( https://afltables.com/afl/stats/players/B/Bailey_Banfield.html), [Bailey Rice]( https://afltables.com/afl/stats/players/B/Bailey_Rice.html), [Bailey Scott]( https://afltables.com/afl/stats/players/B/Bailey_Scott.html), and a second [Bailey Williams](https://afltables.com/afl/stats/players/B/Bailey_Williams1.html) who plays for West Coast.
+As far as I can tell, four other Baileys have played AFL: [Bailey Banfield](https://afltables.com/afl/stats/players/B/Bailey_Banfield.html), [Bailey Rice](https://afltables.com/afl/stats/players/B/Bailey_Rice.html), [Bailey Scott](https://afltables.com/afl/stats/players/B/Bailey_Scott.html), and a second [Bailey Williams](https://afltables.com/afl/stats/players/B/Bailey_Williams1.html) who plays for West Coast.
 
 Unsurprisingly, the most Baileys to be fielded by the same team has been done by the Western Bulldogs on 34 different occasions --- 22 of which have been this season. 
 

@@ -24,6 +24,8 @@ But how many other times were the Western Bulldogs responsible for a team's bigg
 
 The Bulldogs did it three times, as did Geelong. But the Brisbane Lions take the crown after they gave five teams their biggest loss for the season.
 
+<center>
+
 | Team                   | How many times ? | Who did they do it against?                  |
 | :--------------------- | :--------------- | :------------------------------------------- |
 | Brisbane Lions         | 5                | Essendon (Round 5, 57 points)                |
@@ -45,6 +47,8 @@ The Bulldogs did it three times, as did Geelong. But the Brisbane Lions take the
 | GWS                    | 1                | Adelaide (Round 7, 67 points)                |
 | Port Adelaide          | 1                | Carlton (Round 22, 95 points)                |
 
+</center>
+
 There are plenty of other interesting take aways from this table, including:
  - The average biggest loss was 67.56 points.
  - Four of teams who had their biggest lost to Brisbane made finals. 
@@ -53,6 +57,8 @@ There are plenty of other interesting take aways from this table, including:
  - St Kilda and the Gold Coast both had disappointing seasons, but managed to still give three teams their biggest loss for the year.
 
 On the flip side, we can also look at see who teams had their biggest win against. North Melbourne and West Coast fans won't be too happy, with each team having three games where their opponent had their biggest win for the year.
+
+<center>
 
 | Team            | How many times? | Who did it to them?                    |
 | :---------------| :-------------- | :------------------------------------- |
@@ -74,6 +80,8 @@ On the flip side, we can also look at see who teams had their biggest win agains
 | Collingwood     | 1               | Brisbane (Round 22, 85 points)         |
 | Gold Coast      | 1               | Melbourne (Round 20, 98 points)        | 
 | Sydney          | 1               | Hawthorn (Round 13, 38 points)         |
+
+</center>
 
 Other key take aways:
  - The average biggest win was 71.11 points.

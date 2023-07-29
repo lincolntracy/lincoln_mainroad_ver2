@@ -20,6 +20,8 @@ With the loss, Franklin joins Doug Wade as the only players to lose their first 
 
 The table below shows the performances in the game after their thousandth goal was kicked. Individual stats are not available for Gordon Coventry, as these were not recorded at the time.
 
+<center>
+
 | Player       | Result                 | Marks | Kicks | Handballs | Goals | Behinds |
 | :----------- | :--------------------- | :---: | :---: | :-------: | :---: | :-----: |
 | G Coventry   | def FITZ, 15 points    | -     | -     | -         | 3     | -       |
@@ -28,6 +30,8 @@ The table below shows the performances in the game after their thousandth goal w
 | G Ablett Snr | def FITZ, 127 points   | 6     | 13    | 4         | 6     | 3       | 
 | T Lockett    | def COLL, 23 points    | 9     | 11    | 2         | 7     | 4       |
 | L Franklin   | def by WB, 11 points   | 7     | 15    | 4         | 2     | 1       |
+
+</center>
 
 Swans coach John Longmire was uncertain if his team’s poor showing was the result of an emotional “hangover” after the celebrations of last week.
 

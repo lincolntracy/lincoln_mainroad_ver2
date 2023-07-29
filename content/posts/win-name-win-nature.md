@@ -26,6 +26,8 @@ Let's take a look at how players with "win" in their name have performed on the 
 
 **Most Wins by an AFL Player with "Win" in their name**
 
+<center>
+
 | Name                 | Games | Wins | Win % | Biggest Winning Margin                                              |
 | :------------------- | :---: | :--: | :---: | :------------------------------------------------------------------ |
 | Simon	Good**win**	   | 275   | 155  | 56.36 | [138](https://afltables.com/afl/stats/games/2006/010520060602.html) |
@@ -38,6 +40,8 @@ Let's take a look at how players with "win" in their name have performed on the 
 | Ron McE**win**       | 77	   | 53   | 68.83 | [105](https://afltables.com/afl/stats/games/1950/051619500429.html) |
 | Bill **Win**dley	   | 129   | 53   | 41.09 | [70](https://afltables.com/afl/stats/games/1899/151618990902.html)  |
 | Vince Ir**win**      | 78    | 49   | 62.82 | [82](https://afltables.com/afl/stats/games/1924/051519240614.html)  |
+
+</center>
 
 The table above lists the top 10 "win"-containing players, ranked by their total number of wins during their playing career.
 
@@ -67,11 +71,15 @@ The other is [Mick Erwin](https://afltables.com/afl/stats/coaches/Mick_Erwin.htm
 
 Here's Goodwin's final record as a player and coach (after the 2021 Grand Final):
 
+<center>
+
 | Career    | Games     | Wins     | Win %     |
 | :-------- | :-------: | :------: | :-------: |
 | Player    | 275       | 155      | 56.36     |
 | Coach     | 112       | 62       | 55.36     |
 | **Total** | **387**   | **217**  | **56.07** | 
+
+</center>
 
 From a win/loss perspective, Goodwin's record as a coach is almost consistent with when he was a player. 
 

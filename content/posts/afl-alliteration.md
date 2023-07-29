@@ -42,6 +42,8 @@ From the graph above we can see that "B" alliterative names are the most common 
 
 It's not particularly surprising that "Q", "U", "X", "Y", and "Z" alliterative names haven't occurred yet in the AFL. Players who have first names starting with these letters are few and far between. Last names starting with these letters are a bit more common.
 
+<center>
+
 | Letter | First Name | Last Name |
 | :----: | :--------: | :-------: |
 | Q      | 3          | 27        |
@@ -49,6 +51,8 @@ It's not particularly surprising that "Q", "U", "X", "Y", and "Z" alliterative n
 | X      | 7          | 1         |
 | Y      | 0          | 62        |
 | Z      | 21         | 23        |
+
+</center>
 
 Based on players who are still playing, there are opportunities to fill out the AFL's alliteration (provided someone is willing to do a Brian Lake and [change their name](https://www.abc.net.au/news/2008-01-10/bulldog-harris-changes-name-to-lake/1008096)). Potential candidates are **Q**uinton Narkle, **X**avier Duursma, **Z**ac Fisher (and any other Zac, Zach, or Zack), Isaac **Q**uaynor, Jamarra **U**gle-Hagan, Tristan **X**erri, Elliot **Y**eo, and Cameron **Z**urhaar. 
 
@@ -62,6 +66,8 @@ Since 1897 there have been 15,978 games played. **Only 695 (4.3%) have featured 
 
 Carlton and Collingwood have played the most alliterative AFL games (260), while St Kilda and South Melbourne/Sydney have played the second most (220). At the other end of the list, Fremantle only played Fitzroy four times and Footscray three times before Fitzroy merged with Brisbane and Footscray changed their name. The complete table of alliterative matchups can be seen below.
 
+<center>
+
 | Matchup                             | Occurrences |
 | :---------------------------------- | :---------- |
 | Carlton v Collingwood               | 260         |
@@ -73,6 +79,8 @@ Carlton and Collingwood have played the most alliterative AFL games (260), while
 | Geelong v Greater Western Sydney    | 12          |
 | Fitzroy v Fremantle                 | 4           |
 | Footscray v Fremantle               | 3           |
+
+</center>
 
 The results of alliterative matches are presented in the graphs below. Carlton and Collingwood have 128 wins each and four draws. South Melbourne/Sydney and Geelong have good records in alliterative matchups against St Kilda and Gold Coast, respectively.
 
@@ -118,6 +126,6 @@ In addition to these six games:
 
 ---
 
-Apologies to Swamp, the Useless AFL Stats team, or anyone else who has already done this stat. At the very least I hope I've added something new or interesting to previous work in this space. 
+*Apologies to Swamp, the Useless AFL Stats team, or anyone else who has already done this stat. At the very least I hope I've added something new or interesting to previous work in this space.* 
 
 ---
