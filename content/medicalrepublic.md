@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Anger over exercise advice in chronic fatigue syndrome](https://www.medicalrepublic.com.au/aussie-gp-slammed-for-critique-of-chronic-fatigue-syndrome-guidelines/96284) | *The Medical Republic*, 4 August 2023
+
+[Privately funded spinal fusion rates skyrocket](https://www.medicalrepublic.com.au/privately-funded-spinal-fusion-rates-skyrocket/96305) | *The Medical Republic*, 3 August 2023
+
+[AIs don’t get New Yorker cartoons either](https://www.medicalrepublic.com.au/ais-dont-get-new-yorker-cartoons-either/96198) | *The Medical Republic*, 2 August 2023
+
 [Aspirin increases bleed risk in healthy older adults](https://www.medicalrepublic.com.au/aspirin-increases-bleed-risk-in-healthy-older-adults/95890) | *The Medical Republic*, 27 July 2023
 
 [One in four young Aussies can’t get no (sleep) satisfaction](https://www.medicalrepublic.com.au/one-in-four-young-aussies-cant-get-no-sleep-satisfaction/95854) | *The Medical Republic*, 27 July 2023
