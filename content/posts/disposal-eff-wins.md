@@ -40,7 +40,7 @@ Anyway, if we group disposal efficiency into meaningfully sized groups, we can s
 
 But what about when you consider the disposal efficiency of both teams? The figure below compares disposal efficiency categories for both teams. There have been **592 games** where both teams had a disposal efficiency between 70-74.9%, but only **two games** where both teams had a disposal efficiency of 80% or more.
 
-![Fig1](/files/content/posts/disposals-eff-wins/figure1.png)
+![Fig1](/files/content/posts/disposal-eff-wins/figure1.png)
 
 Of the 2,402 matches that have occurred between Round 1, 2012 and Round 20, 2023, **the team with the higher disposal efficiency has won 68.32% of games**. 
 
