@@ -24,7 +24,6 @@ Anyway, if we group disposal efficiency into meaningfully sized groups, we can s
 
 **Table: Disposal efficiency and wins**
 
-
 <center>
 
 | Disposal efficiency | Occurences | Wins (%)     |

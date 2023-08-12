@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Breastfeeding improves women’s CVD risk factors](https://www.medicalrepublic.com.au/breastfeeding-improves-womens-cvd-risk-factors/96730) | *The Medical Republic*, 10 August 2023
+
 [Anger over exercise advice in chronic fatigue syndrome](https://www.medicalrepublic.com.au/aussie-gp-slammed-for-critique-of-chronic-fatigue-syndrome-guidelines/96284) | *The Medical Republic*, 4 August 2023
 
 [Privately funded spinal fusion rates skyrocket](https://www.medicalrepublic.com.au/privately-funded-spinal-fusion-rates-skyrocket/96305) | *The Medical Republic*, 3 August 2023
