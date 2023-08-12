@@ -43,7 +43,7 @@ If the Giants don’t beat Carlton in the final home and away game, they will be
 ![Nine win list](/files/content/posts/wins-unique-venues/nine_wins_list.png)
 
 <div align="center">
-    <img src = "/files/content/posts/wins-unique-venues/nine_wins_list.png">
+    <img src = "C:\Hugo\lincoln_mainroad_ver2\static\files\content\posts\wins-unique-venues\nine_wins_list.png">
 </div>
 
 The pressure is on.
