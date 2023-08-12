@@ -40,11 +40,7 @@ I bet they really regret getting beaten by the Eagles earlier this year, althoug
 
 If the Giants don’t beat Carlton in the final home and away game, they will become the **33rd club** to win at nine different grounds in year. It could also mean they become the first team in V/AFL history to win at nine different games and not make finals, as shown below.
 
-![Nine win list](/files/content/posts/wins-unique-venues/nine_wins_list.png)
-
-<div align="center">
-    <img src = "C:\Hugo\lincoln_mainroad_ver2\static\files\content\posts\wins-unique-venues\nine_wins_list.png">
-</div>
+![Nine win list](/files/content/posts/wins-unique-venues/nine_wins_list_v2.png)
 
 The pressure is on.
 
