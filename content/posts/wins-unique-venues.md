@@ -1,5 +1,5 @@
 ---
-title: "Wins Unique Venues"
+title: "Most Wins at Different AFL Grounds"
 date: 2023-08-12T09:33:02+10:00
 categories:
  - "Blog"
@@ -42,7 +42,7 @@ If the Giants don’t beat Carlton in the final home and away game, they will be
 
 <center>
 
-![Fig1](/files/content/posts/wins-unique-venues/nine_wins_list.png)
+![Fig1](/files/content/posts/wins-unique-venues/nine_wins_list.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 </center>
 
