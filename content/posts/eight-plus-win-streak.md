@@ -1,9 +1,6 @@
 ---
 title: "Eight-Game Win Streaks"
-date: 2023-08-19T10:13:00+10:00
-draft: true
-categories:
- - "Blog"
+date: 2023-08-20T08:13:00+10:00
 tags:
  - "R"
  - "AFL" 
@@ -12,6 +9,8 @@ tags:
 ---
 
 <!--more-->
+
+There has been a lot of talk about win streaks this year, with multiple teams having impressive stretches of successive wins. Port Adelaide won 13 in a row, GWS won seven in a row, and Carlton have currently won nine in a row (including yesterday’s victory over the Gold Coast). On the back of this, one of my friends asked about how teams that had won eight or more games in a row during the home and away season had gone in the context of the overall season, and in their words, “whether the norm is [making] the grand final”.
 
 Let’s find out.
 
