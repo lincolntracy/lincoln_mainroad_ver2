@@ -48,17 +48,17 @@ And just for fun, the record for the most different venues a team has won a game
 
 <center>
 
-| Team            | Year(s)                                              |
-| :-------------: | :--------------------------------------------------: |
-| Carlton         | 1932<sup>2</sup>                                     |
-| Collingwood     | 1928<sup>1</sup>, 1929<sup>1</sup>, 1973<sup>3</sup> |
-| Hawthorn        | 1977<sup>1</sup>                                     |
-| North Melbourne | 1976<sup>1</sup>                                     |
-| Richmond        | 1931<sup>2</sup>, 1940<sup>2</sup>                   |
+| Team            | Year(s)               |
+| :-------------: | :-------------------: |
+| Carlton         | 1932**                |
+| Collingwood     | 1928*, 1929*, 1973*** |
+| Hawthorn        | 1977*                 |
+| North Melbourne | 1976*                 |
+| Richmond        | 1931**, 1940**        |
 
 </center>
 
-_<sup>1</sup> Premiers; <sup>2</sup> Grand Finalist; <sup>3</sup>Preliminary Finalist_
+_*Premiers; **Grand Finalist; ***Preliminary Finalist_
 
 --- 
 

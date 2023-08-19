@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Another chronic migraine drug PBS listed](https://www.medicalrepublic.com.au/another-chronic-migraine-drug-pbs-listed/97113) | *The Medical Republic*, 17 August 2023
+
+[Halt hormonal contraceptives in severe covid](https://www.medicalrepublic.com.au/halt-hormonal-contraceptives-in-severe-covid/96929) | *The Medical Republic*, 14 August 2023
+
+[No regrets following gender-affirming mastectomy](https://www.medicalrepublic.com.au/no-regrets-following-gender-affirming-mastectomy/96908) | *The Medical Republic*, 14 August 2023
+
 [Breastfeeding improves women’s CVD risk factors](https://www.medicalrepublic.com.au/breastfeeding-improves-womens-cvd-risk-factors/96730) | *The Medical Republic*, 10 August 2023
 
 [Anger over exercise advice in chronic fatigue syndrome](https://www.medicalrepublic.com.au/aussie-gp-slammed-for-critique-of-chronic-fatigue-syndrome-guidelines/96284) | *The Medical Republic*, 4 August 2023
