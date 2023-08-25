@@ -1,5 +1,5 @@
 ---
-title: "Afl Jumper Numbers"
+title: "AFL Jumper Numbers"
 date: 2023-08-26T09:48:41+10:00
 categories:
  - "Blog"
