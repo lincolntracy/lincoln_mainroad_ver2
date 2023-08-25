@@ -1,6 +1,8 @@
 ---
 title: "Eight-Game Win Streaks"
 date: 2023-08-20T08:13:00+10:00
+categories:
+ - "Blog"
 tags:
  - "R"
  - "AFL" 

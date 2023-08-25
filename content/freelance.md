@@ -12,6 +12,8 @@ menu:
 A collection of articles, interviews, and podcasts I have produced in a freelance capacity. 
 
 ## 2023
+[A2CPS: A New Frontier in Pain Research](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/a2cps-a-new-frontier-in-pain-research/) | *Pain Research Forum*, 25 August 2023
+
 [The AVaTAR centre: Growing Australia’s novel vaccine development capability](https://www.medicalresearch.nsw.gov.au/the-avatar-centre-growing-australias-novel-vaccine-development-capability/) | *New South Wales Health*, 10 July 2023
 
 [IASP Global Year Lecture: How a Tri Flow Device, Merv Hughes, and a Spoon Represents Integrated Pain Care](/files/content/freelance/APS_Newsletter_JUL23-8-10.pdf) | *Australian Pain Society*, 5 July 2023
