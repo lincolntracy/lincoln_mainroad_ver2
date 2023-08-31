@@ -6,7 +6,7 @@ sidebar: false
 menu: 
     main: 
         name: "Media"
-        weight: 50
+        weight: 60
 ---
 
 A collection of interviews and newspaper articles about my research. 

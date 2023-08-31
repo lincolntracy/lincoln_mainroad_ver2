@@ -9,7 +9,7 @@ menu:
         weight: 40
 ---
 
-A collection of articles, interviews, and podcasts I have produced in a freelance capacity. 
+A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2023
 [A2CPS: A New Frontier in Pain Research](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/a2cps-a-new-frontier-in-pain-research/) | *Pain Research Forum*, 25 August 2023
@@ -75,8 +75,6 @@ A collection of articles, interviews, and podcasts I have produced in a freelanc
 
 [Dopaminergic Dual Gating of Obsessive-Compulsive Behaviors](https://www.brainpost.co/weekly-brainpost/2022/11/15/dopaminergic-dual-gating-of-obsessive-compulsive-behaviors) | *BrainPost*, 15 November 2022
 
-[Podcast: Career Advancement in the Headache Field: What Are the Obstacles?](https://migrainecollaborative.org/career-advancement-in-the-headache-field-what-are-the-obstacles-a-podcast-with-irene-de-boer-and-gisela-terwindt) | *Migraine Science Collaborative*, 10 November 2022
-
 [More Than Meets the (Human) Eye: Headache Researchers Use Facial Detection Software as an Automated Readout of Pain in Mice](https://migrainecollaborative.org/more-than-meets-the-human-eye-headache-researchers-use-facial-detection-software-as-an-automated-readout-of-pain-in-mice) | *Migraine Science Collaborative*, 26 October 2022
 
 [Sleep-Like Slow Waves Modulate Attention While Awake](https://www.brainpost.co/weekly-brainpost/2022/10/4/sleep-like-slow-waves-modulate-attention-while-awake) | *BrainPost*, 4 October 2022
@@ -86,8 +84,6 @@ A collection of articles, interviews, and podcasts I have produced in a freelanc
 [Addressing Needle Fear Early Pays Off](https://medicalrepublic.com.au/addressing-needle-fear-early-pays-off/75694) | *The Medical Republic*, 26 August 2022
 
 [Pain Avoidance in People with Migraine](https://migrainecollaborative.org/pain-avoidance-in-people-with-migraine) | *Migraine Science Collaborative*, 19 August 2022
-
-[Podcast: Effect of Graded Sensorimotor Retraining in Patients with Chronic Low Back Pain](https://www.painresearchforum.org/forums/interview/205104-iasp-prf-podcast-effect-graded-sensorimotor-retraining-patients-chronic-low) | *Pain Research Forum*, 18 August 2022
 
 [Behçet’s Disease](https://www.rheumatologyadvisor.com/ddi/behcets-disease/) | *Rheumatology Advisor*, 10 August 2022
 
