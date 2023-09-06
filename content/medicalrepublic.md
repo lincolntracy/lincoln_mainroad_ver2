@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[What’s driving the surge in spinal fusions?](https://www.medicalrepublic.com.au/whats-driving-the-surge-in-spinal-fusions/98107) | *The Medical Republic*, 4 September 2023
+
 [Preterm births are more common after heatwaves](https://www.medicalrepublic.com.au/preterm-births-are-more-common-after-heatwaves/97681) | *The Medical Republic*, 28 August 2023
 
 [Another chronic migraine drug PBS listed](https://www.medicalrepublic.com.au/another-chronic-migraine-drug-pbs-listed/97113) | *The Medical Republic*, 17 August 2023

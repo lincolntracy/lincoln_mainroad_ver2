@@ -12,13 +12,13 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
-Lo CH, **Tracy LM**, Lam C, Kimble R, & Wong She R (accepted 21/03/2023). In-hospital outcomes of paediatric burn injuries managed in children’s hospitals compared to general hospitals. *Burns*.
-
-**Tracy LM**, Kurmis R, Heath K, & Edgar D (accepted 12/10/2022). [Adherence with early allied health assessments in specialist burn services](https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irac153/6762642). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irac153
-
 Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). [Concordance between coding sources of burn size and depth across Australian and New Zealand specialist burn services](https://journals.sagepub.com/doi/10.1177/18333583221135710). *Health Information Management Journal*. doi: 10.1177/18333583221135710 
 
 ### 2023
+Lo CH, **Tracy LM**, Lam C, Kimble R, & Wong She R (2023). [In-hospital outcomes of paediatric burn injuries managed in children’s hospitals compared to general hospitals](https://www.sciencedirect.com/science/article/pii/S0305417923000566). *Burns*, 49(6): 1297-1297.
+
+**Tracy LM**, Kurmis R, Heath K, & Edgar D (2023). [Adherence with early allied health assessments in specialist burn services](https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irac153/6762642). *Journal of Burn Care & Research*, 44(3): 675-684. doi: 10.1093/jbcr/irac153
+
 **Tracy LM**, Gold M, Braaf S, & Cleland H (2023). [Treatment Decisions in Patients with Potentially Non-Survivable Burn Injury in Australia and New Zealand: A Registry-based Study](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irac017/6529273). *Journal of Burn Care & Research*, 44(3): 675-684. doi: 10.1093/jbcr/irac017
 
 Singer Y, Gabbe BJ, Cleland H, Holden D, Schnekenburger M, & **Tracy LM** (2023). [The association between out of hours burn centre admission and in-hospital outcomes in patients with severe burns](https://www.sciencedirect.com/science/article/abs/pii/S0305417922002029). *Burns*, 49(5): 1062-1072. doi: 10.1016/j.burns.2022.08.002
