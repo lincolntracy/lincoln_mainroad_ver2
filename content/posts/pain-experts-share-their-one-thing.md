@@ -5,7 +5,7 @@ categories:
  - "Blog"
 tags:
  - "News"
- - "pain"
+ - "Pain"
  - "AusPainSoc" 
 ---
 

@@ -5,8 +5,8 @@ categories:
  - "Freelance"
 tags:
  - "AusPainSoc"
- - "pain" 
- - "interview"
+ - "Pain" 
+ - "Interview"
 ---
 
 <!--more-->

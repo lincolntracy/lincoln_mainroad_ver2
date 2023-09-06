@@ -5,7 +5,7 @@ categories:
  - "Freelance"
 tags:
  - "AusPainSoc"
- - "pain"
+ - "Pain"
 ---
 
 <!--more-->

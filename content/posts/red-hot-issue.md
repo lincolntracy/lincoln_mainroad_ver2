@@ -6,7 +6,7 @@ categories:
  - "Research"
 tags:
  - "BRANZ"
- - "burns" 
+ - "Burns" 
  - "SciComm" 
  - "Interview"
 ---

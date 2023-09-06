@@ -1,5 +1,6 @@
 ---
 title: "Exploring AFL Ciphers"
+subtitle: "*Enigma machines not required.*"
 date: 2023-09-06T12:23:29+10:00
 categories:
  - "Blog"
@@ -9,8 +10,6 @@ tags:
  - "Stats"
  - "Sports"
 ---
-
-Enigma machines not required. 
 
 <!--more-->
 

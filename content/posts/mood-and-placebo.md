@@ -4,8 +4,8 @@ date: 2019-03-29
 categories:
  - "Blog"
 tags:
- - "placebo"
- - "pain" 
+ - "Placebo"
+ - "Pain" 
 ---
 
 <!--more-->
