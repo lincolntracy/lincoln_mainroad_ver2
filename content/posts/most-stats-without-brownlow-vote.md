@@ -11,6 +11,8 @@ tags:
  - "Sports"
 ---
 
+*Kicking a bag or getting leather poisoning doesn't always translate to Brownlow votes*
+
 <!--more-->
 
 Have you ever wondered what the record is for the most goals kicked in a game where the player failed to poll a Brownlow vote? 

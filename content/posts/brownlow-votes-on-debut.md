@@ -1,7 +1,6 @@
 ---
 title: "Brownlow Votes on Debut"
-date: 2023-08-20T10:52:42+10:00
-draft: true
+date: 2023-09-17T07:52:42+10:00
 categories:
  - "Blog"
 tags:
@@ -10,6 +9,8 @@ tags:
  - "Stats"
  - "Sports"
 ---
+
+*Talk about starting your career with a bang*
 
 <!--more-->
 
@@ -94,7 +95,15 @@ There seems to be a clear pattern between the number of Brownlow votes received 
 
 </center>
 
+*D = disposals, M = marks, G = goals, T = tackles. Note: Tackles were recorded from 1985 onwards*
 
+Let’s use the data in the table above to wildly speculate if any of the 70 players who made their debut in the 2023 home and away season have a chance at getting votes. This is wild speculation, as we aren’t considering how well the debutants performed relative to other players in their team, are only looking at a small amount of the available data, and are not considering how the game has changed between 1985 and 2023.
+
+Based on this, I suspect **Harry Sheezel** will poll at least one vote for his [34-disposal, nine-mark game in North’s five-point win](https://afltables.com/afl/stats/games/2023/121820230318.html) over West Coast in Round 1. This might not be too wild of a guess, given he won the Rising Star Award and North Melbourne's Best and Fairest. 
+
+Other potential guesses where a debutant could poll votes, using the same logic as above:
+- Alex Cincotta (24 disposals, seven marks – [Round 6 v St Kilda](https://afltables.com/afl/stats/games/2023/031520230423.html))
+- Jacob van Rooyen (nine disposals, three marks, three goals, and six tackles – [Round 3 v Sydney](https://afltables.com/afl/stats/games/2023/111620230402.html)) 
 
 --- 
 

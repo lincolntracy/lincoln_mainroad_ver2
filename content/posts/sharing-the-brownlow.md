@@ -11,6 +11,8 @@ tags:
  - "Sports"
 ---
 
+*Can teammates work together to win football's highest 'individual' award?*
+
 <!--more-->
 
 There has been a lot of talk in recent years about how Clayton Oliver and Christian Petracca have (or will) cost each other a Brownlow during their careers because they “steal” votes off each other. But how many (if any) Brownlow medals would they have won thus far if two players from the same team could “share” the award?
@@ -76,6 +78,7 @@ Nine of the 23 Brownlow medals would change hands (to some extent – I’m not 
 Speaking of Lachie Neale, let’s take a moment to remember he polled in 11 of his 17 games in that covid-affected season. Thirty of his votes came in ten games, as he was awarded the three votes in rounds 2, 3, 4, 5, 8, 9, 11, 12, 16, and 18. This puts him behind only Dustin Martin in terms of the most three-vote games in a season (who had 11 in 2017).  
 
 Neither Nathan Buckley (with Shane Woewodin, 12 votes) or Adam Goodes (with Jude Bolton, 13 votes) would have caught the Ricciuto and McLeod team in 2003, while the 2018 count must have been much more even than I remember. 
+
 Both Trent Cotchin (with Brett Deledio, 13 votes) and Sam Mitchell (with Brad Sewell, 13 votes) would have been well short of Adelaide’s Thompson and Dangerfield in 2012. Even Jobe Watson (30 votes) and Brent Stanton (14 votes) would have fallen short, had Essendon not been hit with penalties for the supplements program. 
 
 And I’m not sure how any non-Geelong (and potentially Adelaide) fans would feel about [Joel Selwood](https://www.youtube.com/watch?v=QaUKmagOQME) and [Patrick Dangerfield](https://www.youtube.com/watch?v=QaUKmagOQME) being six- and four-time Brownlow medallists (respectively) in this hypothetical universe. 

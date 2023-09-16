@@ -11,6 +11,8 @@ tags:
  - "Sports"
 ---
 
+*Some players are made only for the biggest of stages*
+
 <!--more-->
 
 Dustin Martin made history in 2017, becoming the first player to win both the Brownlow and Norm Smith Medals in the same season. He won the Brownlow with 36 votes, ahead of Patrick Dangerfield (33 votes), and collected 29 disposals (21 contested) along with two goals on Grand Final day as the Tigers defeated Adelaide by 48 points. 

@@ -10,6 +10,8 @@ tags:
  - "Sports"
 ---
 
+*They've won everywhere, man*
+
 <!--more-->
 
 There has been a lot of talk this year about how Greater Western Sydney play a brand of footy that “travels well” because they have won at nine different grounds this year. This is the most of any team in 2023, ahead of Sydney (six different venues), and seven other teams who have recorded wins at five different venues.

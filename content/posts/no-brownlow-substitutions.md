@@ -11,6 +11,8 @@ tags:
  - "Sports"
 ---
 
+*See my vest, see my vest*
+
 <!--more-->
 
 The substitute rule has had [somewhat of a storied history in the AFL](https://www.afl.com.au/news/872015/no-vests-afl-reveals-details-of-revamped-sub-rule). The rule was first introduced in 2011, when the interchange bench was cut from four players to three, with the fourth player being a substitute that could be used at any time or for any reason. This iteration of the rule lasted five seasons, before it was scrapped in 2015. 
