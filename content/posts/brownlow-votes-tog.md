@@ -1,7 +1,6 @@
 ---
 title: "Brownlow Votes and Time on Ground"
-date: 2023-08-16T07:58:17+10:00
-draft: true
+date: 2023-09-18T06:58:17+10:00
 categories:
  - "Blog"
 tags:
