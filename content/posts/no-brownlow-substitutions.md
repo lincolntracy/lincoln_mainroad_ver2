@@ -1,7 +1,6 @@
 ---
 title: "No (Brownlow) Substitutions"
-date: 2023-08-20T15:23:56+10:00
-draft: true
+date: 2023-09-18T15:23:56+10:00
 categories:
  - "Blog"
 tags:
@@ -11,7 +10,7 @@ tags:
  - "Sports"
 ---
 
-*See my vest, see my vest*
+*[See my (substitute's) vest, see my (substitute's) vest](https://www.youtube.com/watch?v=TyWVaZsUQjc&pp=ygUUc2VlIG15IHZlc3Qgc2ltcHNvbnM%3D)*
 
 <!--more-->
 
@@ -42,7 +41,9 @@ As we are in the lead up to the Brownlow, I’ve looked at how players who were 
 
 Drew Petrie kicked seven goals from 13 disposals before being subbed off in North Melbourne’s 53-point win over Carlton, which is impressive. But Ben Howlett earned three votes for his 19-disposal, 12-tackle, and seven-clearance effort after starting as the sub in Essendon’s 12-point loss to Sydney.
 
-I’m curious to see if these exclusive clubs welcome any new members on Monday September 25. 
+I’m curious to see if these exclusive clubs welcome any new members on Monday September 25. While the likelihood of this is pretty slim, I'm going to take some wild guesses and say **Joel Amartey** and **Dayne Zorko** could join the list of players who have polled Brownlow votes despite being subbed off for their efforts in Round 2. Amartey had 11 disposals (ten kicks), nine marks, and four goals (in 50% TOG) in Sydney's 84-point win over Hawthorn, while Zorko had 22 disposals (16 kicks), four tackles, two goals, and two clearances (from 54% TOG) in the Lions' 11-point win over Melbourne. 
+
+On the other side of things, **Jack Ross** has a chance of joining the "Brownlow votes after being subbed on" club for his 20 disposal (14 kicks), six mark, two goal, and two tackle effort in [R17](https://afltables.com/afl/stats/games/2023/141620230706.html) (76% TOG).
 
 --- 
 
