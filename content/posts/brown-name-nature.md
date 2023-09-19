@@ -1,7 +1,13 @@
 ---
 title: "Brown by Name, Brown(low) by Nature?"
-date: 2023-09-10T17:11:08+10:00
-draft: true
+date: 2023-09-19T17:11:08+10:00
+categories:
+ - "Blog"
+tags:
+ - "R"
+ - "AFL" 
+ - "Stats"
+ - "Sports"
 ---
 
 *Nominative determinism has not been kind to this cohort of footballers*
