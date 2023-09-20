@@ -1,7 +1,6 @@
 ---
 title: "Most “Statistic” Without a Brownlow Vote in a Single Game"
-date: 2023-08-20T13:32:27+10:00
-draft: true
+date: 2023-09-21T06:32:27+10:00
 categories:
  - "Blog"
 tags:
