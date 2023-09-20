@@ -1,7 +1,6 @@
 ---
-title: "Sharing the Brownlow"
-date: 2023-08-25T07:54:00+10:00
-draft: true
+title: "Let's Stop 'Vote Pinching' and Share the Brownlow Instead"
+date: 2023-09-20T07:54:00+10:00
 categories:
  - "Blog"
 tags:
