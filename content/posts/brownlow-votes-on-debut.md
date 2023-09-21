@@ -14,15 +14,17 @@ tags:
 
 <!--more-->
 
-A total of 3,551 players made their VFL/AFL debut during the home and away season between 1984 and 2022. **Only 45 of them polled Brownlow votes in their first game**, which is a little more than one percent of all players. Of these 45, **15 received one vote**, **20 received two votes**, and **10 received three votes**. A list of each player who polled Brownlow votes on debut can be seen below.
+**22/09/2023 Update: This post has been updated to include data for Nic Martin, Josh Rachele, and Jack Hayes, who also polled Brownlow votes on debut. I apologise for missing these players in an earlier version of this post.**
+
+A total of 3,550 players made their VFL/AFL debut during the home and away season between 1984 and 2022. **Only 48 of them polled Brownlow votes in their first game**, which is a little more than one percent of all players. Of these 48, **17 received one vote**, **21 received two votes**, and **10 received three votes**. A list of each player who polled Brownlow votes on debut can be seen below.
 
 **Figure: List of VFL/AFL Players to poll Brownlow votes on debut, 1984-2022**
 
-![Votes on debut list](/files/content/posts/brownlow-votes-on-debut/votes-on-debut-list.png)
+![Votes on debut list](/files/content/posts/brownlow-votes-on-debut/votes-on-debut-list-updated.png)
 
 Three players who polled Brownlow votes went on to win the Brownlow at some point in their career: Brad Hardie in 1985, John Platten in 1987, and Greg Williams in 1986 and 1994. I find it quite interesting that this happened three years in a row. However, it’s important to note that Errol Gulden, Clayton Oliver, and Izak Rankine could be added to this list if they win one during the remainder of their careers.
 
-But not everyone who polls Brownlow votes in their first game goes on to have success for the rest of their careers. **Twelve** of the 45 players who polled on debut never polled again, although only one of these ended up playing more than 50 games, as seen in the table below.
+But not everyone who polls Brownlow votes in their first game goes on to have success for the rest of their careers. **Fifteen** of the 48 players who polled on debut did not (or have not yet) receive(d) votes again, although only one of these ended up playing more than 50 games, as seen in the table below.
 
 **Table: Career games and Brownlow votes for players who polled votes on debut between 1984 and 2022**
 
@@ -44,6 +46,7 @@ But not everyone who polls Brownlow votes in their first game goes on to have su
 | Heath Grundy	    | 256   | 5            | 20   |
 | Errol Gulden      | 43    | 5            | 40   |
 | Brad Hardie       | 150   | 44           | 6.8  |
+| Jack Hayes        | 5     | 1            | 100  |
 | John Ironmonger   | 88    | 35           | 5.7  |
 | Michael James     | 12    | 1            | 100  |
 | Andrew Jarman     | 110   | 47           | 6.4  |
@@ -51,6 +54,7 @@ But not everyone who polls Brownlow votes in their first game goes on to have su
 | James Magner      | 19    | 2            | 100  |
 | Tony Malakellis   | 19    | 2            | 50   |
 | David Marshall    | 26    | 8            | 25   |
+| Nic Martin        | 21    | 2            | 100  |
 | Darren McAsey     | 34    | 3            | 33.3 |
 | Mark McGough      | 49    | 12           | 16.7 |
 | Mark Mickan       | 85    | 20           | 10   |
@@ -60,6 +64,7 @@ But not everyone who polls Brownlow votes in their first game goes on to have su
 | John Platten      | 258   | 143          | 1.4  |
 | Dean Polo         | 77    | 5            | 60   |
 | Warren Ralph      | 21    | 2            | 100  |
+| Josh Rachele      | 13    | 1            | 100  |
 | Izak Rankine      | 48    | 3            | 33.3 |
 | Peter Rohde       | 163   | 3            | 66.7 |
 | Brad Rowe         | 73    | 7            | 14.3 |
@@ -89,8 +94,8 @@ There seems to be a clear pattern between the number of Brownlow votes received 
 | Brownlow Votes | D    | M   | G   | T   |
 | :------------: | :--: | :-: | :-: | :-: |
 | 0	             | 10	| 2.6 |	0.4	| 1.5 |
-| 1              | 18.5	| 4.9 |	1.7	| 1.5 |
-| 2              | 20.5	| 4.8 |	1.6	| 1.3 |
+| 1              | 18.2	| 5.2 |	2.0	| 1.7 |
+| 2              | 20.8	| 5.0 |	1.8	| 1.2 |
 | 3              | 22.1 | 6.5 |	2.4	| 0.6 |
 
 </center>
@@ -104,6 +109,7 @@ Based on this, I suspect **Harry Sheezel** will poll at least one vote for his [
 Other potential guesses where a debutant could poll votes, using the same logic as above:
 - Alex Cincotta (24 disposals, seven marks – [Round 6 v St Kilda](https://afltables.com/afl/stats/games/2023/031520230423.html))
 - Jacob van Rooyen (nine disposals, three marks, three goals, and six tackles – [Round 3 v Sydney](https://afltables.com/afl/stats/games/2023/111620230402.html)) 
+- Henry Hustwaite (15 disposals, two marks, two goals, and five tackles - [Round 23 v Melbourne](https://afltables.com/afl/stats/games/2023/101120230820.html))
 
 --- 
 

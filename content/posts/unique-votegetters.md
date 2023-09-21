@@ -1,7 +1,6 @@
 ---
 title: "How Many Players Get Their Name Called of the AFL’s Night of Nights?"
-date: 2023-09-08T07:05:20+10:00
-draft: true
+date: 2023-09-22T07:05:20+10:00
 categories:
  - "Blog"
 tags:
