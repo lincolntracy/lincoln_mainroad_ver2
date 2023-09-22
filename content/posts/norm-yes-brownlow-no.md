@@ -1,7 +1,6 @@
 ---
 title: "Norm Smith Medallists and Their Brownlow Votes"
-date: 2023-08-23T07:49:49+10:00
-draft: true
+date: 2023-09-23T06:49:49+10:00
 categories:
  - "Blog"
 tags:
