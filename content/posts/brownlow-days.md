@@ -1,7 +1,6 @@
 ---
 title: "Will this Bulldog finally have his (Brownlow-winning) day?"
-date: 2023-09-09T08:40:28+10:00
-draft: true
+date: 2023-09-24T08:40:28+10:00
 categories:
  - "Blog"
 tags:
