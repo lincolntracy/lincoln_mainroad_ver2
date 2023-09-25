@@ -1,7 +1,6 @@
 ---
-title: "Brownlow Umpire"
-date: 2023-09-23T08:25:16+10:00
-draft: true
+title: "The Umpires Just Love Him"
+date: 2023-09-25T08:25:16+10:00
 categories:
  - "Blog"
 tags:
