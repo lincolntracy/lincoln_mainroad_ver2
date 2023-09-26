@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[A couple of hives does not a peanut allergy make](https://www.medicalrepublic.com.au/a-couple-of-hives-does-not-a-peanut-allergy-make/99406) | *The Medical Republic*, 25 September 2023
+
 [What’s driving the surge in spinal fusions?](https://www.medicalrepublic.com.au/whats-driving-the-surge-in-spinal-fusions/98107) | *The Medical Republic*, 4 September 2023
 
 [Blood test appears to predict preeclampsia risk](https://www.medicalrepublic.com.au/blood-test-appears-to-predict-preeclampsia-risk/98125) | *The Medical Republic*, 4 September 2023
