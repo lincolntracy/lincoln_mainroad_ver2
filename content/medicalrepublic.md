@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Early menopause to trigger osteoporosis and fracture care](https://www.medicalrepublic.com.au/early-menopause-to-trigger-osteoporosis-and-fracture-care/99559) | *The Medical Republic*, 28 September 2023
+
 [A couple of hives does not a peanut allergy make](https://www.medicalrepublic.com.au/a-couple-of-hives-does-not-a-peanut-allergy-make/99406) | *The Medical Republic*, 25 September 2023
 
 [What’s driving the surge in spinal fusions?](https://www.medicalrepublic.com.au/whats-driving-the-surge-in-spinal-fusions/98107) | *The Medical Republic*, 4 September 2023
