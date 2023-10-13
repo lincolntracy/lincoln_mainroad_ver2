@@ -12,6 +12,14 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[‘Concerning’ lack of benefit from spinal cord stimulation](https://www.medicalrepublic.com.au/concerning-lack-of-benefit-from-spinal-cord-stimulation/99582) | *The Medical Republic*, 5 October 2023
+
+[Cervical cancer diagnoses jump in past decade](https://www.oncologyrepublic.com.au/cervical-cancer-diagnoses-jump-in-past-decade/3840) | *Oncology Republic*, 4 October 2023
+
+[What meds work best for low back pain?](https://www.medicalrepublic.com.au/what-meds-work-best-for-low-back-pain/99593) | *The Medical Republic*, 3 October 2023
+
+[Don’t lose sight of dry eyes in menopause](https://www.medicalrepublic.com.au/dont-lose-sight-of-dry-eyes-in-menopause/99590) | *The Medical Republic*, 3 October 2023
+
 [Early menopause to trigger osteoporosis and fracture care](https://www.medicalrepublic.com.au/early-menopause-to-trigger-osteoporosis-and-fracture-care/99559) | *The Medical Republic*, 28 September 2023
 
 [A couple of hives does not a peanut allergy make](https://www.medicalrepublic.com.au/a-couple-of-hives-does-not-a-peanut-allergy-make/99406) | *The Medical Republic*, 25 September 2023
