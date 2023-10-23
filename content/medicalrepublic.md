@@ -12,6 +12,14 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Aussie long covid guidelines not up to scratch](https://www.medicalrepublic.com.au/aussie-long-covid-guidelines-not-up-to-scratch/101026) | *The Medical Republic*, 23 October 2023
+
+[Depression, anxiety an early sign of MS](https://www.oncologyrepublic.com.au/depression-anxiety-an-early-sign-of-ms/3884) | *Dermatology Republic*, 18 October 2023
+
+[New genetic risks found for male pattern hair loss](https://www.dermatologyrepublic.com.au/new-genetic-risks-found-for-male-pattern-hair-loss/2129) | *Dermatology Republic*, 18 October 2023
+
+[Discectomy potentially superior for sciatica](https://www.medicalrepublic.com.au/discectomy-potentially-superior-for-sciatica/100679) | *The Medical Republic*, 16 October 2023
+
 [‘Concerning’ lack of benefit from spinal cord stimulation](https://www.medicalrepublic.com.au/concerning-lack-of-benefit-from-spinal-cord-stimulation/99582) | *The Medical Republic*, 5 October 2023
 
 [Cervical cancer diagnoses jump in past decade](https://www.oncologyrepublic.com.au/cervical-cancer-diagnoses-jump-in-past-decade/3840) | *Oncology Republic*, 4 October 2023
