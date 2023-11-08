@@ -12,13 +12,21 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Timely reminders may boost bowel cancer screening](https://www.medicalrepublic.com.au/timely-reminders-may-boost-bowel-cancer-screening/101955) | *The Medical Republic*, 6 November 2023
+
+[Is BreastScreen due for an upgrade?](https://www.oncologyrepublic.com.au/is-breastscreen-due-for-an-upgrade/3925) | *Oncology Republic*, 2 November 2023
+
+[Balding, not testosterone, increases skin cancer risk](https://www.dermatologyrepublic.com.au/balding-not-testosterone-increases-skin-cancer-risk/2175) | *Dermatology Republic*, 2 November 2023
+
+[PBS cuts etanercept red tape](https://www.dermatologyrepublic.com.au/pbs-cuts-etanercept-red-tape/2172) | *Dermatology Republic*, 2 November 2023
+
 [Stimulants protect against dementia in adult ADHD](https://www.medicalrepublic.com.au/stimulants-protect-against-dementia-in-adult-adhd/101490) | *The Medical Republic*, 30 October 2023
 
 [Warning after SSRI triggers severe alcohol problems](https://www.medicalrepublic.com.au/warning-after-ssri-triggers-severe-alcohol-problems/101273) | *The Medical Republic*, 26 October 2023
 
 [Aussie long covid guidelines not up to scratch](https://www.medicalrepublic.com.au/aussie-long-covid-guidelines-not-up-to-scratch/101026) | *The Medical Republic*, 23 October 2023
 
-[Depression, anxiety an early sign of MS](https://www.oncologyrepublic.com.au/depression-anxiety-an-early-sign-of-ms/3884) | *Dermatology Republic*, 18 October 2023
+[Depression, anxiety an early sign of MS](https://www.oncologyrepublic.com.au/depression-anxiety-an-early-sign-of-ms/3884) | *The Medical Republic*, 18 October 2023
 
 [New genetic risks found for male pattern hair loss](https://www.dermatologyrepublic.com.au/new-genetic-risks-found-for-male-pattern-hair-loss/2129) | *Dermatology Republic*, 18 October 2023
 
