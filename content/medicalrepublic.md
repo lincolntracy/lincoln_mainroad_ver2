@@ -12,6 +12,16 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Five steps out of financial toxicity](https://www.oncologyrepublic.com.au/five-steps-out-of-financial-toxicity-for-cancer-patients/3981) | *Oncology Republic*, 15 November 2023
+
+[Using big data to plug inclusivity gaps in cancer trials](https://www.oncologyrepublic.com.au/can-big-data-plug-inclusivity-gaps-in-cancer-trials/3986) | *Oncology Republic*, 15 November 2023
+
+[Should genomic testing be part of routine breast cancer care?](https://www.oncologyrepublic.com.au/should-genomic-testing-be-part-of-routine-breast-cancer-care/3989) | *Oncology Republic*, 15 November 2023
+
+[Long-term NSAID use harmful in knee OA](https://www.rheuma.com.au/long-term-nsaid-use-harmful-in-knee-oa/25805) | *Rheumatology Republic*, 9 November 2023
+
+[Long hours, shift work increases preterm birth risk](https://www.medicalrepublic.com.au/long-hours-shift-work-increases-preterm-birth-risk/102238) | *The Medical Republic*, 9 November 2023
+
 [Timely reminders may boost bowel cancer screening](https://www.medicalrepublic.com.au/timely-reminders-may-boost-bowel-cancer-screening/101955) | *The Medical Republic*, 6 November 2023
 
 [Is BreastScreen due for an upgrade?](https://www.oncologyrepublic.com.au/is-breastscreen-due-for-an-upgrade/3925) | *Oncology Republic*, 2 November 2023
