@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Red Bull gives you wings (and gestational hypertension)](https://www.medicalrepublic.com.au/red-bull-gives-you-wings-and-gestational-hypertension/103059) | *The Medical Republic*, 23 November 2023
+
 [Five steps out of financial toxicity](https://www.oncologyrepublic.com.au/five-steps-out-of-financial-toxicity-for-cancer-patients/3981) | *Oncology Republic*, 15 November 2023
 
 [Using big data to plug inclusivity gaps in cancer trials](https://www.oncologyrepublic.com.au/can-big-data-plug-inclusivity-gaps-in-cancer-trials/3986) | *Oncology Republic*, 15 November 2023

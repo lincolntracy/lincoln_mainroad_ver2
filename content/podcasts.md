@@ -12,6 +12,8 @@ menu:
 A collection of podcasts I have produced through freelance or contract work.
 
 ## 2023
+[The Keystone Mechanism Theory of Pain](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/the-iasp-prf-podcast-the-keystone-mechanism-theory-of-pain/) | *Pain Research Forum*, 17 November 2023
+
 [Spinal fusions: why, when, how and who pays](https://www.medicalrepublic.com.au/spinal-fusions-why-when-how-and-who-pays/97829) | *The Medical Republic*, 30 August 2023
 
 ## 2022
