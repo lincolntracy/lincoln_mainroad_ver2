@@ -12,6 +12,14 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Preserving fertility for cancer patients](https://www.oncologyrepublic.com.au/preserving-fertility-for-cancer-patients/4022) | *Oncology Republic*, 29 November 2023
+
+[Sheathing the knife, and other gynaecological cancer developments](https://www.oncologyrepublic.com.au/whats-new-in-gynaecological-cancer/4026) | *Oncology Republic*, 29 November 2023
+
+[Statins reduce mortality in breast cancer](https://www.medicalrepublic.com.au/statins-reduce-mortality-in-breast-cancer/103185) | *The Medical Republic*, 27 November 2023
+
+[MSAC backs non-invasive ultrasound for tremor](https://www.medicalrepublic.com.au/msac-backs-non-invasive-ultrasound-for-tremor/103191) | *The Medical Republic*, 27 November 2023
+
 [Red Bull gives you wings (and gestational hypertension)](https://www.medicalrepublic.com.au/red-bull-gives-you-wings-and-gestational-hypertension/103059) | *The Medical Republic*, 23 November 2023
 
 [Five steps out of financial toxicity](https://www.oncologyrepublic.com.au/five-steps-out-of-financial-toxicity-for-cancer-patients/3981) | *Oncology Republic*, 15 November 2023
