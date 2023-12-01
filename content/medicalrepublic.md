@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[Expect Mounjaro shortages well into 2024: TGA](https://www.medicalrepublic.com.au/expect-mounjaro-shortages-well-into-2024-tga/103556) | *The Medical Republic*, 1 December 2023
+
 [Preserving fertility for cancer patients](https://www.oncologyrepublic.com.au/preserving-fertility-for-cancer-patients/4022) | *Oncology Republic*, 29 November 2023
 
 [Sheathing the knife, and other gynaecological cancer developments](https://www.oncologyrepublic.com.au/whats-new-in-gynaecological-cancer/4026) | *Oncology Republic*, 29 November 2023
