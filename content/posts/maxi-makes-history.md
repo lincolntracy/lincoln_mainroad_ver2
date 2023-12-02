@@ -43,7 +43,7 @@ I find it interesting that eight of the top ten listed above happened in the sec
 
 Maxi’s knock in the World Cup is sits thirteenth across all ODIs since 2002 (in terms of individual contribution to the team’s total score), well behind **Brendan McCullum’s** [80* of 94 runs versus Bangladesh in 2007](https://www.espncricinfo.com/series/bangladesh-tour-of-new-zealand-2007-08-300412/new-zealand-vs-bangladesh-3rd-odi-300428/full-scorecard) – a whopping **84.2%**. 
 
-**Shane Watson** holds the Australian ODI record for an individual contribution to the team’s overall score, with his 185* accounting for **79.7%** of Australia’s 232 in a [nine-wicket win over Bangladesh in 2011](https://www.espncricinfo.com/series/australia-tour-of-bangladesh-2011-503357/bangladesh-vs-australia-2nd-odi-503364/full-scorecard). 
+**Shane Watson** holds the Australian ODI record for an individual contribution to the team’s overall score, with his 185* accounting for __79.7%__ of Australia’s 232 in a [nine-wicket win over Bangladesh in 2011](https://www.espncricinfo.com/series/australia-tour-of-bangladesh-2011-503357/bangladesh-vs-australia-2nd-odi-503364/full-scorecard). 
 
 --- 
 
