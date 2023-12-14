@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2023
+[TMR’s top 10 clinical stories for 2023](https://www.medicalrepublic.com.au/tmrs-top-10-clinical-stories-for-2023/104368) | *The Medical Republic*, 14 December 2023
+
+[Neutropenia risk in schizophrenia drops dramatically after two years](https://www.medicalrepublic.com.au/neutropenia-risk-in-schizophrenia-drops-dramatically-after-two-years/104344) | *The Medical Republic*, 14 December 2023
+
+[Early periods increase diabetes risk](https://www.medicalrepublic.com.au/early-periods-increase-diabetes-risk/104036) | *The Medical Republic*, 11 December 2023
+
 [Expect Mounjaro shortages well into 2024: TGA](https://www.medicalrepublic.com.au/expect-mounjaro-shortages-well-into-2024-tga/103556) | *The Medical Republic*, 1 December 2023
 
 [Preserving fertility for cancer patients](https://www.oncologyrepublic.com.au/preserving-fertility-for-cancer-patients/4022) | *Oncology Republic*, 29 November 2023
