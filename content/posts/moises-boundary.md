@@ -30,6 +30,6 @@ Another interesting point is the fact that Henriques is part of a sextet of play
 
 ![Boundary table](/img/content/posts/moises-boundary/moises-boundary-table.png)
 
- --- 
+--- 
 
-*The timeframe of this stat is limited based on what data are freely/easily available and/or accessible. A complete list of potential missing BBL data can be found [here](https://cricsheet.org/missing/#:~:text=BIG%20BASH%20LEAGUE%20MATCHES). Please let don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat.*
+*The timeframe of this stat is limited based on what data are freely/easily available and/or accessible. A complete list of potential missing BBL data can be found [here](https://cricsheet.org/missing/#:~:text=BIG%20BASH%20LEAGUE%20MATCHES). Please don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat.*

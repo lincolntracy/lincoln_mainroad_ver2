@@ -46,4 +46,4 @@ I feel Cerra is a chance to steal a vote on Brownlow night, but I say that with 
 
 --- 
 
-*The timeframe of this stat is limited based on what data are freely/easily available and/or accessible. Please let don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat!*
+*The timeframe of this stat is limited based on what data are freely/easily available and/or accessible. Please don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat!*

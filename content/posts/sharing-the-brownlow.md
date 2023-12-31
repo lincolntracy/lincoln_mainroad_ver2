@@ -86,4 +86,4 @@ It will be interesting to see how Oliver and Petracca perform in this year’s c
 
 --- 
 
-*The timeframe of this stat is limited based on what data are freely/easily available and/or accessible. Please let don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat.*
+*The timeframe of this stat is limited based on what data are freely/easily available and/or accessible. Please don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat.*

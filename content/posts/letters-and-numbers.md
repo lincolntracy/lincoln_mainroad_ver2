@@ -56,4 +56,4 @@ The record for the most players with a cipher value equal to the final margin in
 
 --- 
 
-*The accuracy of this stat is limited based on what data are freely/easily available and/or accessible. Please let don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat.*
+*The accuracy of this stat is limited based on what data are freely/easily available and/or accessible. Please don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat.*
