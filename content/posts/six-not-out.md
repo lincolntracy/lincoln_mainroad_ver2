@@ -1,5 +1,5 @@
 ---
-title: "Six Not Out"
+title: "Six and (Not) Out"
 date: 2024-01-01T10:23:40+11:00
 categories:
  - "Blog"
