@@ -40,4 +40,4 @@ Stonis’ effort moves the Stars into outright second from a team perspective, t
 
 --- 
 
-*The timeframe of this stat is limited based on what data are freely/easily available and/or accessible. Please don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat.*
+*This stat was created using data provided by cricsheet.org. The timeframe of this stat is limited based on what data are freely/easily available and/or accessible. Please don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat.*
