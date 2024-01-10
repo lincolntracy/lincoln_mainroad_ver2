@@ -11,6 +11,9 @@ menu:
 
 A collection of articles and interviews I have produced in a freelance capacity. 
 
+## 2024
+[Approaching Migraine from All Angles: An Interview with Anna Andreou](https://migrainecollaborative.org/approaching-migraine-from-all-angles-an-interview-with-anna-andreou) | *Migraine Science Collaborative*, 10 January 2024
+
 ## 2023
 [New Insight into Caffeine’s Effects on Wakefulness, Sleep, and Brain Blood Flow](https://migrainecollaborative.org/new-insight-into-caffeines-effects-on-wakefulness-sleep-and-brain-blood-flow) | *Migraine Science Collaborative*, 11 December 2023
 
