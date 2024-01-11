@@ -11,6 +11,9 @@ menu:
 
 A collection of articles I have written while working for The Medical Republic. 
 
+## 2024
+[STIs rebound after covid pandemic](https://www.medicalrepublic.com.au/stis-rebound-after-covid-pandemic/104098) | *The Medical Republic*, 11 January 2024
+
 ## 2023
 [TMR’s top 10 clinical stories for 2023](https://www.medicalrepublic.com.au/tmrs-top-10-clinical-stories-for-2023/104368) | *The Medical Republic*, 14 December 2023
 
