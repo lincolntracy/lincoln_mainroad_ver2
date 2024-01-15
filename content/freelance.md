@@ -17,6 +17,12 @@ A collection of articles and interviews I have produced in a freelance capacity.
 ## 2023
 [New Insight into Caffeine’s Effects on Wakefulness, Sleep, and Brain Blood Flow](https://migrainecollaborative.org/new-insight-into-caffeines-effects-on-wakefulness-sleep-and-brain-blood-flow) | *Migraine Science Collaborative*, 11 December 2023
 
+[Sharing enhances caring for people with mental illness](https://www.medicalresearch.nsw.gov.au/sharing-enhances-caring-for-people-with-mental-illness%E2%80%AF/) | *NSW Health*, November 2023
+
+[Helping clinicians support pregnant women and new mums with depression and anxiety](https://www.medicalresearch.nsw.gov.au/helping-clinicians-support-pregnant-and-new-mums-with-depression-and-anxiety/) | *NSW Health*, November 2023
+
+[Forging a path for improved treatment of comorbid mental health and substance use conditions](https://www.medicalresearch.nsw.gov.au/forging-a-path-for-improved-treatment-of-comorbid-mental-health-and-substance-use-conditions-2/) | *NSW Health*, October 2023
+
 [A2CPS: A New Frontier in Pain Research](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/a2cps-a-new-frontier-in-pain-research/) | *Pain Research Forum*, 25 August 2023
 
 [The AVaTAR centre: Growing Australia’s novel vaccine development capability](https://www.medicalresearch.nsw.gov.au/the-avatar-centre-growing-australias-novel-vaccine-development-capability/) | *New South Wales Health*, 10 July 2023
