@@ -12,6 +12,8 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+Bebbington E, Miles J, Young A, van Baar ME, Bernal N, Brekke RL, van Dammen L, Elmasry M, Inoue Y, McMullen KA, Paton L, Thamm OC, **Tracy LM**, Zia N, Singer Y, & Dunn K (accepted 11/01/2024). [Exploring the similarities and differences of burn registers globally: Results from a data dictionary comparison study](https://www.sciencedirect.com/science/article/abs/pii/S0305417924000056). *Burns*. doi: 10.1016/j.burns.2024.01.004
+
 Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (accepted 30/05/2022). [Concordance between coding sources of burn size and depth across Australian and New Zealand specialist burn services](https://journals.sagepub.com/doi/10.1177/18333583221135710). *Health Information Management Journal*. doi: 10.1177/18333583221135710 
 
 ### 2023
