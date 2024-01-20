@@ -32,6 +32,6 @@ Other profiles and pages:
 - [Publons](https://publons.com/researcher/1310556/lincoln-m-tracy/peer-review/) 
 - [ResearchGate](https://www.researchgate.net/profile/Lincoln-Tracy-2) 
 - [ORCiD](https://orcid.org/0000-0002-9783-6415) 
-- [Linkedin](https://www.linkedin.com/in/lincoln-tracy-phd-14566979/)
+- [Linkedin](https://www.linkedin.com/in/lincolntracy)
 - [Tableau Public](https://public.tableau.com/app/profile/lincoln.tracy/vizzes)
 - [Monash University](https://research.monash.edu/en/persons/lincoln-tracy)

@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Gamers at risk of hearing loss](https://www.medicalrepublic.com.au/gamers-at-risk-of-hearing-loss/104343) | *The Medical Republic*, 18 January 2024
+
 [Arrhythmia warning for patients taking common antipsychotics](https://www.medicalrepublic.com.au/arrhythmia-warning-for-patients-taking-common-antipsychotics/104196) | *The Medical Republic*, 16 January 2024
 
 [Pets protect against cognitive decline](https://www.medicalrepublic.com.au/pets-protect-against-cognitive-decline/104194) | *The Medical Republic*, 15 January 2024
