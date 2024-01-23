@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[https://www.medicalrepublic.com.au/e-cigs-and-nicotine-patches-safe-for-pregnant-smokers/104462](https://www.medicalrepublic.com.au/e-cigs-and-nicotine-patches-safe-for-pregnant-smokers/104462) | *The Medical Republic*, 22 January 2024
+
+[Bariatric surgery reduces weight gain in pregnancy](https://www.medicalrepublic.com.au/bariatric-surgery-reduces-weight-gain-in-pregnancy/104458) | *The Medical Republic*, 22 January 2024
+
 [Gamers at risk of hearing loss](https://www.medicalrepublic.com.au/gamers-at-risk-of-hearing-loss/104343) | *The Medical Republic*, 18 January 2024
 
 [Arrhythmia warning for patients taking common antipsychotics](https://www.medicalrepublic.com.au/arrhythmia-warning-for-patients-taking-common-antipsychotics/104196) | *The Medical Republic*, 16 January 2024
