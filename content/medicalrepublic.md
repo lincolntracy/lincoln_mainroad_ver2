@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Syphilis surge sparks warning](https://www.medicalrepublic.com.au/syphilis-surge-sparks-warning/104666) | *The Medical Republic*, 29 January 2024
+
+[Additional physio after shoulder dislocation offers no benefit](https://www.medicalrepublic.com.au/additional-physio-after-shoulder-dislocation-offers-no-benefit/104577) | *The Medical Republic*, 25 January 2024
+
 [E-cigs and nicotine patches safe for pregnant smokers](https://www.medicalrepublic.com.au/e-cigs-and-nicotine-patches-safe-for-pregnant-smokers/104462) | *The Medical Republic*, 22 January 2024
 
 [Bariatric surgery reduces weight gain in pregnancy](https://www.medicalrepublic.com.au/bariatric-surgery-reduces-weight-gain-in-pregnancy/104458) | *The Medical Republic*, 22 January 2024
