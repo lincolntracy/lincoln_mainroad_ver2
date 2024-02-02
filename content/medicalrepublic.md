@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Concussion position statement: ‘If in doubt, sit them out’](https://www.medicalrepublic.com.au/concussion-position-statement-if-in-doubt-sit-them-out/104803) | *The Medical Republic*, 2 February 2024
+
 [Syphilis surge sparks warning](https://www.medicalrepublic.com.au/syphilis-surge-sparks-warning/104666) | *The Medical Republic*, 29 January 2024
 
 [Additional physio after shoulder dislocation offers no benefit](https://www.medicalrepublic.com.au/additional-physio-after-shoulder-dislocation-offers-no-benefit/104577) | *The Medical Republic*, 25 January 2024
