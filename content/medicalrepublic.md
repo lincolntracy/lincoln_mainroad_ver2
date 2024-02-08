@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Genetic testing takes guess work out of breast cancer treatment](https://www.oncologyrepublic.com.au/genetic-testing-takes-guess-work-out-of-breast-cancer-treatment/4188) | *Oncology Republic*, 8 February 2024
+
+[Treatment boost for chronic migraine sufferers](https://www.medicalrepublic.com.au/treatment-boost-for-chronic-migraine-sufferers/104986) | *The Medical Republic*, 8 February 2024
+
 [Concussion position statement: ‘If in doubt, sit them out’](https://www.medicalrepublic.com.au/concussion-position-statement-if-in-doubt-sit-them-out/104803) | *The Medical Republic*, 2 February 2024
 
 [Syphilis surge sparks warning](https://www.medicalrepublic.com.au/syphilis-surge-sparks-warning/104666) | *The Medical Republic*, 29 January 2024
