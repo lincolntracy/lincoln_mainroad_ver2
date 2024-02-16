@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Erectile dysfunction drugs reduce Alzheimer’s risk](https://www.medicalrepublic.com.au/erectile-dysfunction-drugs-reduce-alzheimers-risk/105188) | *The Medical Republic*, 15 February 2024
+
 [Genetic testing takes guess work out of breast cancer treatment](https://www.oncologyrepublic.com.au/genetic-testing-takes-guess-work-out-of-breast-cancer-treatment/4188) | *Oncology Republic*, 8 February 2024
 
 [Treatment boost for chronic migraine sufferers](https://www.medicalrepublic.com.au/treatment-boost-for-chronic-migraine-sufferers/104986) | *The Medical Republic*, 8 February 2024
