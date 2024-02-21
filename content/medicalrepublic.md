@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[First steps towards a new alopecia severity measure](https://www.dermatologyrepublic.com.au/first-steps-towards-a-new-alopecia-severity-measure/2402) | *Dermatology Republic*, 21 February 2024
+
 [PBS tapentadol dispensing declines](https://www.medicalrepublic.com.au/pbs-tapentadol-dispensing-declines/105269) | *The Medical Republic*, 19 February 2024
 
 [Erectile dysfunction drugs reduce Alzheimer’s risk](https://www.medicalrepublic.com.au/erectile-dysfunction-drugs-reduce-alzheimers-risk/105188) | *The Medical Republic*, 15 February 2024
