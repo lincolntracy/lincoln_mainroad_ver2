@@ -12,7 +12,7 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
-[Ultrasound for speedy sperm](https://www.medicalrepublic.com.au/ultrasound-for-speedy-sperm/105371) | *The Medical Republic*, 23 February 2024
+[Ultrasound for speedy sperm](https://www.medicalrepublic.com.au/ultrasound-for-speedy-sperm/105371) | *The Medical Republic*, 22 February 2024
 
 [First steps towards a new alopecia severity measure](https://www.dermatologyrepublic.com.au/first-steps-towards-a-new-alopecia-severity-measure/2402) | *Dermatology Republic*, 21 February 2024
 
