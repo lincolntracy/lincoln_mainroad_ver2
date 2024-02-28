@@ -12,6 +12,8 @@ menu:
 A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2024
+[APS 2024 Rising Star Award Winner: A Conversation with Dr Jane Chalmers](https://blog.apsoc.org.au/2024/02/26/aps-2024-rising-star-award-winner-a-conversation-with-dr-jane-chalmers/) | *Australian Pain Society*, 26 Feburary 2024
+
 [Approaching Migraine from All Angles: An Interview with Anna Andreou](https://migrainecollaborative.org/approaching-migraine-from-all-angles-an-interview-with-anna-andreou) | *Migraine Science Collaborative*, 10 January 2024
 
 ## 2023
