@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[The ugly truth about refined carbohydrates](https://www.medicalrepublic.com.au/the-ugly-truth-about-refined-carbohydrates/105806) | *The Medical Republic*, 11 March 2024
+
+[Cannabis use increases risk of myocardial infarction, stroke](https://www.medicalrepublic.com.au/cannabis-use-increases-risk-of-myocardial-infarction-stroke/105814) | *The Medical Republic*, 11 March 2024
+
+[Don’t miss the boat on reproductive carrier screening](https://www.medicalrepublic.com.au/dont-miss-the-boat-on-reproductive-carrier-screening/105816) | *The Medical Republic*, 11 March 2024
+
 [Increased GP consults linked to suicide risk](https://www.medicalrepublic.com.au/increased-gp-consults-linked-to-suicide-risk/105559) | *The Medical Republic*, 29 February 2024
 
 [Ultrasound for speedy sperm](https://www.medicalrepublic.com.au/ultrasound-for-speedy-sperm/105371) | *The Medical Republic*, 22 February 2024
