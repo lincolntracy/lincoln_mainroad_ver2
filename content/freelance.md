@@ -12,6 +12,8 @@ menu:
 A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2024
+[We’re Not in Kansas Anymore: A Conversation with Professor Cheryl Stucky](https://blog.apsoc.org.au/2024/03/13/aps-2024-were-not-in-kansas-anymore-a-conversation-with-professor-cheryl-stucky/) | *Australian Pain Society*, 13 March 2024
+
 [Welcome to the Electome: An Interview with Rainbo Hultman](https://migrainecollaborative.org/welcome-to-the-electome-an-interview-with-rainbo-hultman) | *Migraine Science Collaborative*, 7 March 2024
 
 [APS 2024 Rising Star Award Winner: A Conversation with Dr Jane Chalmers](https://blog.apsoc.org.au/2024/02/26/aps-2024-rising-star-award-winner-a-conversation-with-dr-jane-chalmers/) | *Australian Pain Society*, 26 Feburary 2024
