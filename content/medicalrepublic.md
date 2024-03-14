@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Exercise beats GLP-1 RAs for keeping weight off](https://www.medicalrepublic.com.au/exercise-beats-glp-1-ras-for-keeping-weight-off/105940) | *The Medical Republic*, 14 March 2024
+
 [The ugly truth about refined carbohydrates](https://www.medicalrepublic.com.au/the-ugly-truth-about-refined-carbohydrates/105806) | *The Medical Republic*, 11 March 2024
 
 [Cannabis use increases risk of myocardial infarction, stroke](https://www.medicalrepublic.com.au/cannabis-use-increases-risk-of-myocardial-infarction-stroke/105814) | *The Medical Republic*, 11 March 2024
