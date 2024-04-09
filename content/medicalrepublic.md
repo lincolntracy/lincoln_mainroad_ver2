@@ -12,6 +12,16 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[New BTK inhibitor shows promise in hidradenitis suppurativa](https://www.medicalrepublic.com.au/new-btk-inhibitor-shows-promise-in-hidradenitis-suppurativa/106500) | *The Medical Republic*, 8 April 2024
+
+[High intensity exercise in breast-feeding women good for babies too](https://www.medicalrepublic.com.au/high-intensity-exercise-in-breast-feeding-women-good-for-babies-too/106252) | *The Medical Republic*, 2 April 2024
+
+[MBS cancer screening criteria ‘inequitable’](https://www.oncologyrepublic.com.au/mbs-cancer-screening-criteria-inequitable/4270) | *Oncology Republic*, 21 March 2024
+
+[Tackling ageism in older cancer patients](https://www.medicalrepublic.com.au/tackling-ageism-in-older-cancer-patients/106045) | *The Medical Republic*, 19 March 2024
+
+[CBT offers hope for insomniacs](https://www.medicalrepublic.com.au/cbt-offers-hope-for-insomniacs/105997) | *The Medical Republic*, 18 March 2024
+
 [Exercise beats GLP-1 RAs for keeping weight off](https://www.medicalrepublic.com.au/exercise-beats-glp-1-ras-for-keeping-weight-off/105940) | *The Medical Republic*, 14 March 2024
 
 [The ugly truth about refined carbohydrates](https://www.medicalrepublic.com.au/the-ugly-truth-about-refined-carbohydrates/105806) | *The Medical Republic*, 11 March 2024
