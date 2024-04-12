@@ -20,7 +20,7 @@ The worrying trend?
 
 Gold Coast have scored an accumulative -50 points in fourth quarters in their four games this season, which puts them 16th out of the 18 teams. Only West Coast (-57 points) and Richmond (-59 points) have performed worse in the fourth quarter this year. 
 
-![Quarter by quarter breakdown](/img/content/posts/ quarter-breakdown.png)
+![Quarter by quarter breakdown](/img/content/posts/quarter-breakdown.png)
 
 Michael isn’t wrong about the data – the Suns have faded out in final quarters of recent weeks (-23, -20, and -20 points in Rounds 1, 2, and 4 respectively).
 
