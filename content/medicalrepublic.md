@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Right patient, right time key to Paxlovid benefit](https://medicalrepublic.com.au/right-patient-right-time-key-to-paxlovid-benefit/106671) | *The Medical Republic*, 12 April 2024
+
 [New BTK inhibitor shows promise in hidradenitis suppurativa](https://www.medicalrepublic.com.au/new-btk-inhibitor-shows-promise-in-hidradenitis-suppurativa/106500) | *The Medical Republic*, 8 April 2024
 
 [High intensity exercise in breast-feeding women good for babies too](https://www.medicalrepublic.com.au/high-intensity-exercise-in-breast-feeding-women-good-for-babies-too/106252) | *The Medical Republic*, 2 April 2024
