@@ -12,6 +12,8 @@ menu:
 A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2024
+[Moving the Needle in Paediatric Pain Management: A Conversation with Dr Christine Chambers](https://blog.apsoc.org.au/2024/04/16/aps-2024-moving-the-needle-in-paediatric-pain-management-a-conversation-with-dr-christine-chambers/) | *Australian Pain Society*, 16 April 2024
+
 [Small Numbers, Large Effect](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/small-numbers-large-effect/) | *Pain Research Forum*, 22 March 2024
 
 [We’re Not in Kansas Anymore: A Conversation with Professor Cheryl Stucky](https://blog.apsoc.org.au/2024/03/13/aps-2024-were-not-in-kansas-anymore-a-conversation-with-professor-cheryl-stucky/) | *Australian Pain Society*, 13 March 2024
