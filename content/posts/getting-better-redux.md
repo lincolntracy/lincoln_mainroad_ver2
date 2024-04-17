@@ -11,7 +11,9 @@ tags:
 ---
 
 *Are AFL players still getting better all the time?*
+
 <!--more-->
+
 Back in 2021 I made a blog post, [Getting Better](https://www.lincolntracy.com/posts/getting-better/), where I looked at how many weeks in a row a player performed better – or recorded an increase in a particular statistic compared to their previous game. 
 
 As we get closer to the start of the 2024 AFL season, let’s take another look at the data to see if there have been any changes to the record holders since the initial post.
