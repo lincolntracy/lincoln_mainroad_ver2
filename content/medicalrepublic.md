@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Is Australia ready for widespread reproductive genetic carrier screening?](https://www.medicalrepublic.com.au/is-australia-ready-for-widespread-reproductive-genetic-carrier-screening/106820) | *The Medical Republic*, 18 April 2024
+
+[Antipsychotic usage in dementia linked to multiple adverse outcomes](https://www.medicalrepublic.com.au/antipsychotic-usage-in-dementia-linked-to-multiple-adverse-outcomes/106819) | *The Medical Republic*, 18 April 2024
+
 [Right patient, right time key to Paxlovid benefit](https://medicalrepublic.com.au/right-patient-right-time-key-to-paxlovid-benefit/106671) | *The Medical Republic*, 12 April 2024
 
 [New BTK inhibitor shows promise in hidradenitis suppurativa](https://www.medicalrepublic.com.au/new-btk-inhibitor-shows-promise-in-hidradenitis-suppurativa/106500) | *The Medical Republic*, 8 April 2024
