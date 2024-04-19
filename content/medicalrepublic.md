@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Good news, bad news on drug shortage front](https://www.medicalrepublic.com.au/good-news-bad-news-on-drug-shortage-front/106870) | *The Medical Republic*, 19 April 2024
+
 [Is Australia ready for widespread reproductive genetic carrier screening?](https://www.medicalrepublic.com.au/is-australia-ready-for-widespread-reproductive-genetic-carrier-screening/106820) | *The Medical Republic*, 18 April 2024
 
 [Antipsychotic usage in dementia linked to multiple adverse outcomes](https://www.medicalrepublic.com.au/antipsychotic-usage-in-dementia-linked-to-multiple-adverse-outcomes/106819) | *The Medical Republic*, 18 April 2024
