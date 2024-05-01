@@ -73,8 +73,6 @@ A collection of articles and interviews I have produced in a freelance capacity.
 
 [Both Cardiovascular and Behavioral Threat Responses Contribute to Defensive States](brainpost.co/weekly-brainpost/2023/2/14/both-cardiovascular-and-behavioral-threat-responses-contribute-to-defensive-states) | *BrainPost*, 14 February 2023
 
-[Treat chlamydia with doxycycline first: new guidelines](https://medicalrepublic.com.au/treat-chlamydia-with-doxycycline-first-new-guidelines/85667) | *The Medical Republic*, 13 February 2023
-
 [Finally Getting to Scratch That Itch](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/finally-getting-to-scratch-that-itch/) | *Pain Research Forum*, 10 February 2023
 
 [Headache Disorders in Veterans: A Big Problem](https://migrainecollaborative.org/headache-disorders-in-veterans-a-big-problem) | *Migraine Science Collaborative*, 9 February 2023

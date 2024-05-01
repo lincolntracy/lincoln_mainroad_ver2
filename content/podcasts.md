@@ -12,6 +12,8 @@ menu:
 A collection of podcasts I have produced through freelance or contract work.
 
 ## 2024
+[Comprehensive geriatric assessment in older cancer patients](https://www.oncologyrepublic.com.au/comprehensive-geriatric-assessment-in-older-cancer-patients/4381) | *Oncology Republic*, 1 May 2024
+
 [Older patients with cancer – experts chat about this important speciality crossover](https://www.oncologyrepublic.com.au/older-patients-with-cancer-experts-chat-about-this-important-speciality-crossover/4263) | *Oncology Republic*, 7 March 2024
 
 ## 2023
