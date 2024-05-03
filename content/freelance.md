@@ -12,6 +12,8 @@ menu:
 A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2024
+[CGRP, PACAP and Beyond: Understanding Current and Future Migraine Treatment Targets – An Interview with Debbie Hay](https://migrainecollaborative.org/cgrp-pacap-and-beyond-understanding-current-and-future-migraine-treatment-targets-an-interview-with-debbie-hay) | *Migraine Science Collaborative*, 3 May 2024
+
 [Moving the Needle in Paediatric Pain Management: A Conversation with Dr Christine Chambers](https://blog.apsoc.org.au/2024/04/16/aps-2024-moving-the-needle-in-paediatric-pain-management-a-conversation-with-dr-christine-chambers/) | *Australian Pain Society*, 16 April 2024
 
 [Small Numbers, Large Effect](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/small-numbers-large-effect/) | *Pain Research Forum*, 22 March 2024
