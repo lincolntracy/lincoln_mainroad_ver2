@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Electronic prescribing interoperability coming to My Health App](https://www.healthservicesdaily.com.au/electronic-prescribing-interoperability-coming-to-my-health-app/14539) | *Health Services Daily*, 8 May 2024
+
+[Opioids on the silver screen](https://www.puffnstuff.com.au/opioids-on-the-silver-screen/81408) | *Allergy & Respiratory Republic*, 8 May 2024
+
 [Good news, bad news on drug shortage front](https://www.medicalrepublic.com.au/good-news-bad-news-on-drug-shortage-front/106870) | *The Medical Republic*, 19 April 2024
 
 [Is Australia ready for widespread reproductive genetic carrier screening?](https://www.medicalrepublic.com.au/is-australia-ready-for-widespread-reproductive-genetic-carrier-screening/106820) | *The Medical Republic*, 18 April 2024
