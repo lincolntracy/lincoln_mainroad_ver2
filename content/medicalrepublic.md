@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Pro-inflammatory foods linked to abdominal pain](https://www.gutrepublic.com.au/pro-inflammatory-foods-linked-to-abdominal-pain/202) | *Gut Republic*, 9 May 2024
+
+[Iron deficiency risk increases in overweight and obese children](https://www.gutrepublic.com.au/iron-deficiency-risk-increases-in-overweight-and-obese-children/161) | *Gut Republic*, 9 May 2024
+
+[Reducing hospital visits via ketone strips, ambos and the VED](https://www.healthservicesdaily.com.au/reducing-hospital-visits-via-ketone-strips-ambos-and-the-ved/14600) | *Health Services Daily*, 9 May 2024
+
 [Electronic prescribing interoperability coming to My Health App](https://www.healthservicesdaily.com.au/electronic-prescribing-interoperability-coming-to-my-health-app/14539) | *Health Services Daily*, 8 May 2024
 
 [Opioids on the silver screen](https://www.puffnstuff.com.au/opioids-on-the-silver-screen/81408) | *Allergy & Respiratory Republic*, 8 May 2024
