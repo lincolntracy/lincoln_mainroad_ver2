@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Building trust for AI in healthcare](https://www.healthservicesdaily.com.au/building-trust-for-ai-in-healthcare/14617) | *Health Services Daily*, 10 May 2024
+
 [Pro-inflammatory foods linked to abdominal pain](https://www.gutrepublic.com.au/pro-inflammatory-foods-linked-to-abdominal-pain/202) | *Gut Republic*, 9 May 2024
 
 [Iron deficiency risk increases in overweight and obese children](https://www.gutrepublic.com.au/iron-deficiency-risk-increases-in-overweight-and-obese-children/161) | *Gut Republic*, 9 May 2024
