@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[TGA adopts updated sunscreen standard](https://www.dermatologyrepublic.com.au/tga-adopts-updated-sunscreen-standard/2659) | *Dermatology Republic*, 15 May 2024
+
 [Building trust for AI in healthcare](https://www.healthservicesdaily.com.au/building-trust-for-ai-in-healthcare/14617) | *Health Services Daily*, 10 May 2024
 
 [Pro-inflammatory foods linked to abdominal pain](https://www.gutrepublic.com.au/pro-inflammatory-foods-linked-to-abdominal-pain/202) | *Gut Republic*, 9 May 2024
