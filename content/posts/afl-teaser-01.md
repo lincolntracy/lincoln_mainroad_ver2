@@ -1,5 +1,5 @@
 ---
-title: "Afl Teaser #1"
+title: "AFL Teaser #1"
 date: 2024-05-16T07:26:16+10:00
 categories:
  - "Blog"
