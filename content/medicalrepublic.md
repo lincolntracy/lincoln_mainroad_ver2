@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Changing beliefs and approaches in persistent pelvic pain](https://www.medicalrepublic.com.au/changing-beliefs-and-approaches-in-persistent-pelvic-pain/107580) | *The Medical Republic*, 16 May 2024
+
+[First treatment for itch in CKD added to PBS](https://www.medicalrepublic.com.au/first-treatment-for-itch-in-ckd-added-to-pbs/107582) | *The Medical Republic*, 16 May 2024
+
 [TGA adopts updated sunscreen standard](https://www.dermatologyrepublic.com.au/tga-adopts-updated-sunscreen-standard/2659) | *Dermatology Republic*, 15 May 2024
 
 [Building trust for AI in healthcare](https://www.healthservicesdaily.com.au/building-trust-for-ai-in-healthcare/14617) | *Health Services Daily*, 10 May 2024
