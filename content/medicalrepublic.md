@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[How nanotech could help with pain](https://www.medicalrepublic.com.au/how-nanotech-could-help-with-pain/107815) | *The Medical Republic*, 23 May 2024
+
+[Common antibiotic allergy linked to antibiotic-resistant infections](https://www.puffnstuff.com.au/common-antibiotic-allergy-linked-to-antibiotic-resistant-infections/81751) | *Allergy & Respiratory Republic*, 22 May 2024
+
 [Changing beliefs and approaches in persistent pelvic pain](https://www.medicalrepublic.com.au/changing-beliefs-and-approaches-in-persistent-pelvic-pain/107580) | *The Medical Republic*, 16 May 2024
 
 [First treatment for itch in CKD added to PBS](https://www.medicalrepublic.com.au/first-treatment-for-itch-in-ckd-added-to-pbs/107582) | *The Medical Republic*, 16 May 2024
