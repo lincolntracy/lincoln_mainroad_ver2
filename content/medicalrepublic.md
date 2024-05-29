@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Atopic dermatitis linked to cardiovascular disease](https://www.dermatologyrepublic.com.au/atopic-dermatitis-linked-to-cardiovascular-disease/2685) | *Dermatology Republic*, 29 May 2024
+
+[Parental e-cig use linked to eczema in kids](https://www.dermatologyrepublic.com.au/parental-e-cig-use-linked-to-eczema-in-kids/2680) | *Dermatology Republic*, 29 May 2024
+
+[New whiplash guidelines in works](https://www.medicalrepublic.com.au/new-whiplash-guidelines-in-works/107908) | *The Medical Republic*, 27 May 2024
+
 [How nanotech could help with pain](https://www.medicalrepublic.com.au/how-nanotech-could-help-with-pain/107815) | *The Medical Republic*, 23 May 2024
 
 [Common antibiotic allergy linked to antibiotic-resistant infections](https://www.puffnstuff.com.au/common-antibiotic-allergy-linked-to-antibiotic-resistant-infections/81751) | *Allergy & Respiratory Republic*, 22 May 2024
