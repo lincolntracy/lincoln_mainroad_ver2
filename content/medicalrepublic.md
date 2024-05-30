@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Human to human: pain management in the outback](https://www.medicalrepublic.com.au/human-to-human-pain-management-in-the-outback/107995) | *The Medical Republic*, 30 May 2024
+
+[Men have more diabetes complications than women](https://www.medicalrepublic.com.au/men-have-more-diabetes-complications-than-women/107975) | *The Medical Republic*, 30 May 2024
+
 [Atopic dermatitis linked to cardiovascular disease](https://www.dermatologyrepublic.com.au/atopic-dermatitis-linked-to-cardiovascular-disease/2685) | *Dermatology Republic*, 29 May 2024
 
 [Parental e-cig use linked to eczema in kids](https://www.dermatologyrepublic.com.au/parental-e-cig-use-linked-to-eczema-in-kids/2680) | *Dermatology Republic*, 29 May 2024
