@@ -17,7 +17,7 @@ Towards the end of my PhD, I was the first person from the southern hemisphere t
 
 In my spare time, I volunteer as the Newsletter Editor for the Australian Pain Society, serve as a Board member of the [Australian and New Zealand Burn Association](https://anzba.org.au/), and am the Podcast Editor for [One Thing](http://onething.painsci.org/). 
 
-These experiences have provided me with the ability to analyse, simplify, and communicate large amounts of varied and complex information to a range of stakeholders in a variety of formats (written, visual, and audio). 
+These experiences have provided me with the ability to **analyse, simplify, and communicate large amounts of varied and complex information to a range of stakeholders in a variety of formats** (written, visual, and audio). 
 
 The key skills allowing me to do this are:
 * Data analysis, manipulation, and visualisation (R, Stata, Tableau, PowerBI)
@@ -27,10 +27,10 @@ The key skills allowing me to do this are:
 
 In recent years I have combined these skills with my love of sport to create blog and social media posts based on statistical trends and unique events using data from the AFL, BBL, and NFL. This endeavour went to the next level in May 2024, when I was invited to join the team of Facebook sensation [Useless AFL Stats](https://www.facebook.com/uselessaflstats/). 
 
-I love applying my communication and data analysis/visualisation skills to share engaging stories, useful information about the latest news and research, and interesting facts and statistics you can share with your family, friends, and colleagues. 
+**I love applying my communication and data analysis/visualisation skills to share engaging stories, useful information about the latest news and research, and interesting facts and statistics you can share with your family, friends, and colleagues.** 
 
 Feel free to reach out and connect if you share my passion for storytelling, data analytics and visualisation, or sports.
 
 I'm most active on X (the plaform formerly known as Twitter) - [@lincolntracy](https://twitter.com/lincolntracy), but you can also find me on [Linkedin](https://www.linkedin.com/in/lincolntracy), [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=aNS-g-AAAAAJ), and [Tableau Public](https://public.tableau.com/app/profile/lincoln.tracy/vizzes), among other places. 
 
-You can find a copy of my short CV [here](/files/content/about/CV_Lincoln-TRACY_June2024). 
+You can find a copy of my short CV [here](/files/content/about/CV_Lincoln-TRACY_June2024.pdf). 
