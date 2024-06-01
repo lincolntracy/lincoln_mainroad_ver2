@@ -1,6 +1,6 @@
 ---
 title: "Podcasts"
-date: 2023-08-30
+date: 2024-06-01
 authorbox: false
 sidebar: false
 menu: 
@@ -9,9 +9,11 @@ menu:
         weight: 50
 ---
 
-A collection of podcasts I have produced through freelance or contract work.
+A collection of podcasts I have produced and/or hosted through freelance/contract work and volunteering.
 
 ## 2024
+[The Coach GOAT, Sequential Round Scores, New STATMAN](https://uselessaflstats.buzzsprout.com/2211261/15142315-24-the-coach-goat-sequential-round-scores-new-statman) | *Useless AFL Stats*, 27 May 2024
+
 [IASP’s 50th Anniversary: A Podcast with Louisa E. Jones](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/iasps-50th-anniversary-a-podcast-with-louisa-e-jones/) | *Pain Research Forum*, 24 May 2024
 
 [Comprehensive geriatric assessment in older cancer patients](https://www.oncologyrepublic.com.au/comprehensive-geriatric-assessment-in-older-cancer-patients/4381) | *Oncology Republic*, 1 May 2024

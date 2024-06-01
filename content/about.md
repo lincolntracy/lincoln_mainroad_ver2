@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2021-08-17
+date: 2024-06-01
 authorbox: false
 sidebar: false
 menu: 
@@ -9,29 +9,28 @@ menu:
         weight: 10
 ---
 
-Lincoln M. Tracy is a researcher in the School of Public Health and Preventive Medicine at Monash University. He is currently undertaking research relating to burn injuries in Australia and New Zealand. His research has previously focused on oxytocin, pain, and heart rate variability.
+Researcher and journalist with a my passion for words, numbers, and sport.
 
-Outside of research Lincoln has conducted interviews and written for:
-- [Pain Research Forum](https://www.painresearchforum.org/)
-- [RELIEF](http://relief.news/home/)
-- [BrainPost](https://www.brainpost.co/)
-- [Migraine Science Collaborative](https://www.migrainecollaborative.org/home)
-- [Australian Pain Society](https://www.apsoc.org.au/)
-- [Rheumatology Advisor](https://www.rheumatologyadvisor.com/)
-- [The Medical Republic](https://medicalrepublic.com.au/)
-- [STEMM Matters](https://stemmatters.com.au/)
+I moved to Melbourne from regional Victoria for university and never left, following my intellectual curiosity and passion for science to pursue a Bachelor of Biomedical Science (First Class Honours) and a Doctor of Philosophy (PhD) in Psychology, which ultimately led to working for Monash University as a postdoctoral research fellow where I [lead a research program looking at burn injuries in Australia and New Zealand](https://research.monash.edu/en/persons/lincoln-tracy).
 
-Lincoln is the Editor for the Australian Pain Society Newsletter, a Board member of the [Australian and New Zealand Burn Association](https://anzba.org.au/), and is the Podcast Editor for [One Thing](http://onething.painsci.org/). 
+Towards the end of my PhD, I was the first person from the southern hemisphere to be invited to attend the [North American Pain School](https://northamericanpainschool.com/), where I participated in a correspondents program that sparked my interest in communication. Since then, I have worked as a journalist (both in a freelance and contracted capacity) producing news summaries and interviews for a variety of national and international outlets including [Pain Research Forum](https://www.painresearchforum.org/), [BrainPost](https://www.brainpost.co/), [Migraine Science Collaborative](https://www.migrainecollaborative.org/home), the [Australian Pain Society](https://www.apsoc.org.au/), [Rheumatology Advisor](https://www.rheumatologyadvisor.com/), and [STEMM Matters](https://stemmatters.com.au/).
 
-A brief copy of Lincoln's CV can be found [here](/files/content/about/TracyCV-May2024.pdf). 
+In my spare time, I volunteer as the Newsletter Editor for the Australian Pain Society, serve as a Board member of the [Australian and New Zealand Burn Association](https://anzba.org.au/), and am the Podcast Editor for [One Thing](http://onething.painsci.org/). 
 
-Lincoln is most active on Twitter - [@lincolntracy](https://twitter.com/lincolntracy).
+These experiences have provided me with the ability to analyse, simplify, and communicate large amounts of varied and complex information to a range of stakeholders in a variety of formats (written, visual, and audio). 
 
-Other profiles and pages:
-- [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=aNS-g-AAAAAJ) 
-- [Publons](https://publons.com/researcher/1310556/lincoln-m-tracy/peer-review/) 
-- [ResearchGate](https://www.researchgate.net/profile/Lincoln-Tracy-2) 
-- [ORCiD](https://orcid.org/0000-0002-9783-6415) 
-- [Linkedin](https://www.linkedin.com/in/lincolntracy)
-- [Tableau Public](https://public.tableau.com/app/profile/lincoln.tracy/vizzes)
-- [Monash University](https://research.monash.edu/en/persons/lincoln-tracy)
+The key skills allowing me to do this are:
+* Data analysis, manipulation, and visualisation (R, Stata, Tableau, PowerBI)
+* Audio production and editing (Audacity, Reaper, Descript)
+* Problem solving, intellectual curiosity, and attention to detail
+* Strong written and verbal communication skills
+
+In recent years I have combined these skills with my love of sport to create blog and social media posts based on statistical trends and unique events using data from the AFL, BBL, and NFL. This endeavour went to the next level in May 2024, when I was invited to join the team of Facebook sensation [Useless AFL Stats](https://www.facebook.com/uselessaflstats/). 
+
+I love applying my communication and data analysis/visualisation skills to share engaging stories, useful information about the latest news and research, and interesting facts and statistics you can share with your family, friends, and colleagues. 
+
+Feel free to reach out and connect if you share my passion for storytelling, data analytics and visualisation, or sports.
+
+I'm most active on X (the plaform formerly known as Twitter) - [@lincolntracy](https://twitter.com/lincolntracy), but you can also find me on [Linkedin](https://www.linkedin.com/in/lincolntracy), [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=aNS-g-AAAAAJ), and [Tableau Public](https://public.tableau.com/app/profile/lincoln.tracy/vizzes), among other places. 
+
+You can find a copy of my short CV [here](/files/content/about/CV_Lincoln-TRACY_June2024). 
