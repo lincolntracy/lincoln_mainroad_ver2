@@ -12,6 +12,8 @@ menu:
 A collection of podcasts I have produced and/or hosted through freelance/contract work and volunteering.
 
 ## 2024
+[McKay Brothers, 30 Disposal Record, Brownlow Metric](https://uselessaflstats.buzzsprout.com/2211261/15183001-24-mckay-brothers-30-disposal-record-brownlow-metric) | *Useless AFL Stats*, 3 June 2024
+
 [The Coach GOAT, Sequential Round Scores, New STATMAN](https://uselessaflstats.buzzsprout.com/2211261/15142315-24-the-coach-goat-sequential-round-scores-new-statman) | *Useless AFL Stats*, 27 May 2024
 
 [IASP’s 50th Anniversary: A Podcast with Louisa E. Jones](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/iasps-50th-anniversary-a-podcast-with-louisa-e-jones/) | *Pain Research Forum*, 24 May 2024

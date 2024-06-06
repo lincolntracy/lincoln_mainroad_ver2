@@ -28,7 +28,7 @@ googleAnalytics = "UA-150393564-1"
 
 [Params.logo]
   #image = "img/portrait.jpg"
-  subtitle = "Researcher and Freelance Writer" # Logo subtitle
+  subtitle = "Researcher, Journalist, & Podcaster | Data Analysis & Visualisation" # Logo subtitle
 
 [Params.style.vars]
   highlightColor = "#014896"
