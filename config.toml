@@ -18,7 +18,7 @@ googleAnalytics = "UA-150393564-1"
   weight = -110
 
 [Params]
-  description = "Lincoln Tracy - Researcher and freelance writer" # Description of your site
+  description = "Lincoln Tracy - Researcher, Journalist, & Podcaster" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
@@ -48,3 +48,8 @@ googleAnalytics = "UA-150393564-1"
   twitter = "lincolntracy"
   linkedin = "lincolntracy"
   email = "dr.lincoln.m.tracy@gmail.com"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
