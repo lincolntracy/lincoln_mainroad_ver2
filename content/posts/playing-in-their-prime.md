@@ -26,6 +26,10 @@ Last year I published [a short post about what jumper numbers hadn’t been used
 
 The interactive graph below shows the number of times each prime jumper number has been worn, from 1912 through to the end of Round 12, 2024.
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~lincolntracy/1.embed"></iframe>
+
+https://plotly.com/~lincolntracy/1/
+
 <div>
     <a href="https://plotly.com/~lincolntracy/1/?share_key=D0qHtitUc6QQBsyDXCZkkg" target="_blank" title="prime_afl_jumper_numbers" style="display: block; text-align: center;"><img src="https://plotly.com/~lincolntracy/1.png?share_key=D0qHtitUc6QQBsyDXCZkkg" alt="prime_afl_jumper_numbers" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
     <script data-plotly="lincolntracy:1" sharekey-plotly="D0qHtitUc6QQBsyDXCZkkg" src="https://plotly.com/embed.js" async></script>
