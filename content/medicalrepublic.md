@@ -12,7 +12,11 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
-[Infertility treatment linked to increased CVD risk](https://www.medicalrepublic.com.au/infertility-treatment-linked-to-increased-cvd-risk/108051) | *The Medical Republic*, 3 July 2024
+[Parasocial relationships beat some real ones](https://www.medicalrepublic.com.au/parasocial-relationships-beat-some-real-ones/108128) | *The Medical Republic*, 3 June 2024
+
+[Aussie rheumas accept stem cell treatment for systemic sclerosis](https://www.rheuma.com.au/aussie-rheumas-accept-stem-cell-treatment-for-systemic-sclerosis/26553) | *Rheumatology Republic*, 6 June 2024
+
+[Infertility treatment linked to increased CVD risk](https://www.medicalrepublic.com.au/infertility-treatment-linked-to-increased-cvd-risk/108051) | *The Medical Republic*, 3 June 2024
 
 [Human to human: pain management in the outback](https://www.medicalrepublic.com.au/human-to-human-pain-management-in-the-outback/107995) | *The Medical Republic*, 30 May 2024
 

@@ -1,7 +1,6 @@
 ---
 title: "Playing in Their Prime"
 date: 2024-06-06T08:34:53+10:00
-draft: true
 categories:
  - "Blog"
 tags:
@@ -29,7 +28,7 @@ The interactive graph below shows the number of times each prime jumper number h
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~lincolntracy/1.embed"></iframe>
 
-https://plotly.com/~lincolntracy/1/
+![prime-numbers](https://plotly.com/~lincolntracy/1/)
 
 <div>
     <a href="https://plotly.com/~lincolntracy/1/?share_key=D0qHtitUc6QQBsyDXCZkkg" target="_blank" title="prime_afl_jumper_numbers" style="display: block; text-align: center;"><img src="https://plotly.com/~lincolntracy/1.png?share_key=D0qHtitUc6QQBsyDXCZkkg" alt="prime_afl_jumper_numbers" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
