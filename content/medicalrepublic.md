@@ -12,7 +12,9 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
-[Parasocial relationships beat some real ones](https://www.medicalrepublic.com.au/parasocial-relationships-beat-some-real-ones/108128) | *The Medical Republic*, 3 June 2024
+[Keep calm and carry on (living)](https://www.medicalrepublic.com.au/keep-calm-and-carry-on-living/108241) | *The Medical Republic*, 11 June 2024
+
+[Parasocial relationships beat some real ones](https://www.medicalrepublic.com.au/parasocial-relationships-beat-some-real-ones/108128) | *The Medical Republic*, 6 June 2024
 
 [Aussie rheumas accept stem cell treatment for systemic sclerosis](https://www.rheuma.com.au/aussie-rheumas-accept-stem-cell-treatment-for-systemic-sclerosis/26553) | *Rheumatology Republic*, 6 June 2024
 
