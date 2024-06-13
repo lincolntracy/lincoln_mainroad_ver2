@@ -12,6 +12,8 @@ menu:
 A collection of podcasts I have produced and/or hosted through freelance/contract work and volunteering.
 
 ## 2024
+[Goalless Winners, Circle of Parity, Lowest Saturday Score](https://uselessaflstats.buzzsprout.com/2211261/15223589-26-goalless-winners-circle-of-parity-lowest-saturday-score) | *Useless AFL Stats*, 10 June 2024
+
 [McKay Brothers, 30 Disposal Record, Brownlow Metric](https://uselessaflstats.buzzsprout.com/2211261/15183001-24-mckay-brothers-30-disposal-record-brownlow-metric) | *Useless AFL Stats*, 3 June 2024
 
 [The Coach GOAT, Sequential Round Scores, New STATMAN](https://uselessaflstats.buzzsprout.com/2211261/15142315-24-the-coach-goat-sequential-round-scores-new-statman) | *Useless AFL Stats*, 27 May 2024

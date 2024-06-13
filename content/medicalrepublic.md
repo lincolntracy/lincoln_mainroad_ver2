@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[ACCC fly in ointment for Sigma and Chemist Warehouse merger](https://www.healthservicesdaily.com.au/accc-fly-in-ointment-for-sigma-and-chemist-warehouse-merger/15823) | *Health Services Daily*, 13 June 2024
+
+[Tattoos: creative, colourful and (possibly) carcinogenic](https://www.medicalrepublic.com.au/tattoos-creative-colourful-and-possibly-carcinogenic/108328) | *The Medical Republic*, 13 June 2024
+
+[Ramsay strikes international training partnership](https://www.healthservicesdaily.com.au/ramsay-strikes-international-training-partnership/15796) | *Health Services Daily*, 12 June 2024
+
 [Keep calm and carry on (living)](https://www.medicalrepublic.com.au/keep-calm-and-carry-on-living/108241) | *The Medical Republic*, 11 June 2024
 
 [Parasocial relationships beat some real ones](https://www.medicalrepublic.com.au/parasocial-relationships-beat-some-real-ones/108128) | *The Medical Republic*, 6 June 2024
