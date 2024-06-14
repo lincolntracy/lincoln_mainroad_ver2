@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Butler ‘shocked’ by chiros’ renewed plan to crack babies’ backs](https://www.medicalrepublic.com.au/butler-shocked-by-chiros-renewed-plan-to-crack-babies-backs/108365) | *The Medical Republic*, 14 June 2024
+
 [ACCC fly in ointment for Sigma and Chemist Warehouse merger](https://www.healthservicesdaily.com.au/accc-fly-in-ointment-for-sigma-and-chemist-warehouse-merger/15823) | *Health Services Daily*, 13 June 2024
 
 [Tattoos: creative, colourful and (possibly) carcinogenic](https://www.medicalrepublic.com.au/tattoos-creative-colourful-and-possibly-carcinogenic/108328) | *The Medical Republic*, 13 June 2024
