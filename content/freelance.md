@@ -12,6 +12,8 @@ menu:
 A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2024
+[Automating Mechanical Stimuli Delivery in Behavioral Testing](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/automating-mechanical-stimuli-delivery-in-behavioral-testing/) | *Pain Research Forum*, 20 June 2024
+
 [IASP Global Year Lecture: Uncomfortable Conversations about Carrots, Nomenclature, and Cosmetic Surgery](https://blog.apsoc.org.au/2024/05/15/aps-2024-iasp-global-year-lecture-uncomfortable-conversations-about-carrots-nomenclature-and-cosmetic-surgery/) | *Australian Pain Society*, 15 May 2024
 
 [CGRP, PACAP and Beyond: Understanding Current and Future Migraine Treatment Targets – An Interview with Debbie Hay](https://migrainecollaborative.org/cgrp-pacap-and-beyond-understanding-current-and-future-migraine-treatment-targets-an-interview-with-debbie-hay) | *Migraine Science Collaborative*, 3 May 2024

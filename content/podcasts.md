@@ -12,6 +12,8 @@ menu:
 A collection of podcasts I have produced and/or hosted through freelance/contract work and volunteering.
 
 ## 2024
+[Doctor Statsman, Lobb v Z Dawson, BT's Record](https://uselessaflstats.buzzsprout.com/2211261/15261910-27-doctor-statsman-lobb-v-z-dawson-bt-s-record) | *Useless AFL Stats*, 17 June 2024
+
 [Goalless Winners, Circle of Parity, Lowest Saturday Score](https://uselessaflstats.buzzsprout.com/2211261/15223589-26-goalless-winners-circle-of-parity-lowest-saturday-score) | *Useless AFL Stats*, 10 June 2024
 
 [McKay Brothers, 30 Disposal Record, Brownlow Metric](https://uselessaflstats.buzzsprout.com/2211261/15183001-24-mckay-brothers-30-disposal-record-brownlow-metric) | *Useless AFL Stats*, 3 June 2024
