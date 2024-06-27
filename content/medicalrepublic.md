@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Synthetic oxytocin doesn’t raise ADHD, ASD risk](https://www.medicalrepublic.com.au/synthetic-oxytocin-doesnt-raise-adhd-asd-risk/108680) | *The Medical Republic*, 27 June 2024
+
+[Sodium intake increases eczema risk](https://www.dermatologyrepublic.com.au/sodium-intake-increases-eczema-risk/2752) | *Dermatology Republic*, 26 June 2024
+
+[Flesh-eating bacteria are back](https://www.dermatologyrepublic.com.au/flesh-eating-bacteria-are-back/2755) | *Dermatology Republic*, 26 June 2024
+
 [Stopping osteoporosis drugs raises fracture risk](https://www.medicalrepublic.com.au/stopping-osteoporosis-drugs-raises-fracture-risk/108499) | *The Medical Republic*, 20 June 2024
 
 [Butler ‘shocked’ by chiros’ renewed plan to crack babies’ backs](https://www.medicalrepublic.com.au/butler-shocked-by-chiros-renewed-plan-to-crack-babies-backs/108365) | *The Medical Republic*, 14 June 2024

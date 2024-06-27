@@ -12,6 +12,8 @@ menu:
 A collection of podcasts I have produced and/or hosted through freelance/contract work and volunteering.
 
 ## 2024
+[ Spoon to Finals, De Koning Record, Behindless Halves](https://uselessaflstats.buzzsprout.com/2211261/15301301-28-spoon-to-finals-de-koning-record-behindless-halves) | *Useless AFL Stats*, 24 June 2024
+
 [Doctor Statsman, Lobb v Z Dawson, BT's Record](https://uselessaflstats.buzzsprout.com/2211261/15261910-27-doctor-statsman-lobb-v-z-dawson-bt-s-record) | *Useless AFL Stats*, 17 June 2024
 
 [Goalless Winners, Circle of Parity, Lowest Saturday Score](https://uselessaflstats.buzzsprout.com/2211261/15223589-26-goalless-winners-circle-of-parity-lowest-saturday-score) | *Useless AFL Stats*, 10 June 2024
