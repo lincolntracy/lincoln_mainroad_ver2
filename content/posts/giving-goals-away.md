@@ -18,13 +18,13 @@ Earlier this week on the Useless AFL Stats page we posted the following ladder, 
 
 Players who had played for multiple clubs had their goals count towards all previous clubs – so Rory Lobb’s five goals to date would count for both Greater Western Sydney and the Western Bulldogs. 
 
-![disposals_table](/img/content/posts/giving-away-goals.jpeg)
+![UAS post](/img/content/posts/giving-away-goals.jpg)
 
 As you can see, Gold Coast and GWS are sitting well ahead of the rest of the competition, with 16 and 15 former players kicking 127 and 120 goals so far this year, respectively.  
 
 I’ve done a bit of a deeper dive into who has kicked how many goals – here’s what I’ve found.
 
-![disposals_table](/img/content/posts/giving-away-goals-list-v2.png)
+![goals-list](/img/content/posts/giving-away-goals-list-v2.png)
 
 There are 16 former Suns who have played at least one AFL game for another team this season, with six of them kicking at least 10 goals. The Giants aren’t that far behind, with four of their 15 former players kicking 10 or more at this point of the season. 
 
