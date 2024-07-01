@@ -12,6 +12,8 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
+Capell EL, Kazis LE, Gabbe BJ, **Tracy LM**, Ryan CM, Slavin MD, Singer Y, Ryan T, Scott H, Bailey HM, Vasudevan A, Ni P, & Edgar D (accepted 29/06/2024).  [Measuring the Social Impact of Burn injuries in Australia: An Adaptation of the Life Impact Burn Recovery Evaluation - The Aus-LIBRE Profile](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irae134/7701753). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irae134. 
+
 Bebbington E, Miles J, Young A, van Baar ME, Bernal N, Brekke RL, van Dammen L, Elmasry M, Inoue Y, McMullen KA, Paton L, Thamm OC, **Tracy LM**, Zia N, Singer Y, & Dunn K (accepted 11/01/2024). [Exploring the similarities and differences of burn registers globally: Results from a data dictionary comparison study](https://www.sciencedirect.com/science/article/abs/pii/S0305417924000056). *Burns*. doi: 10.1016/j.burns.2024.01.004
 
 ### 2024

@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Tirzepatide halves obstructive sleep apnoea severity](https://www.medicalrepublic.com.au/tirzepatide-halves-obstructive-sleep-apnoea-severity/108744) | *The Medical Republic*, 1 July 2024
+
+[Welcome to the Red Book, Anxiety](https://www.medicalrepublic.com.au/anxiety-welcome-to-the-red-book/108750) | *The Medical Republic*, 1 July 2024
+
 [Synthetic oxytocin doesn’t raise ADHD, ASD risk](https://www.medicalrepublic.com.au/synthetic-oxytocin-doesnt-raise-adhd-asd-risk/108680) | *The Medical Republic*, 27 June 2024
 
 [Sodium intake increases eczema risk](https://www.dermatologyrepublic.com.au/sodium-intake-increases-eczema-risk/2752) | *Dermatology Republic*, 26 June 2024
