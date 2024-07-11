@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Should GDM screening come sooner in pregnancy?](https://www.medicalrepublic.com.au/should-gdm-screening-come-sooner-in-pregnancy/108888) | *The Medical Republic*, 11 July 2024
+
 [Patient experience officers rolled out to all NSW EDs](https://www.healthservicesdaily.com.au/patient-experience-officers-rolled-out-to-all-nsw-eds/16542) | *Health Services Daily*, 3 July 2024
 
 [Tirzepatide halves obstructive sleep apnoea severity](https://www.medicalrepublic.com.au/tirzepatide-halves-obstructive-sleep-apnoea-severity/108744) | *The Medical Republic*, 1 July 2024
