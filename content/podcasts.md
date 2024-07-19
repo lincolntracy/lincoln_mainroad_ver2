@@ -12,6 +12,10 @@ menu:
 A collection of podcasts I have produced and/or hosted through freelance/contract work and volunteering.
 
 ## 2024
+[IASP’s 50th Anniversary: A Podcast with Fernando Cervero](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/iasps-50th-anniversary-a-podcast-with-fernando-cervero/) | *Pain Research Forum*, 19 July 2024
+
+[Saints Premiership FaVoUrItEs, Most Goals but never First](https://uselessaflstats.buzzsprout.com/2211261/15377813-30-saints-premiership-favourites-most-goals-but-never-first) | *Useless AFL Stats*, 8 July 2024
+
 [Essendon %, 8 Goals 0 Marks, Harrison Petty Goal Stinking](https://uselessaflstats.buzzsprout.com/2211261/15340606-29-essendon-8-goals-0-marks-harrison-petty-goal-stinking) | *Useless AFL Stats*, 1 July 2024
 
 [Spoon to Finals, De Koning Record, Behindless Halves](https://uselessaflstats.buzzsprout.com/2211261/15301301-28-spoon-to-finals-de-koning-record-behindless-halves) | *Useless AFL Stats*, 24 June 2024
