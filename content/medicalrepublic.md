@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Paging Doctor Elmo](https://www.medicalrepublic.com.au/paging-doctor-elmo/109132) | *The Medical Republic*, 23 July 2024
+
+[More injury hospitalisations for diabetic patients](https://www.medicalrepublic.com.au/more-injury-hospitalisations-for-diabetic-patients/109065) | *The Medical Republic*, 22 July 2024
+
+[Simple supports help some taper off antidepressants](https://www.medicalrepublic.com.au/simple-supports-help-some-taper-off-antidepressants/108891) | *The Medical Republic*, 22 July 2024
+
 [What’s happening with influenza this winter?](https://www.puffnstuff.com.au/whats-happening-with-influenza-this-winter/82931) | *Allergy & Respiratory Republic*, 17 July 2024
 
 [Should GDM screening come sooner in pregnancy?](https://www.medicalrepublic.com.au/should-gdm-screening-come-sooner-in-pregnancy/108888) | *The Medical Republic*, 11 July 2024
