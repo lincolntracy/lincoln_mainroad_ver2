@@ -10,7 +10,7 @@ tags:
  - "Sports"
 ---
 
-*The Geelong Football Club made a claim last week that seems hard to believe.*
+*Last week the Geelong Football Club made a claim that seems hard to believe.*
 
 <!--more-->
 
