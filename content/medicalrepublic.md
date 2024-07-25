@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Microbiome disruptions after organ transplant linked to increased mortality](https://www.oncologyrepublic.com.au/microbiome-disruptions-after-organ-transplant-linked-to-increased-mortality/4588) | *Oncology Republic*, 25 July 2024
+
+[New guidelines for recurrent pregnancy loss](https://www.medicalrepublic.com.au/new-guidelines-for-recurrent-pregnancy-loss/109320) | *The Medical Republic*, 25 July 2024
+
+[GPADD returns to Melbourne](https://www.medicalrepublic.com.au/gpadd-returns-to-melbourne/109332) | *The Medical Republic*, 25 July 2024
+
 [Paging Doctor Elmo](https://www.medicalrepublic.com.au/paging-doctor-elmo/109132) | *The Medical Republic*, 23 July 2024
 
 [More injury hospitalisations for diabetic patients](https://www.medicalrepublic.com.au/more-injury-hospitalisations-for-diabetic-patients/109065) | *The Medical Republic*, 22 July 2024

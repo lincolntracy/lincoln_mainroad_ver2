@@ -12,6 +12,8 @@ menu:
 A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2024
+[The Representation of Pain in Adolescent Media: What You See Isn’t Always What You Get](https://migrainecollaborative.org/the-representation-of-pain-in-adolescent-media-what-you-see-isnt-always-what-you-get) | *Migraine Science Collaborative*, 24 July 2024
+
 [Automating Mechanical Stimuli Delivery in Behavioral Testing](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/automating-mechanical-stimuli-delivery-in-behavioral-testing/) | *Pain Research Forum*, 20 June 2024
 
 [IASP Global Year Lecture: Uncomfortable Conversations about Carrots, Nomenclature, and Cosmetic Surgery](https://blog.apsoc.org.au/2024/05/15/aps-2024-iasp-global-year-lecture-uncomfortable-conversations-about-carrots-nomenclature-and-cosmetic-surgery/) | *Australian Pain Society*, 15 May 2024
