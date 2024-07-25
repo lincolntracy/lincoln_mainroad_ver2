@@ -12,6 +12,8 @@ tags:
 
 *The Geelong Football Club made a claim last week that seems hard to believe.*
 
+<!--more-->
+
 Last weekend the Geelong Football Club wore a special “retro” jumper to mark the 100th anniversary of Edward Goderich "Carji" Greeves Jr winning the inaugural Brownlow Medal in 1924. 
 
 Greeves finished second in the Brownlow count in 1925, 1926, and 1929, making him one of the more dominant players in the league during this period. 
