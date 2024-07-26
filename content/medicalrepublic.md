@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Victorian Virtual ED opens new diabetes service](https://www.healthservicesdaily.com.au/victorian-virtual-ed-opens-new-diabetes-service/17479) | *Health Services Daily*, 26 July 2024
+
+[$19m for mRNA technology research projects](https://www.healthservicesdaily.com.au/19m-for-mrna-technology-research-projects/17482) | *Health Services Daily*, 26 July 2024
+
+[Health Star Rating mandate inching closer](https://www.healthservicesdaily.com.au/#:~:text=Health%20Star%20Rating%20mandate%20inching%20closer) | *Health Services Daily*, 26 July 2024
+
 [Microbiome disruptions after organ transplant linked to increased mortality](https://www.oncologyrepublic.com.au/microbiome-disruptions-after-organ-transplant-linked-to-increased-mortality/4588) | *Oncology Republic*, 25 July 2024
 
 [New guidelines for recurrent pregnancy loss](https://www.medicalrepublic.com.au/new-guidelines-for-recurrent-pregnancy-loss/109320) | *The Medical Republic*, 25 July 2024
