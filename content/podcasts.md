@@ -12,6 +12,10 @@ menu:
 A collection of podcasts I have produced and/or hosted through freelance/contract work and volunteering.
 
 ## 2024
+[TrackMyBrown's Adam Keily](https://uselessaflstats.buzzsprout.com/2211261/15492892-32-ft-trackmybrown-s-adam-keily) | *Useless AFL Stats*, 30 July 2024
+
+[Doctor Statsman Flies Solo](https://uselessaflstats.buzzsprout.com/2211261/15451791-31-doctor-statsman-flies-solo) | *Useless AFL Stats*, 22 July 2024
+
 [IASP’s 50th Anniversary: A Podcast with Fernando Cervero](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/iasps-50th-anniversary-a-podcast-with-fernando-cervero/) | *Pain Research Forum*, 19 July 2024
 
 [Saints Premiership FaVoUrItEs, Most Goals but never First](https://uselessaflstats.buzzsprout.com/2211261/15377813-30-saints-premiership-favourites-most-goals-but-never-first) | *Useless AFL Stats*, 8 July 2024

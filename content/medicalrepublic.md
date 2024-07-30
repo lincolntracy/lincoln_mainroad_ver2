@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Could gut health influence fibromyalgia?](https://www.gutrepublic.com.au/could-gut-health-influence-fibromyalgia/292) | *Gut Republic*, 30 July 2024
+
 [Victorian Virtual ED opens new diabetes service](https://www.healthservicesdaily.com.au/victorian-virtual-ed-opens-new-diabetes-service/17479) | *Health Services Daily*, 26 July 2024
 
 [$19m for mRNA technology research projects](https://www.healthservicesdaily.com.au/19m-for-mrna-technology-research-projects/17482) | *Health Services Daily*, 26 July 2024

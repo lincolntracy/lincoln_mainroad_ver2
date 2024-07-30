@@ -12,6 +12,8 @@ menu:
 A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2024
+[People Who Have Never Had a Headache: What Explains It? A Conversation with Isa Amalie Olofsson and Thomas Folkmann Hansen](https://migrainecollaborative.org/people-who-have-never-had-a-headache-what-explains-it-a-conversation-with-isa-amalie-olofsson-and-thomas-folkmann-hansen) | *Migraine Science Collaborative*, 30 July 2024
+
 [The Representation of Pain in Adolescent Media: What You See Isn’t Always What You Get](https://migrainecollaborative.org/the-representation-of-pain-in-adolescent-media-what-you-see-isnt-always-what-you-get) | *Migraine Science Collaborative*, 24 July 2024
 
 [Automating Mechanical Stimuli Delivery in Behavioral Testing](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/automating-mechanical-stimuli-delivery-in-behavioral-testing/) | *Pain Research Forum*, 20 June 2024
