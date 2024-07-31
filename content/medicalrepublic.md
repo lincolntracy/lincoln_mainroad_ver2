@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Australia launches new peanut allergy treatment program](https://www.puffnstuff.com.au/australia-launches-new-peanut-allergy-treatment-program/83225) | *Allergy & Respiratory Republic*, 31 July 2024
+
+[Fingers fail to accurately assess anal sphincter tone](https://www.medicalrepublic.com.au/fingers-fail-to-accurately-assess-anal-sphincter-tone/109495) | *The Medical Republic*, 31 July 2024
+
 [Could gut health influence fibromyalgia?](https://www.gutrepublic.com.au/could-gut-health-influence-fibromyalgia/292) | *Gut Republic*, 30 July 2024
 
 [Victorian Virtual ED opens new diabetes service](https://www.healthservicesdaily.com.au/victorian-virtual-ed-opens-new-diabetes-service/17479) | *Health Services Daily*, 26 July 2024
