@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Uveitis treatment added to PBS](https://www.rheuma.com.au/uveitis-treatment-added-to-pbs/26674) | *Rheumatology Republic*, 1 August 2024
+
+[Patellar shape linked to knee OA](https://www.rheuma.com.au/patellar-shape-linked-to-knee-oa/26655) | *Rheumatology Republic*, 1 August 2024
+
 [Australia launches new peanut allergy treatment program](https://www.puffnstuff.com.au/australia-launches-new-peanut-allergy-treatment-program/83225) | *Allergy & Respiratory Republic*, 31 July 2024
 
 [Fingers fail to accurately assess anal sphincter tone](https://www.medicalrepublic.com.au/fingers-fail-to-accurately-assess-anal-sphincter-tone/109495) | *The Medical Republic*, 31 July 2024
