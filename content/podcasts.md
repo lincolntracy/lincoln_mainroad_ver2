@@ -12,6 +12,8 @@ menu:
 A collection of podcasts I have produced and/or hosted through freelance/contract work and volunteering.
 
 ## 2024
+[Sydney's terrible, horrible, no good, very bad day](https://uselessaflstats.buzzsprout.com/2211261/15531726-33-sydney-s-terrible-horrible-no-good-very-bad-day) | *Useless AFL Stats*, 5 August 2024
+
 [TrackMyBrown's Adam Keily](https://uselessaflstats.buzzsprout.com/2211261/15492892-32-ft-trackmybrown-s-adam-keily) | *Useless AFL Stats*, 30 July 2024
 
 [Doctor Statsman Flies Solo](https://uselessaflstats.buzzsprout.com/2211261/15451791-31-doctor-statsman-flies-solo) | *Useless AFL Stats*, 22 July 2024

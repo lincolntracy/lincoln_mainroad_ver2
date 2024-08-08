@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[High vitamin D protects against MS progression](https://www.medicalrepublic.com.au/high-vitamin-d-protects-against-ms-progression/109681) | *The Medical Republic*, 8 August 2024
+
+[New innovation centre in hearing and vision loss launched](https://www.healthservicesdaily.com.au/new-innovation-centre-in-hearing-and-vision-loss-launched/17931) | *Health Services Daily*, 8 August 2024
+
 [Uveitis treatment added to PBS](https://www.rheuma.com.au/uveitis-treatment-added-to-pbs/26674) | *Rheumatology Republic*, 1 August 2024
 
 [Patellar shape linked to knee OA](https://www.rheuma.com.au/patellar-shape-linked-to-knee-oa/26655) | *Rheumatology Republic*, 1 August 2024
