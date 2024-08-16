@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Help! for addiction can be just a phone call away](https://www.medicalrepublic.com.au/help-for-addiction-can-be-just-a-phone-call-away/109857) | *The Medical Republic*, 15 August 2024
+
+[New framework for enabling tech in aged care released](https://www.healthservicesdaily.com.au/new-framework-for-enabling-tech-in-aged-care-released/17976) | *Health Services Daily*, 9 August 2024
+
 [High vitamin D protects against MS progression](https://www.medicalrepublic.com.au/high-vitamin-d-protects-against-ms-progression/109681) | *The Medical Republic*, 8 August 2024
 
 [New innovation centre in hearing and vision loss launched](https://www.healthservicesdaily.com.au/new-innovation-centre-in-hearing-and-vision-loss-launched/17931) | *Health Services Daily*, 8 August 2024
