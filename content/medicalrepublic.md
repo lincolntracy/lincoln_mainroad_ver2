@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Mental health reform: pick something and stick to it](https://www.medicalrepublic.com.au/mental-health-reform-pick-something-and-stick-to-it/110034) | *The Medical Republic*, 22 August 2024
+
+[Medications for alcohol use disorder: the time is now](https://www.medicalrepublic.com.au/medications-for-alcohol-use-disorder-the-time-is-now/110030) | *The Medical Republic*, 22 August 2024
+
+[Choice of first opioid predicts long-term use](https://www.medicalrepublic.com.au/choice-of-first-opioid-predicts-long-term-use/109982) | *The Medical Republic*, 22 August 2024
+
 [Help! for addiction can be just a phone call away](https://www.medicalrepublic.com.au/help-for-addiction-can-be-just-a-phone-call-away/109857) | *The Medical Republic*, 15 August 2024
 
 [New framework for enabling tech in aged care released](https://www.healthservicesdaily.com.au/new-framework-for-enabling-tech-in-aged-care-released/17976) | *Health Services Daily*, 9 August 2024

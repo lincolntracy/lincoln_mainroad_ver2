@@ -12,6 +12,10 @@ menu:
 A collection of podcasts I have produced and/or hosted through freelance/contract work and volunteering.
 
 ## 2024
+[Quadruple Doubles, Highest Point Team Results + Heppell's Snub](https://uselessaflstats.buzzsprout.com/2211261/15599858-35-quadruple-doubles-highest-point-team-results-heppell-s-snub) | *Useless AFL Stats*, 18 August 2024
+
+[333 Danger Votes, St.Kilda positive record, Daniher's Breaking Record](https://uselessaflstats.buzzsprout.com/2211261/15573216-34-333-danger-votes-st-kilda-positive-record-daniher-s-breaking-record) | *Useless AFL Stats*, 13 August 2024
+
 [Sydney's terrible, horrible, no good, very bad day](https://uselessaflstats.buzzsprout.com/2211261/15531726-33-sydney-s-terrible-horrible-no-good-very-bad-day) | *Useless AFL Stats*, 5 August 2024
 
 [TrackMyBrown's Adam Keily](https://uselessaflstats.buzzsprout.com/2211261/15492892-32-ft-trackmybrown-s-adam-keily) | *Useless AFL Stats*, 30 July 2024
