@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[The gift that keeps giving you cancer](https://www.medicalrepublic.com.au/the-gift-that-keeps-giving-you-cancer/110118) | *The Medical Republic*, 26 August 2024
+
 [Mental health reform: pick something and stick to it](https://www.medicalrepublic.com.au/mental-health-reform-pick-something-and-stick-to-it/110034) | *The Medical Republic*, 22 August 2024
 
 [Medications for alcohol use disorder: the time is now](https://www.medicalrepublic.com.au/medications-for-alcohol-use-disorder-the-time-is-now/110030) | *The Medical Republic*, 22 August 2024
