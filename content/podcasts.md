@@ -12,6 +12,8 @@ menu:
 A collection of podcasts I have produced and/or hosted through freelance/contract work and volunteering.
 
 ## 2024
+[BrownMo Winner, Golden Jetta, West Coasts Record Comeback](https://uselessaflstats.buzzsprout.com/2211261/15649100-36-brownmo-winner-golden-jetta-west-coasts-record-comeback) | *Useless AFL Stats*, 27 August 2024
+
 [Quadruple Doubles, Highest Point Team Results + Heppell's Snub](https://uselessaflstats.buzzsprout.com/2211261/15599858-35-quadruple-doubles-highest-point-team-results-heppell-s-snub) | *Useless AFL Stats*, 18 August 2024
 
 [333 Danger Votes, St.Kilda positive record, Daniher's Breaking Record](https://uselessaflstats.buzzsprout.com/2211261/15573216-34-333-danger-votes-st-kilda-positive-record-daniher-s-breaking-record) | *Useless AFL Stats*, 13 August 2024

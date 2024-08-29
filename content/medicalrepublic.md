@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Boxing, writing can help survivors of trauma and abuse](https://www.medicalrepublic.com.au/boxing-writing-can-help-survivors-of-trauma-and-abuse/110211) | *The Medical Republic*, 29 August 2024
+
+[New report reinforces calls for Victorian nicotine licensing scheme](https://www.healthservicesdaily.com.au/new-report-reinforces-calls-for-victorian-nicotine-licensing-scheme/18870) | *Health Services Daily*, 29 August 2024
+
+[Whooping cough numbers rapidly approaching 10-year high](https://www.puffnstuff.com.au/whooping-cough-numbers-rapidly-approaching-10-year-high/83709) | *Allergy & Respiratory Republic*, 28 August 2024
+
 [The gift that keeps giving you cancer](https://www.medicalrepublic.com.au/the-gift-that-keeps-giving-you-cancer/110118) | *The Medical Republic*, 26 August 2024
 
 [Mental health reform: pick something and stick to it](https://www.medicalrepublic.com.au/mental-health-reform-pick-something-and-stick-to-it/110034) | *The Medical Republic*, 22 August 2024
