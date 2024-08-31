@@ -33,4 +33,4 @@ Feel free to reach out and connect if you share my passion for storytelling, dat
 
 I'm most active on X (the plaform formerly known as Twitter) - [@lincolntracy](https://twitter.com/lincolntracy), but you can also find me on [Linkedin](https://www.linkedin.com/in/lincolntracy), [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=aNS-g-AAAAAJ), and [Tableau Public](https://public.tableau.com/app/profile/lincoln.tracy/vizzes), among other places. 
 
-You can find a copy of my short CV [here](/files/content/about/CV_Lincoln-TRACY_August2024.pdf). 
+You can find a copy of my short CV [here](/files/content/about/CV_Lincoln-TRACY_September2024.pdf). 

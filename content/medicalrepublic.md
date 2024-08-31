@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[UNSW, Prince of Wales open new integrated services facility](https://www.healthservicesdaily.com.au/unsw-prince-of-wales-open-new-integrated-services-facility/18980) | *Health Services Daily*, 30 August 2024
+
+[HESTA Excellence Awards: see who won](https://www.healthservicesdaily.com.au/hesta-excellence-awards-see-who-won/18974) | *Health Services Daily*, 30 August 2024
+
 [Boxing, writing can help survivors of trauma and abuse](https://www.medicalrepublic.com.au/boxing-writing-can-help-survivors-of-trauma-and-abuse/110211) | *The Medical Republic*, 29 August 2024
 
 [New report reinforces calls for Victorian nicotine licensing scheme](https://www.healthservicesdaily.com.au/new-report-reinforces-calls-for-victorian-nicotine-licensing-scheme/18870) | *Health Services Daily*, 29 August 2024
