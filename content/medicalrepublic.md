@@ -12,6 +12,14 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[New HIV cases increased in 2023](https://www.medicalrepublic.com.au/new-hiv-cases-increased-in-2023/110435) | *The Medical Republic*, 5 September 2024
+
+[Pregnancy after stem cell transplantation rare but safe](https://www.oncologyrepublic.com.au/pregnancy-after-stem-cell-transplantation-rare-but-safe/4656) | *Oncology Republic*, 5 September 2024
+
+[New rural derm training model in works](https://www.dermatologyrepublic.com.au/new-rural-derm-training-model-in-works/2937) | *Dermatology Republic*, 4 September 2024
+
+[Hitting snooze on weekends improves heart health](https://www.medicalrepublic.com.au/hitting-snooze-on-weekends-improves-heart-health/110334) | *The Medical Republic*, 3 September 2024
+
 [UNSW, Prince of Wales open new integrated services facility](https://www.healthservicesdaily.com.au/unsw-prince-of-wales-open-new-integrated-services-facility/18980) | *Health Services Daily*, 30 August 2024
 
 [HESTA Excellence Awards: see who won](https://www.healthservicesdaily.com.au/hesta-excellence-awards-see-who-won/18974) | *Health Services Daily*, 30 August 2024
