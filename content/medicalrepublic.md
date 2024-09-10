@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Australia in midst of PrEP shortage](https://www.medicalrepublic.com.au/australia-in-midst-of-prep-shortage/110466) | *The Medical Republic*, 6 September 2024
+
 [New HIV cases increased in 2023](https://www.medicalrepublic.com.au/new-hiv-cases-increased-in-2023/110435) | *The Medical Republic*, 5 September 2024
 
 [Pregnancy after stem cell transplantation rare but safe](https://www.oncologyrepublic.com.au/pregnancy-after-stem-cell-transplantation-rare-but-safe/4656) | *Oncology Republic*, 5 September 2024
