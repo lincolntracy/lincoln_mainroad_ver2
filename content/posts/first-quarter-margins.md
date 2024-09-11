@@ -99,3 +99,7 @@ Brisbane kicked seven goals to two in the first quarter to get out to a 32-point
 Three goals to Charlie Curnow in the first eight minutes after half time kickstarted Carlton’s second-half fightback, with the Blues going on win by a point courtesy of a clutch Harry McKay goal in the 29th minute of the last quarter. 
 
 ![full-table](/img/content/posts/full-table.png)
+
+--- 
+
+*The timeframe of this stat is limited based on what data are freely/easily available and/or accessible. Please don’t hesitate to contact me if you spot any errors in what I have presented. As always, apologies to anyone who has already looked at this stat!*
