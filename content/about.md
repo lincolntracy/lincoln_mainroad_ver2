@@ -25,7 +25,9 @@ The key skills allowing me to do this are:
 * Problem solving, intellectual curiosity, and attention to detail
 * Strong written and verbal communication skills
 
+<div>
 <iframe src="https://lincolntracy.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
 
 In recent years I have combined these skills with my love of sport to create blog and social media posts based on statistical trends and unique events using data from the AFL, BBL, and NFL. This endeavour went to the next level in May 2024, when I was invited to join the team of Facebook sensation [Useless AFL Stats](https://www.facebook.com/uselessaflstats/). 
 
