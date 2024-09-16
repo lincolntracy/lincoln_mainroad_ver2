@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[FDA approves AirPods as hearing aids](https://www.healthservicesdaily.com.au/fda-approves-airpods-as-hearing-aids/19503) | *Health Services Daily*, 13 September 2024
+
 [Government breaks silence on genetic test data use](https://www.healthservicesdaily.com.au/government-breaks-silence-on-genetic-test-data-use/19367) | *Health Services Daily*, 11 September 2024
 
 [Australia in midst of PrEP shortage](https://www.medicalrepublic.com.au/australia-in-midst-of-prep-shortage/110466) | *The Medical Republic*, 6 September 2024
