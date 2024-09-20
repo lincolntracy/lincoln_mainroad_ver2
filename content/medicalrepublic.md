@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[No need to fear breastfeeding after breast cancer](https://www.oncologyrepublic.com.au/no-need-to-fear-breastfeeding-after-breast-cancer/4679) | *The Medical Republic*, 19 September 2024
+
+[Burping: crude habit or sign of something more severe?](https://www.medicalrepublic.com.au/burping-crude-habit-or-sign-of-something-more-severe/110783) | *The Medical Republic*, 18 September 2024
+
 [FDA approves AirPods as hearing aids](https://www.healthservicesdaily.com.au/fda-approves-airpods-as-hearing-aids/19503) | *Health Services Daily*, 13 September 2024
 
 [Government breaks silence on genetic test data use](https://www.healthservicesdaily.com.au/government-breaks-silence-on-genetic-test-data-use/19367) | *Health Services Daily*, 11 September 2024

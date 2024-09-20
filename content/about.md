@@ -9,7 +9,7 @@ menu:
         weight: 10
 ---
 
-Researcher and journalist with a my passion for words, numbers, and sport.
+Researcher and journalist with a passion for words, numbers, and sport.
 
 I moved to Melbourne from regional Victoria for university and never left, following my intellectual curiosity and passion for science to pursue a Bachelor of Biomedical Science (First Class Honours) and a Doctor of Philosophy (PhD) in Psychology, which ultimately led to working for Monash University as a senior research fellow where I [lead a research program looking at burn injuries in Australia and New Zealand](https://research.monash.edu/en/persons/lincoln-tracy).
 
