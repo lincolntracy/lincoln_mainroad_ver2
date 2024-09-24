@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Smoke later, live longer?](https://www.medicalrepublic.com.au/smoke-later-live-longer/110928) | *The Medical Republic*, 24 September 2024
+
+[Lower dose infliximab just as effective as higher doses in ASUC](https://www.gutrepublic.com.au/lower-dose-infliximab-just-as-effective-as-higher-doses-in-asuc/342) | *Gut Republic*, 24 September 2024
+
 [Asthma linked to miscarriage, fertility issues](https://www.medicalrepublic.com.au/asthma-linked-to-miscarriage-fertility-issues/110968) | *The Medical Republic*, 23 September 2024
 
 [No need to fear breastfeeding after breast cancer](https://www.oncologyrepublic.com.au/no-need-to-fear-breastfeeding-after-breast-cancer/4679) | *Oncology Republic*, 19 September 2024
