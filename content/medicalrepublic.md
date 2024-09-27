@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Alternative approved as tenofovir shortage hits](https://www.medicalrepublic.com.au/alternative-approved-as-tenofovir-shortage-hits/111107) | *The Medical Republic*, 26 September 2024
+
+[New asthma and COPD medication chart released](https://www.puffnstuff.com.au/new-asthma-and-copd-medication-chart-released/84168) | *Allergy & Respiratory Republic*, 25 September 2024
+
 [Smoke later, live longer?](https://www.medicalrepublic.com.au/smoke-later-live-longer/110928) | *The Medical Republic*, 24 September 2024
 
 [Lower dose infliximab just as effective as higher doses in ASUC](https://www.gutrepublic.com.au/lower-dose-infliximab-just-as-effective-as-higher-doses-in-asuc/342) | *Gut Republic*, 24 September 2024
