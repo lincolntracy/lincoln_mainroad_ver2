@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Smaller glass, less beer drunk – right?](https://www.medicalrepublic.com.au/smaller-glass-less-beer-drunk-right/111275) | *The Medical Republic*, 1 October 2024
+
 [Alternative approved as tenofovir shortage hits](https://www.medicalrepublic.com.au/alternative-approved-as-tenofovir-shortage-hits/111107) | *The Medical Republic*, 26 September 2024
 
 [New asthma and COPD medication chart released](https://www.puffnstuff.com.au/new-asthma-and-copd-medication-chart-released/84168) | *Allergy & Respiratory Republic*, 25 September 2024
