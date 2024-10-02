@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Home-based phototherapy for psoriasis safe, effective](https://www.dermatologyrepublic.com.au/home-based-phototherapy-for-psoriasis-safe-effective/3022) | *Dermatology Republic*, 2 October 2024
+
+[Skin cancer check numbers better, but still not great](https://www.dermatologyrepublic.com.au/skin-cancer-check-numbers-better-but-still-not-great/3000) | *Dermatology Republic*, 2 October 2024
+
+[Vaccine, melanoma research receives $50m boost](https://www.healthservicesdaily.com.au/vaccine-melanoma-research-receives-50m-boost/20173) | *Health Services Daily*, 2 October 2024
+
 [Smaller glass, less beer drunk – right?](https://www.medicalrepublic.com.au/smaller-glass-less-beer-drunk-right/111275) | *The Medical Republic*, 1 October 2024
 
 [Alternative approved as tenofovir shortage hits](https://www.medicalrepublic.com.au/alternative-approved-as-tenofovir-shortage-hits/111107) | *The Medical Republic*, 26 September 2024
