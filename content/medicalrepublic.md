@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[New climate change think tank announced](https://www.healthservicesdaily.com.au/new-climate-change-think-tank-announced/20218) | *Health Services Daily*, 3 October 2024
+
+[Aged care performance stalling: ACQSC](https://www.healthservicesdaily.com.au/aged-care-performance-stalling-acqsc/20221) | *Health Services Daily*, 3 October 2024
+
 [Home-based phototherapy for psoriasis safe, effective](https://www.dermatologyrepublic.com.au/home-based-phototherapy-for-psoriasis-safe-effective/3022) | *Dermatology Republic*, 2 October 2024
 
 [Skin cancer check numbers better, but still not great](https://www.dermatologyrepublic.com.au/skin-cancer-check-numbers-better-but-still-not-great/3000) | *Dermatology Republic*, 2 October 2024
