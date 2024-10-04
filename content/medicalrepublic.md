@@ -12,6 +12,14 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Pregnancy-safe prescribing list updated](https://www.medicalrepublic.com.au/pregnancy-safe-prescribing-list-updated/111441) | *The Medical Republic*, 4 October 2024
+
+[Rural Doctors Foundation, Angel Flight partner up](https://www.healthservicesdaily.com.au/rural-doctors-foundation-angel-flight-partner-up/20262) | *Health Services Daily*, 4 October 2024
+
+[New national medtech manufacturing alliance launched](https://www.healthservicesdaily.com.au/new-national-medtech-manufacturing-alliance-launched/20271) | *Health Services Daily*, 4 October 2024
+
+[Significant gaps remain in Aussie dental care](https://www.healthservicesdaily.com.au/significant-gaps-remain-in-aussie-dental-care/20279) | *Health Services Daily*, 4 October 2024
+
 [New climate change think tank announced](https://www.healthservicesdaily.com.au/new-climate-change-think-tank-announced/20218) | *Health Services Daily*, 3 October 2024
 
 [Aged care performance stalling: ACQSC](https://www.healthservicesdaily.com.au/aged-care-performance-stalling-acqsc/20221) | *Health Services Daily*, 3 October 2024
