@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[PBAC drops OCS requirement in asthma](https://www.puffnstuff.com.au/pbac-drops-ocs-requirement-in-asthma/84408) | *Allergy & Respiratory Republic*, 9 October 2024
+
 [Pregnancy-safe prescribing list updated](https://www.medicalrepublic.com.au/pregnancy-safe-prescribing-list-updated/111441) | *The Medical Republic*, 4 October 2024
 
 [Rural Doctors Foundation, Angel Flight partner up](https://www.healthservicesdaily.com.au/rural-doctors-foundation-angel-flight-partner-up/20262) | *Health Services Daily*, 4 October 2024
