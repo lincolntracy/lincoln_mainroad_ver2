@@ -12,6 +12,14 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Bimekizumab added to PBS for PsA and axSpA patients](https://www.rheuma.com.au/bimekizumab-added-to-pbs-for-psa-and-axspa-patients/26812) | *Rheumatology Republic*, 10 October 2024
+
+[Haleon, USyd team up for new osteoarthritis fellowship](https://www.rheuma.com.au/haleon-usyd-team-up-for-new-osteoarthritis-fellowship/26816) | *Rheumatology Republic*, 10 October 2024
+
+[TGA, South African regulators sign MoU](https://www.healthservicesdaily.com.au/tga-south-african-regulators-sign-mou/20461) | *Health Services Daily*, 10 October 2024
+
+[ARIIA receives a further $13m in funding](https://www.healthservicesdaily.com.au/ariia-receives-a-further-13m-in-funding/20458) | *Health Services Daily*, 10 October 2024
+
 [PBAC drops OCS requirement in asthma](https://www.puffnstuff.com.au/pbac-drops-ocs-requirement-in-asthma/84408) | *Allergy & Respiratory Republic*, 9 October 2024
 
 [Pregnancy-safe prescribing list updated](https://www.medicalrepublic.com.au/pregnancy-safe-prescribing-list-updated/111441) | *The Medical Republic*, 4 October 2024
