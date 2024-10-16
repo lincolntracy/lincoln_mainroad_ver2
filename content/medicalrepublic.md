@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Aussie research confirms melanoma ‘cycle of overdetection’](https://www.dermatologyrepublic.com.au/aussie-research-confirms-melanoma-cycle-of-overdetection/3045) | *Dermatology Republic*, 16 October 2024
+
+[‘More guidance needed’ in colonoscopy care standard](https://www.medicalrepublic.com.au/more-guidance-needed-in-colonoscopy-care-standard/111666) | *The Medical Republic*, 14 October 2024
+
+[Can arm position affect blood pressure readings?](https://www.medicalrepublic.com.au/can-arm-position-affect-blood-pressure-readings/111664) | *The Medical Republic*, 14 October 2024
+
 [Bimekizumab added to PBS for PsA and axSpA patients](https://www.rheuma.com.au/bimekizumab-added-to-pbs-for-psa-and-axspa-patients/26812) | *Rheumatology Republic*, 10 October 2024
 
 [Haleon, USyd team up for new osteoarthritis fellowship](https://www.rheuma.com.au/haleon-usyd-team-up-for-new-osteoarthritis-fellowship/26816) | *Rheumatology Republic*, 10 October 2024

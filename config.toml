@@ -47,6 +47,7 @@ googleAnalytics = "UA-150393564-1"
 [Params.widgets.social] 
   twitter = "lincolntracy"
   linkedin = "lincolntracy"
+  instagram = "lincolnmtracy"
   email = "dr.lincoln.m.tracy@gmail.com"
 
 [markup]
