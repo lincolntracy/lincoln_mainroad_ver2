@@ -1,7 +1,6 @@
 ---
 title: "Is Embiid Done with Back-to-Back Games? "
 date: 2024-10-18T09:00:00+11:00
-draft: true
 categories:
  - "Blog"
 tags:
