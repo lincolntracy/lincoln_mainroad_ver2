@@ -21,6 +21,6 @@ The move is all part of a larger plan to ensure Embiid is fit and healthy when p
 
 But injuries haven’t only affected Embiid’s availability and impact during the playoffs. The Cameroonian-born seven-footer missed the entirety...
 
-[**Read more on Substack**](https://lincolntracy.substack.com/p/)
+[**Read more on Substack**](https://lincolntracy.substack.com/p/is-embiid-done-with-back-to-back)
 
 <iframe src="https://lincolntracy.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
