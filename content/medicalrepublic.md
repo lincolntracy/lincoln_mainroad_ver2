@@ -12,6 +12,12 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Bright light therapy helps in non-seasonal depression](https://www.medicalrepublic.com.au/bright-light-therapy-helps-in-non-seasonal-depression/111752) | *The Medical Republic*, 17 October 2024
+
+[Breast cancer drug also work for appendiceal cancer](https://www.oncologyrepublic.com.au/breast-cancer-drug-also-work-for-appendiceal-cancer/4737) | *Oncology Republic*, 17 October 2024
+
+[Combination blood cancer treatment added to PBS](https://www.oncologyrepublic.com.au/combination-blood-cancer-treatment-added-to-pbs/4735) | *Oncology Republic*, 17 October 2024
+
 [Aussie research confirms melanoma ‘cycle of overdetection’](https://www.dermatologyrepublic.com.au/aussie-research-confirms-melanoma-cycle-of-overdetection/3045) | *Dermatology Republic*, 16 October 2024
 
 [‘More guidance needed’ in colonoscopy care standard](https://www.medicalrepublic.com.au/more-guidance-needed-in-colonoscopy-care-standard/111666) | *The Medical Republic*, 14 October 2024
