@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Who are health’s top innovators? See the list](https://www.healthservicesdaily.com.au/who-are-healths-top-innovators-see-the-list/20805) | *Health Services Daily*, 18 October 2024
+
 [Bright light therapy helps in non-seasonal depression](https://www.medicalrepublic.com.au/bright-light-therapy-helps-in-non-seasonal-depression/111752) | *The Medical Republic*, 17 October 2024
 
 [Breast cancer drug also work for appendiceal cancer](https://www.oncologyrepublic.com.au/breast-cancer-drug-also-work-for-appendiceal-cancer/4737) | *Oncology Republic*, 17 October 2024
