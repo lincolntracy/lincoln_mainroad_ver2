@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[Men in pain depend on opioids, women not so much](https://www.medicalrepublic.com.au/men-in-pain-depend-on-opioids-women-not-so-much/111829) | *The Medical Republic*, 21 October 2024
+
+[Who should take testosterone in menopause](https://www.medicalrepublic.com.au/who-should-take-testosterone-in-menopause/111826) | *The Medical Republic*, 21 October 2024
+
 [Who are health’s top innovators? See the list](https://www.healthservicesdaily.com.au/who-are-healths-top-innovators-see-the-list/20805) | *Health Services Daily*, 18 October 2024
 
 [Bright light therapy helps in non-seasonal depression](https://www.medicalrepublic.com.au/bright-light-therapy-helps-in-non-seasonal-depression/111752) | *The Medical Republic*, 17 October 2024
