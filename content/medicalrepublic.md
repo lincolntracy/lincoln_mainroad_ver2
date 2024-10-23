@@ -12,6 +12,10 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[A digital health asset is a lifelong responsibility](https://www.healthservicesdaily.com.au/a-digital-health-asset-is-a-lifelong-responsibility/21006) | *Health Services Daily*, 23 October 2024
+
+['Make it easier for me': the pathway to connected care](https://www.healthservicesdaily.com.au/make-it-easier-for-me-the-pathway-to-connected-care/20928) | *Health Services Daily*, 22 October 2024
+
 [Men in pain depend on opioids, women not so much](https://www.medicalrepublic.com.au/men-in-pain-depend-on-opioids-women-not-so-much/111829) | *The Medical Republic*, 21 October 2024
 
 [Who should take testosterone in menopause](https://www.medicalrepublic.com.au/who-should-take-testosterone-in-menopause/111826) | *The Medical Republic*, 21 October 2024
