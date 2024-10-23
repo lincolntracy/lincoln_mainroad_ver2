@@ -12,13 +12,15 @@ menu:
 ## Peer-Reviewed Publications
 
 ### Accepted/In press
-Sharp S, **Tracy LM**, Singer Y, Schnekenburger M, Burrell A, Paton A, Salerno S, & Holden D (accepted 20/09/2024). Early Acute Kidney Injury in Adult Patients with Burns in Australia & New Zealand. *Journal of Surgical Research*. 
+
 
 Capell EL, Kazis LE, Gabbe BJ, **Tracy LM**, Ryan CM, Slavin MD, Singer Y, Ryan T, Scott H, Bailey HM, Vasudevan A, Ni P, & Edgar D (accepted 29/06/2024).  [Measuring the Social Impact of Burn injuries in Australia: An Adaptation of the Life Impact Burn Recovery Evaluation - The Aus-LIBRE Profile](https://academic.oup.com/jbcr/advance-article-abstract/doi/10.1093/jbcr/irae134/7701753). *Journal of Burn Care & Research*. doi: 10.1093/jbcr/irae134. 
 
 Bebbington E, Miles J, Young A, van Baar ME, Bernal N, Brekke RL, van Dammen L, Elmasry M, Inoue Y, McMullen KA, Paton L, Thamm OC, **Tracy LM**, Zia N, Singer Y, & Dunn K (accepted 11/01/2024). [Exploring the similarities and differences of burn registers globally: Results from a data dictionary comparison study](https://www.sciencedirect.com/science/article/abs/pii/S0305417924000056). *Burns*. doi: 10.1016/j.burns.2024.01.004
 
 ### 2024
+Sharp S, **Tracy LM**, Singer Y, Schnekenburger M, Burrell A, Paton A, Salerno S, & Holden D (2024). [Early Acute Kidney Injury in Adult Patients with Burns in Australia & New Zealand](https://www.journalofsurgicalresearch.com/article/S0022-4804(24)00601-2/abstract). *Journal of Surgical Research*, 303; 482-488. doi: 10.1016/j.jss.2024.09.053 
+
 Cleland H, Stewardson A, Padiglione A, & **Tracy LM** (2024). [Bloodstream infections and multidrug resistant bacteria acquisition among burns patients in Australia and New Zealand: A registry-based study](https://www.sciencedirect.com/science/article/abs/pii/S0305417924000883). *Burns*, 50(6): 1544-1554. doi: 10.1016/j.burns.2024.03.017
 
 Perkins M, Cleland H, Gabbe BJ & **Tracy LM** (2024). [Concordance between coding sources of burn size and depth across Australian and New Zealand specialist burn services](https://journals.sagepub.com/doi/10.1177/18333583221135710). *Health Information Management Journal*, 53(2): 129-136. doi: 10.1177/18333583221135710 
