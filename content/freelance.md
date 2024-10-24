@@ -12,6 +12,8 @@ menu:
 A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2024
+[Pain-Related Suffering: A Definition and Way to Think About It](https://migrainecollaborative.org/pain-related-suffering-a-definition-and-way-to-think-about-it) | *Migraine Science Collaborative*, 24 October 2024
+
 [Single-Point Mutations in Piezo2 Lead to Increased Mechanical Pain Sensitivity](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/single-point-mutations-in-piezo2-lead-to-increased-mechanical-pain-sensitivity/) | *Pain Research Forum*, 23 September 2024
 
 [People Who Have Never Had a Headache: What Explains It? A Conversation with Isa Amalie Olofsson and Thomas Folkmann Hansen](https://migrainecollaborative.org/people-who-have-never-had-a-headache-what-explains-it-a-conversation-with-isa-amalie-olofsson-and-thomas-folkmann-hansen) | *Migraine Science Collaborative*, 30 July 2024
