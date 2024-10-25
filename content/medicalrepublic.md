@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[National skin cancer screening plan gets $10m boost](https://www.medicalrepublic.com.au/national-skin-cancer-screening-plan-gets-10m-boost/111952) | *The Medical Republic*, 25 October 2024
+
 [A digital health asset is a lifelong responsibility](https://www.healthservicesdaily.com.au/a-digital-health-asset-is-a-lifelong-responsibility/21006) | *Health Services Daily*, 23 October 2024
 
 ['Make it easier for me': the pathway to connected care](https://www.healthservicesdaily.com.au/make-it-easier-for-me-the-pathway-to-connected-care/20928) | *Health Services Daily*, 22 October 2024
