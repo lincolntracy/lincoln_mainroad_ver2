@@ -12,10 +12,6 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
-[Odds and ends from the World Congress on Menopause](https://www.medicalrepublic.com.au/odds-and-ends-from-the-world-congress-on-menopause/112164) | *The Medical Republic*, 31 October 2024
-
-[Spotting CVD without the SMuRFs](https://www.medicalrepublic.com.au/spotting-cvd-without-the-smurfs/112151) | *The Medical Republic*, 31 October 2024
-
 [New POI guidelines on horizon](https://www.medicalrepublic.com.au/new-poi-guidelines-on-horizon/111989) | *The Medical Republic*, 28 October 2024
 
 [Early menopause diagnosis ‘leaves you very disempowered’](https://www.medicalrepublic.com.au/early-menopause-diagnosis-leaves-you-very-disempowered/111970) | *The Medical Republic*, 28 October 2024
