@@ -12,10 +12,6 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
-[New POI guidelines on horizon](https://www.medicalrepublic.com.au/new-poi-guidelines-on-horizon/111989) | *The Medical Republic*, 28 October 2024
-
-[Early menopause diagnosis ‘leaves you very disempowered’](https://www.medicalrepublic.com.au/early-menopause-diagnosis-leaves-you-very-disempowered/111970) | *The Medical Republic*, 28 October 2024
-
 [National skin cancer screening plan gets $10m boost](https://www.medicalrepublic.com.au/national-skin-cancer-screening-plan-gets-10m-boost/111952) | *The Medical Republic*, 25 October 2024
 
 [A digital health asset is a lifelong responsibility](https://www.healthservicesdaily.com.au/a-digital-health-asset-is-a-lifelong-responsibility/21006) | *Health Services Daily*, 23 October 2024
