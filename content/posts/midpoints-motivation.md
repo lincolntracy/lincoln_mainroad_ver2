@@ -1,6 +1,6 @@
 ---
 title: "Midpoints and Motivation"
-date: 2024-11-01T14:00:00+11:00
+date: 2024-11-01T08:00:00+11:00
 categories:
  - "Blog"
 tags:
