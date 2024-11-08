@@ -39,6 +39,6 @@ In recent years I have combined these skills with my love of sport to create blo
 
 Feel free to reach out and connect if you share my passion for storytelling, data analytics and visualisation, or sports.
 
-I'm most active on X (Twitter) - [@lincolntracy](https://twitter.com/lincolntracy), but you can also find me on [LinkedIn](https://www.linkedin.com/in/lincolntracy), [Instagram](https://www.instagram.com/lincolnmtracy/), [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=aNS-g-AAAAAJ), and [Tableau Public](https://public.tableau.com/app/profile/lincoln.tracy/vizzes), among other places. 
+I'm most active on Twitter/X - [@lincolntracy](https://twitter.com/lincolntracy), but you can also find me on [LinkedIn](https://www.linkedin.com/in/lincolntracy), [Instagram](https://www.instagram.com/lincolnmtracy/), [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=aNS-g-AAAAAJ), and [Tableau Public](https://public.tableau.com/app/profile/lincoln.tracy/vizzes), among other places. 
 
 You can find a copy of my short CV [here](/files/content/about/CV_Lincoln-TRACY_November2024.pdf). 

@@ -12,6 +12,8 @@ menu:
 A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2024
+[Establishing a Role for the Rostral Ventral Medulla in Morphine Analgesia](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/establishing-a-role-for-the-rostral-ventral-medulla-in-morphine-analgesia/) | *Pain Research Forum*, November 8 2024
+
 [Pain-Related Suffering: A Definition and Way to Think About It](https://migrainecollaborative.org/pain-related-suffering-a-definition-and-way-to-think-about-it) | *Migraine Science Collaborative*, 24 October 2024
 
 [Single-Point Mutations in Piezo2 Lead to Increased Mechanical Pain Sensitivity](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/single-point-mutations-in-piezo2-lead-to-increased-mechanical-pain-sensitivity/) | *Pain Research Forum*, 23 September 2024

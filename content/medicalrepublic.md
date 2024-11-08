@@ -12,6 +12,8 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[PBAC brings more relief to rheum patients](https://www.rheuma.com.au/pbac-brings-more-relief-to-rheum-patients/26861) | *Rheumatology Republic*, 7 November 2024
+
 [New genomic test for whooping cough](https://puffnstuff.com.au/new-genomic-test-for-whooping-cough/84953) | *Allergy & Respiratory Republic*, 6 November 2024
 
 [New POI guidelines on horizon](https://www.medicalrepublic.com.au/new-poi-guidelines-on-horizon/111989) | *The Medical Republic*, 28 October 2024
