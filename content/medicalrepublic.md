@@ -12,6 +12,20 @@ menu:
 A collection of articles I have written while working for The Medical Republic. 
 
 ## 2024
+[T2D remission the ‘best-case scenario’](https://www.medicalrepublic.com.au/t2d-remission-the-best-case-scenario/112574) | *The Medical Republic*, 18 November 2024
+
+[Medicines Australia looks to the horizon](https://www.healthservicesdaily.com.au/medicines-australia-looks-to-the-horizon/21941) | *Health Services Daily*, 15 November 2024
+
+[Long-term osteoporosis care is all about balance](https://www.medicalrepublic.com.au/long-term-osteoporosis-care-is-all-about-balance/112492) | *The Medical Republic*, 14 November 2024
+
+[Tirzepatide safe, highly effective for three years](https://www.medicalrepublic.com.au/tirzepatide-safe-highly-effective-for-three-years/112490) | *The Medical Republic*, 14 November 2024
+
+[What’s the best model for predicting ovarian cancer risk?](https://www.oncologyrepublic.com.au/whats-the-best-model-for-predicting-ovarian-cancer-risk/4817) | *Oncology Republic*, 14 November 2024
+
+[Immune therapy linked to psoriasis in cancer patients](https://www.dermatologyrepublic.com.au/immune-therapy-linked-to-psoriasis-in-cancer-patients/3119) | *Dermatology Republic*, 13 November 2024
+
+[Skin cancer surveillance in cricketers ‘a natural fit’ for this expert](https://www.dermatologyrepublic.com.au/skin-cancer-surveillance-in-cricketers-a-natural-fit-for-this-expert/3112) | *Dermatology Republic*, 13 November 2024
+
 [PBAC brings more relief to rheum patients](https://www.rheuma.com.au/pbac-brings-more-relief-to-rheum-patients/26861) | *Rheumatology Republic*, 7 November 2024
 
 [New genomic test for whooping cough](https://puffnstuff.com.au/new-genomic-test-for-whooping-cough/84953) | *Allergy & Respiratory Republic*, 6 November 2024

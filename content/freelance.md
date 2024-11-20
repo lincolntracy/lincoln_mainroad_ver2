@@ -12,6 +12,10 @@ menu:
 A collection of articles and interviews I have produced in a freelance capacity. 
 
 ## 2024
+[Open Burn Pit Exposure Increases the Risk of Headache Disorders and Migraine in Veterans](https://migrainecollaborative.org/open-burn-pit-exposure-increases-the-risk-of-headache-disorders-and-migraine-in-veterans) | *Migraine Science Collaborative*, 20 November 2024
+
+[How clubs assess injury risk at the AFL draft and why certain players slip down the pecking order](https://www.abc.net.au/news/2024-11-19/afl-draft-injury-risk-assessment-story/104617612) | *ABC*, 19 November 2024
+
 [Establishing a Role for the Rostral Ventral Medulla in Morphine Analgesia](https://www.iasp-pain.org/publications/pain-research-forum/prf-news/establishing-a-role-for-the-rostral-ventral-medulla-in-morphine-analgesia/) | *Pain Research Forum*, November 8 2024
 
 [Pain-Related Suffering: A Definition and Way to Think About It](https://migrainecollaborative.org/pain-related-suffering-a-definition-and-way-to-think-about-it) | *Migraine Science Collaborative*, 24 October 2024
